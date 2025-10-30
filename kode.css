@@ -1,0 +1,111 @@
+/* --- Base: variabler og font --- */
+:root {
+    --code-font: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    --code-bg: #f6f8fa;
+    --code-fg: #24292f;
+    --code-border: #d0d7de;
+    --code-inline-bg: #f6f8fa;
+    --code-inline-fg: #24292f;
+    --code-shadow: 0 1px 2px rgba(0,0,0,.04), 0 4px 16px rgba(0,0,0,.04);
+    --code-accent: #0969da; /* til links/markeringer */
+  }
+  
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --code-bg: #0e1116;
+      --code-fg: #e6edf3;
+      --code-border: #30363d;
+      --code-inline-bg: #161b22;
+      --code-inline-fg: #e6edf3;
+      --code-shadow: 0 1px 2px rgba(0,0,0,.2), 0 4px 16px rgba(0,0,0,.15);
+      --code-accent: #2f81f7;
+    }
+  }
+  
+  /* --- Inline code --- */
+  code {
+    font-family: var(--code-font);
+    font-size: .95em;
+    background: var(--code-inline-bg);
+    color: var(--code-inline-fg);
+    border: 1px solid var(--code-border);
+    border-radius: .375rem; /* 6px */
+    padding: .15rem .35rem;
+    white-space: break-spaces; /* wrap i løbende tekst */
+  }
+  
+  /* Undgå dobbel-padding når code er inde i pre */
+  pre code {
+    background: transparent;
+    border: 0;
+    padding: 0;
+    color: inherit;
+  }
+  
+  /* --- Code blocks --- */
+  pre {
+    font-family: var(--code-font);
+    font-size: .925rem;
+    line-height: 1.6;
+    background: var(--code-bg);
+    color: var(--code-fg);
+    border: 1px solid var(--code-border);
+    border-radius: .5rem; /* 8px */
+    padding: 1rem 1.1rem;
+    margin: 1rem 0;
+    box-shadow: var(--code-shadow);
+    overflow: auto;            /* hor. scroll ved lange linjer */
+    -webkit-overflow-scrolling: touch;
+    tab-size: 2;               /* visuelle tabstops */
+    white-space: pre;          /* bevar formatering */
+  }
+  
+  /* Valgfrit: blødt word-wrap mode (slå til hvis du vil wrappe lange linjer) */
+  /*
+  pre {
+    white-space: pre-wrap;
+    word-break: break-word;
+  }
+  */
+  
+  /* --- Valgfrit: markeret tekst inde i code --- */
+  pre ::selection, code ::selection {
+    background: color-mix(in srgb, var(--code-accent) 30%, transparent);
+  }
+  
+  /* --- Valgfrit: simple "linjenumre" (CSS-only, kræver wrapper med data-attr) --- */
+  /* HTML-struktur:
+  <pre class="code-with-lines" data-lines="1
+  2
+  3"><code>...</code></pre>
+  */
+  .code-with-lines {
+    position: relative;
+    padding-left: 3.25rem; /* plads til linjenumre */
+  }
+  .code-with-lines::before {
+    content: attr(data-lines);
+    position: absolute;
+    top: 1rem;
+    left: .75rem;
+    text-align: right;
+    min-width: 2rem;
+    color: rgba(127,127,127,.9);
+    user-select: none;
+    white-space: pre;
+  }
+  
+  /* --- Små forbedringer --- */
+  pre, code {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  /* Links inde i code (fx kommentarede referencer) */
+  pre a, code a {
+    color: var(--code-accent);
+    text-decoration: none;
+    border-bottom: 1px dotted currentColor;
+  }
+  pre a:hover, code a:hover { text-decoration: underline; }
+  

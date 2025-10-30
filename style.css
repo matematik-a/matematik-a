@@ -1,0 +1,97 @@
+@import url("kode.css");
+
+/* ---------------------------------------------------margin for hele dokumentet */
+body {
+    margin: 3%;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+/* samme baggrundsfarve overskrift som i tabellen */
+h1 {
+  margin-bottom: 1em;
+  padding: 0.5em;
+  border: 1px solid #c7d2eb;
+  border-radius: 8px;
+
+    color: #000000;
+
+    text-align: center;
+
+    font-size: 2.5em;
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: #8da1cb;
+
+
+}
+
+
+
+/*lækker overskuelig style for tabellen */
+table {
+    width: 100%;
+   border-collapse: collapse;
+    margin-bottom: 20px;
+}   
+table th, table td {
+    border: 1px solid #c7d2eb;
+    padding: 8px;
+}
+table th {
+    background-color: #c7d2eb;
+    text-align: left;
+}
+/* ----------------------------------------------------------------------------*/
+details, summary, ul, ol, table, td, th {
+    line-height: 2;
+    font-family: cursive;
+    font-size: 22px;
+    color: #000000;
+}
+
+details {
+  margin-bottom: 1em;
+  padding: 0.5em;
+ /* border: 1px solid #c7d2eb;*/
+  border-radius: 8px;
+ /* background: #c7d2eb;*/
+}
+
+/* en anden farve for  classen "importent" */
+.red {
+    background-color: #f7a8a8; /* Et eksempel på en lys rød baggrund */
+
+  font-weight: bold;
+}
+
+.green {
+  background-color: #deebc6; /* Et eksempel på en lys rød baggrund */
+
+font-weight: bold;
+}
+
+
+#dcf7a8
+
+.white {
+  color: #000000;
+  background: #ffffff;
+  font-size: 0.9em;
+}
+
+.blue {
+  color: #000000;
+  background: #c7d2eb;
+}
+
+summary {
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.white2 {
+  color: #000000;
+  background: #ffffff;
+  font-size: 0.8em;
+}
