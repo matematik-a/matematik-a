@@ -3,83 +3,44 @@ import MarkdownIt from "https://esm.sh/markdown-it";
 Deno.serve({port: 8000}, async (req) => {
 
     const url = new URL(req.url);
-    
-    const safePath = sanitizePath(url.pathname);
-    if (!safePath) {
-        return await readMarkdownFile("forside.md");
-    }
 
-    if (safePath.endsWith(".pdf")) return await readPdfFile(safePath);
+    //skal huske prikken i filnavnet - da den viser at det er en fil i den nuværende mappe
 
-    if (safePath.endsWith(".css")) return await readCSSfile(safePath);
+    if (url.pathname.endsWith(".pdf")) return await readPdfFile("." + url.pathname);
 
-    if (safePath.endsWith(".md")) return await readMarkdownFile(safePath);
+    if (url.pathname.endsWith(".css")) return await readCSSfile("."+url.pathname);
 
-    if (safePath.endsWith(".png") || safePath.endsWith(".jpg") || safePath.endsWith(".jpeg")) {
-        return await readImageFile(safePath);
+    if (url.pathname.endsWith(".md")) return await readMarkdownFile("."+url.pathname);
+
+    if (url.pathname.endsWith(".png") || url.pathname.endsWith(".jpg") || url.pathname.endsWith(".jpeg")) {
+        return await readImageFile("." + url.pathname);
     }
 
     //hvis ingen specifik sti er angivet, returner hovedoversigten
-    return await readMarkdownFile("forside.md");
+    return await readMarkdownFile("./a/forside.md");
 
 });
 
-function sanitizePath(pathname: string): string | null {
-    try {
-        if (pathname === '/' || pathname === '') {
-            return null;
-        }
-        
-        let cleanPath = decodeURIComponent(pathname.startsWith('/') ? pathname.slice(1) : pathname);
-        
-        if (!cleanPath) {
-            return null;
-        }
-        
-        const segments = cleanPath.split('/').filter(segment => {
-            return segment !== '' && segment !== '.' && segment !== '..';
-        });
-        
-        if (cleanPath.includes('..') || cleanPath.includes('//') || cleanPath.startsWith('/')) {
-            return null;
-        }
-        
-        const safePath = segments.join('/');
-        
-        if (safePath.startsWith('/') || safePath.includes('..')) {
-            return null;
-        }
-        
-        const allowedExtensions = ['.md', '.css', '.png', '.jpg', '.jpeg', '.pdf'];
-        const hasAllowedExtension = allowedExtensions.some(ext => safePath.toLowerCase().endsWith(ext));
-        
-        if (!hasAllowedExtension) {
-            return null;
-        }
-        
-        return './' + safePath;
-    } catch {
-        return null;
-    }
+// lav en funktion der kan sortere en array af n tal i stigende orden
+function sortArray(arr: number[]): number[] {
+    arr.sort((a, b) => a - b);
+    return arr;
+    
 }
-
 
 async function readMarkdownFile(filePath: string): Promise<Response> {
 
     try {
       const markdown = await Deno.readTextFile(filePath);
       const md = new MarkdownIt({ html: true });
-      let content = md.render(markdown);
-      content = content.replace(/<script[^>]*>.*?<\/script>/gsi, '')
-              .replace(/on\w+="[^"]*"/gi, '')
-              .replace(/javascript:/gi, '');
+      const content = md.render(markdown);
   
       const html = `
       <!DOCTYPE html>
       <html lang="da">
       <head>
         <meta charset="UTF-8">
-        <title>prog valghold</title>
+        <title>MAT A</title>
         <link rel="stylesheet" href="../style.css">
       </head>
       <body>
@@ -101,7 +62,6 @@ async function readMarkdownFile(filePath: string): Promise<Response> {
 
 
 }
-    
 
 async function readCSSfile(filePath: string): Promise<Response> {
   try {

@@ -1,97 +1,79 @@
-@import url("kode.css");
+/* fed style til makupfilerne som er alm html og lister overskrifter osv. */
 
-/* ---------------------------------------------------margin for hele dokumentet */
+/* alt skal midtestilles og have en god farve og font */
+
+/* class markdown-body  skal fylde 80%  */
+.markdown-body
+ {
+
+   min-width: 80%;
+}
+
 body {
-    margin: 3%;
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
+    background-color: #aaad83;
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
-
-/* samme baggrundsfarve overskrift som i tabellen */
-h1 {
-  margin-bottom: 1em;
-  padding: 0.5em;
-  border: 1px solid #c7d2eb;
-  border-radius: 8px;
-
-    color: #000000;
-
-    text-align: center;
-
-    font-size: 2.5em;
-    margin-bottom: 20px;
-    padding: 10px;
-    background-color: #8da1cb;
+h1, h2, h3 {
+    color: #333;
 
 
 }
 
-
-
-/*lækker overskuelig style for tabellen */
-table {
-    width: 100%;
-   border-collapse: collapse;
-    margin-bottom: 20px;
-}   
-table th, table td {
-    border: 1px solid #c7d2eb;
-    padding: 8px;
+summary{
+    font-family: cursive;
+    font-size: 30px;
+    font-weight: bold;
+        margin-bottom: 15px;
+    line-height: 10px;
 }
-table th {
-    background-color: #c7d2eb;
-    text-align: left;
-}
-/* ----------------------------------------------------------------------------*/
-details, summary, ul, ol, table, td, th {
-    line-height: 2;
+
+details, ul, ol, table, td, th {
+
     font-family: cursive;
     font-size: 22px;
-    color: #000000;
+    color: #144914;
+    /* background-color: lightblue; */
+        background-color: #aaac98;
+
 }
 
+table, td, th {
+    margin: 20px 0;
+    padding: 10px;
+    border: 1px solid #144914;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 20px 0;
+}
+
+/*
 details {
   margin-bottom: 1em;
   padding: 0.5em;
- /* border: 1px solid #c7d2eb;*/
+  border: 1px solid #aaad83;
   border-radius: 8px;
- /* background: #c7d2eb;*/
-}
-
-/* en anden farve for  classen "importent" */
-.red {
-    background-color: #f7a8a8; /* Et eksempel på en lys rød baggrund */
-
-  font-weight: bold;
-}
-
-.green {
-  background-color: #deebc6; /* Et eksempel på en lys rød baggrund */
-
-font-weight: bold;
-}
-
-
-#dcf7a8
-
-.white {
-  color: #000000;
-  background: #ffffff;
-  font-size: 0.9em;
-}
-
-.blue {
-  color: #000000;
-  background: #c7d2eb;
+  background: #aaad83;
 }
 
 summary {
   font-weight: bold;
   cursor: pointer;
 }
+*/
 
-.white2 {
-  color: #000000;
-  background: #ffffff;
-  font-size: 0.8em;
+/* billeder skal centreres horisontalt*/ 
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
 }
