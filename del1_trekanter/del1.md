@@ -64,7 +64,7 @@ window.MathJax = {
 
 
 <details>
-  <summary><center>Vinkel mellem to linjer (ved flere trekanter)</center></summary>
+  <summary><center>Vinkel mellem to linjer (står ikke i bogen!)</center></summary>
 
 <p align="center">Nogen steder på nettet kan "vertical angles theorem" findes - på dansk "modstående vinkler er lige store". </br>
 Dette gælder når to linjer skærer hinanden, at de modstående vinkler er lige store.</p>
@@ -79,6 +79,24 @@ Se eksempel:</p>
 <p align="center">Beklager det dårlige billede :-)</p>
 
 </details>
+
+
+</br>
+
+
+
+<details>
+<!-- centrer tekst men ikke selve summary -->
+  <summary><center> Ensvinklede trekanter (bog kap 6.2)</center></summary>
+
+![](/del1_trekanter/ensvinklede.png)
+
+<p align="center">Hvis to trekanter er ensvinklede, så gælder der at: </br></br>  \( \Large \frac{a_1}{a} = \frac{b_1}{b} = \frac{c_1}{c}\) </p>
+<p align="center">Dvs. at der er en konstant k så : </br></br> \( a_1 = k \cdot a\), \( b_1 = k \cdot b\) og \( c_1 = k \cdot c\) </p>
+
+
+</details>
+
 
 
 </br>
