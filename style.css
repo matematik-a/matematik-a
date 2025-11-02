@@ -32,11 +32,15 @@ summary{
     line-height: 10px;
 }
 
+details {
+    background-color: #9a9e79;
+}
+
 details, ul, ol, table, td, th {
     font-size: 22px;
     color: #144914;
     /* background-color: lightblue; */
-        background-color: #aaac98;
+      /* background-color: #aaac98; */
 
 }
 

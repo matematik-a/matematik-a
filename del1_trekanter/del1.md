@@ -17,7 +17,7 @@ window.MathJax = {
 </style>
 
 
-# Matematik A - Del 1
+# Matematik A - Trigonometri - del 1
 # Grundlæggende viden om trekanter
 
 ---
@@ -115,12 +115,15 @@ Se eksempel:</p>
 ---
 
 
-## Aflevering 1 : ... kommer snart
+## Aflevering 1 :
+- Inden næste uge skal I aflevere : [aflevering 1 - grundlæggende viden om trekanter](/afleveringer/afl1.pdf)
 
 ---
 
-## Lektier til næste gang : ... kommer snart
-
+## Lektier til næste gang :
+- skim : kap. 6.1 til 6.2 i plus A.
+- læs  : kap. 6.4,i plus A. (cos, sin og tan) 
+- download maple og installer det på jeres computer.
 
 
 
