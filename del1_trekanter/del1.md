@@ -26,6 +26,8 @@ window.MathJax = {
 
 ---
 
+## Teori
+
 <details>
   <summary><center>Navngivning : vilkårlige trekanter</br></center></summary>
 
@@ -127,6 +129,32 @@ Se eksempel:</p>
 
 ---
 
+## Eksempel
+
+</br>
+
+
+
+<details>
+<!-- centrer tekst men ikke selve summary -->
+  <summary><center> Opgave i ensvinklede trekanter </center></summary>
+
+## Opgave i ensvinklede trekanter :
+
+![](/del1_trekanter/Ligedannedetrekanter.png)
+
+Find alle sidelængder på firkanten.
+
+En gyldig besvarelse skal indeholde : 
+
+1.) Argument for hvilke metoder der er brugt (f.eks. ensvinklede trekanter), og hvorfor de kan bruges.
+
+2.) Herefter skal der være beregninger der fører til de fundne sidelængder.
+
+</details>
+
+
+---
 
 ## Træningsopgaver: *øvelse 6.2.1 til 6.2.4 i plus A*
 
