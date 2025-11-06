@@ -4,8 +4,8 @@
 ##  Pensumoversigt - 1.G
 
 ## Trigonometri
-- [Grundlæggende viden om trekanter](/del1_trekanter/del1.md) ( i dag)
-- Intro til maple & cosinius, sinus og tangens ( næste gang)
+- [Grundlæggende viden om trekanter](/del1_trekanter/del1.md)
+- [Pythagoras & Cosinius, sinus og tangens & Maple](/del2_trekanter/del2.md))
 - retvinklede trekanter
 - vikårlige trekanter
 
