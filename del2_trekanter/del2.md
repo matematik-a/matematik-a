@@ -95,10 +95,10 @@ Den moderne definition af matematik er : </br>
   <summary><center>Intro og opgaver : Maple</center></summary>
 
 - Her er en video der kort viser de vigtigste ting i maple til at arbejde med trigonometriske funktioner :
-  - [https://www.youtube.com/watch?v=Z3b1Yc1b9oA&list=PLjH6X0lX6nYk1bq1y8e5Yk2r8bJ1g3F6J&index=4](https://www.youtube.com/watch?v=Z3b1Yc1b9oA&list=PLjH6X0lX6nYk1bq1y8e5Yk2r8bJ1g3F6J&index=4)
+  - [https://youtu.be/6kv3_nS2eb0?si=Ir3ipjiPBrV2MJ08](https://youtu.be/6kv3_nS2eb0?si=Ir3ipjiPBrV2MJ08)
 
-- Opgaver i maple :
-.. bla. bla. bla.
+- Lav disse opgaver i maple :
+    - [Maple_opgaver1.pdf](/del2_trekanter/Maple_opgaver1.pdf)
 
 
 </details>
