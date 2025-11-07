@@ -70,6 +70,7 @@ Den moderne definition af matematik er : </br>
 - I en trekant har vi endnu ikke noget forhold mellem vinklerne og siderne.
 - Det får vi i retvinklede trekanter ved hjælp af de trigonometriske funktioner cosinus, sinus og tangens.
 - Vi definerer dem sådan her:
+![](/del2_trekanter/Sin_Cos_Tan_Cot_unit_circle.png)
 
 </details>
 </br>
@@ -79,6 +80,10 @@ Den moderne definition af matematik er : </br>
 <details>
   <summary><center>Øvelse : opgaver med trigonometriske funktioner</center></summary>
 
+Til disse øvelser kan det være en fordel at brugen bogens indbyggede lommeregner eller en fysisk lommeregner.
+Se bogens værktøjjer her :
+[https://plusastx.systime.dk/?id=1407](https://plusastx.systime.dk/?id=1407)
+
 - øvelse 6.4.1 : beregn cosinus, sinus og tangens
 . øvelse 6.4.2 : beregn cosinus, sinus og tangens
 - øvelse 6.4.3 : beregn cosinus, sinus og tangens
@@ -86,6 +91,10 @@ Den moderne definition af matematik er : </br>
 - øvelse 6.4.5 : Grundrelationen
 - øvelse 6.4.6 : Overgangsformler
 
+Ekstraopgaver (som vi gennemgår sammen):
+- opg 802: Vis vha. en figur (måske nemmest at tegne på papir) at cos(45°) = sin(45°). Findes der andre vinkler, hvor cos(v) = sin(v)? Vis det.
+- opg 805: Om to vinkler v vides at cos(v) = 0.6. Find alle vinkler v i intervallet 0° ≤ v < 360°, som opfylder dette.
+- opg 807: Bestem vinkler i intervallet 0° ≤ v < 360°, som opfylder, for hvilke tangens(v) = 1,5. Tegn skitse af situationen.
 </details>
 </br>
 
@@ -98,7 +107,7 @@ Den moderne definition af matematik er : </br>
   - [https://youtu.be/6kv3_nS2eb0?si=Ir3ipjiPBrV2MJ08](https://youtu.be/6kv3_nS2eb0?si=Ir3ipjiPBrV2MJ08)
 
 - Lav disse opgaver i maple :
-    - [Maple_opgaver1.pdf](/del2_trekanter/Maple_opgaver1.pdf)
+    - [maple1.pdf](/del2_trekanter/maple1.pdf)
 
 
 </details>
@@ -111,6 +120,6 @@ Den moderne definition af matematik er : </br>
 
 ---
 
-## Lektier til næste gang :
+## Lektier til næste gang : 6.5 Retvinklede trekanter
 
 
