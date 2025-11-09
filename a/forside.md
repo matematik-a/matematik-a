@@ -6,7 +6,7 @@
 ## Trigonometri
 - [Grundlæggende viden om trekanter](/del1_trekanter/del1.md)
 - [Pythagoras & Cosinius, sinus og tangens & Maple](/del2_trekanter/del2.md))
-- [maple træning 1.del](/del3_maple1/del3.md)
+- [Maple træning 1.del](/del3_maple1/del3.md)
 - retvinklede trekanter
 - vikårlige trekanter
 
