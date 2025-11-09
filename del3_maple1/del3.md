@@ -44,7 +44,9 @@ window.MathJax = {
 <details>
   <summary><center>Øvelse : grundlæggende træningsopgaver i Maple</br></center></summary>
 
-<a href="/del3_maple1/Ove1.mw" download>download Ove1.mw</a>
+download mw filen ***Ove1.mw*** fra Lectio og åbn den i Maple, mandag d.10/11 modul.1</br>
+
+
 </br>
 </details>
 </br>
@@ -53,8 +55,9 @@ window.MathJax = {
 
 <details>
   <summary><center>Øvelse : trigonometri/geometri tegning i Maple</center></summary>
-  
-<a href="/del3_maple1/Geo1.mw" download>download Geo1.mw</a>
+
+download mw filen ***Geo1.mw*** fra Lectio og åbn den i Maple, mandag d.10/11 modul.1</br>
+
 </details>
 </br>
 
