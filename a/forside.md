@@ -1,26 +1,13 @@
 # Matematik A
 
 ---
-##  Pensumoversigt - 1.G
 
-## Trigonometri
-- [Grundlæggende viden om trekanter](/del1_trekanter/del1.md)
-- [Pythagoras & Cosinius, sinus og tangens & Maple](/del2_trekanter/del2.md))
-- [Maple træning 1.del](/del3_maple1/del3.md)
-- retvinklede trekanter
-- vikårlige trekanter
+## Oversigt og materialer for holdene
 
-## Ligninger og uligheder 
 
-- indhold kommer senere
+### [hold 1a2 - klik her](/a/hold_1a2.md)
 
-## Analytisk plangeometri
-
-- indhold kommer senere
-
-## Regression - forskellige sammenhænge
-
-- indhold kommer senere
+### [hold 1a1 - klik her](/a/hold_1a1.md)
 
 ---
 ## Afleveringer og lektier og tests
