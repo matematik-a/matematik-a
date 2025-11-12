@@ -10,7 +10,7 @@
 | 07/11   | [Pythagoras & Cosinius, sinus og tangens](/del2_trekanter/del2.md)            | Bevis 1 : Pythagoras                        |
 | 09/11   |                                                                               | [Aflevering 1](/afleveringer/afl1.pdf)      |
 | 10/11   | [Maple træning 1.del](/del3_maple1/del3.md)                                   |                                             |
-| 13/11   | Retvinklede trekanter                                                         | Bevis 2 : Trigonometriske relationer i retvinklet trekant |
+| 13/11   | [Retvinklede trekanter](/del4_trig_retvinkel/del4.md)                         | Bevis 2 : Trigonometriske relationer i retvinklet trekant |
 
 -------------------------------------------------
 
