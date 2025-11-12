@@ -43,6 +43,15 @@ async function readMarkdownFile(filePath: string): Promise<Response> {
         <title>MAT A</title>
         <link rel="stylesheet" href="../style.css">
       </head>
+      <script>
+      window.MathJax = {
+        tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] },
+        svg: { fontCache: 'global' }
+      };
+      </script>
+      <script id="MathJax-script" async
+        src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+      </script>
       <body>
         <main class="markdown-body">
           ${content}
