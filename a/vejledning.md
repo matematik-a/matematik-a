@@ -26,8 +26,8 @@ To par af ensvinklede trekanter er givet på figuren nedenfor.</br>
 Størrelsen af siderne ***x, y, w og z*** skal bestemmes.
 <img src="/a/opg501_1.png" float="left" alt="opg501-1"/>
 
-For to vilkårlige ensvinklede trekanter \( \Delta  ABC\) og \( \Delta DEF\) gælder det altid, at:
-$$ \frac{AB}{DE} = \frac{BC}{EF} = \frac{AC}{DF} $$
+For to vilkårlige ensvinklede trekanter \( \Delta  A_1B_1C_1\) og \( \Delta ABC\) gælder det altid, at:
+$$ \frac{AB}{A_1B_1} = \frac{BC}{B_1C_1} = \frac{AC}{A_1C_1} $$
 
 Nedenfor beregnes værdierne for x, y, z og w ved hjælp af denne regel.
 
