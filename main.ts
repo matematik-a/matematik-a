@@ -16,6 +16,8 @@ Deno.serve({port: 8000}, async (req) => {
         return await readImageFile("." + url.pathname);
     }
 
+    if (url.pathname.endsWith(".html")) return await readHtmlFile("."+url.pathname);
+
     //hvis ingen specifik sti er angivet, returner hovedoversigten
     return await readMarkdownFile("./a/forside.md");
 
@@ -26,6 +28,18 @@ function sortArray(arr: number[]): number[] {
     arr.sort((a, b) => a - b);
     return arr;
     
+}
+
+async function readHtmlFile(filePath: string): Promise<Response> {
+    try {
+      const html = await Deno.readTextFile(filePath);
+      return new Response(html, {
+        headers: { "Content-Type": "text/html" },
+      });
+    } catch (error) {
+      console.error("Error reading HTML file:", error);
+      return new Response("HTML file not found", { status: 404 });
+    }
 }
 
 async function readMarkdownFile(filePath: string): Promise<Response> {
