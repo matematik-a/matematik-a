@@ -18,10 +18,38 @@ Deno.serve({port: 8000}, async (req) => {
 
     if (url.pathname.endsWith(".html")) return await readHtmlFile("."+url.pathname);
 
+  if (url.pathname === "/download") return await downloadFile(url);
+
+
+
     //hvis ingen specifik sti er angivet, returner hovedoversigten
     return await readMarkdownFile("./a/forside.md");
 
 });
+
+async function downloadFile(url: URL): Promise<Response> {
+    const fileUrl = url.searchParams.get("file");
+    if (!fileUrl) {
+      return new Response("File parameter is missing", { status: 400 });
+    }
+  
+    try {
+      const filePath = "." + fileUrl;
+      const file = await Deno.readFile(filePath);
+      const fileName = fileUrl.split("/").pop() || "downloaded_file";
+  
+      return new Response(file, {
+        headers: {
+          "Content-Type": "application/octet-stream",
+          "Content-Disposition": `attachment; filename="${fileName}"`,
+        },
+      });
+    } catch (error) {
+      console.error("Error downloading file:", error);
+      return new Response("File not found", { status: 404 });
+    }
+}
+
 
 // lav en funktion der kan sortere en array af n tal i stigende orden
 function sortArray(arr: number[]): number[] {
