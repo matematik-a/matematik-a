@@ -22,7 +22,7 @@ window.MathJax = {
 
 
 # Matematik A - Trigonometri - del 2
-# Pythogoras og trigonometriske funktioner
+# Maple intro & geometry pakken
 
 ---
 

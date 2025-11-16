@@ -11,7 +11,8 @@
 | 09/11   |                                                                               | [Aflevering 1](/afleveringer/afl1.pdf)                          |                    |
 | 10/11   | [Maple træning 1.del](/del3_maple1/del3.md)                                   |                                                                 |                    |
 | 13/11   | [Retvinklede trekanter](/del4_trig_retvinkel/del4.md)                         | ***Bevis 2 : Trigonometriske relationer i retvinklet trekant*** | Carl, Mads, Martin |
-| 14/11   | [Opgaveregning: Retvinklede trekanter](/del4_trig_retvinkel/del4_2.md)        |                                                                 |                    |  
+| 14/11   | Opgaveregning: kap 6.5                                                        |                                                                 |                    |  
+| 16/11   | [Opgaveregning: se opgaver](/del5_trig_ovelser/del5.md)                       |                                                                 |                    |  
 
 -------------------------------------------------
 
