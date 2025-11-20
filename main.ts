@@ -94,11 +94,34 @@ async function readMarkdownFile(filePath: string): Promise<Response> {
       <script id="MathJax-script" async
         src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
       </script>
+
+
       <body>
         <main class="markdown-body">
           ${content}
         </main>
       </body>
+
+      <!---- lav js der farver baggrunden på rækker der indeholder datoer der er passeret ---->
+      <script>
+        const today = new Date();
+        const rows = document.querySelectorAll("table tr");
+        rows.forEach(row => {
+          const dateCell = row.querySelector("td:nth-child(2)");
+          if (dateCell) {
+              
+              const dateText = dateCell.textContent.trim();
+            const [day, month] = dateText.split('/').map(Number);
+            const rowDate = new Date(today.getFullYear(), month - 1, day);
+            if (rowDate < today) {
+              dateCell.style.color = "#ffffffc5"; // lys blå for fremtidige datoer
+              console.log("Future date found:", dateText);
+              
+            }
+          }
+        });
+      </script>
+
       </html>
     `;
   
