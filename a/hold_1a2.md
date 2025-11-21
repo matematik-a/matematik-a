@@ -13,8 +13,8 @@
 |     | 13/11 | [Retvinklede trekanter](/del4_trig_retvinkel/del4.md)                         | ***Bevis 2 : Trig. relationer i retvinklet trekant***           | Carl, Mads, Martin |
 | 47  | 14/11 | Opgaveregning: kap 6.5                                                        |                                                                 |                    |  
 |     | 16/11 | [Opgaveregning: ekstra uden hjælpemidler](/del5_trig_ovelser/del5.md)         |                                                                 |                    |  
-| 48  | 24/11 | Eksakte \( \cos(45^\circ) \) \( \sin(45^\circ) \) \( \tan(45^\circ) \) \( \cos(60^\circ) \) \( \sin(60^\circ) \) \(  \tan(60^\circ) \)  |       |                    |
-|     | 24/11 |  Sinusrelationer og opgaveregning                                             | ***Bevis 3 : Sinusrelationerne***                               | ?                  |
+| 48  | 24/11 | [Eksakte \( \cos(45^\circ) \) \( \sin(45^\circ) \) \( \tan(45^\circ) \) \( \cos(60^\circ) \) \( \sin(60^\circ) \) \(  \tan(60^\circ) \)](/del6_sinusrel_eksakt/del61.md)  |     |                    |
+|     | 24/11 | [Sinusrelationer og opgaveregning](/del6_sinusrel_eksakt/del62.md)            | ***Bevis 3 : Sinusrelationerne***                               | ?                  |
 |     | 30/11 |                                                                               | Aflevering 2                                                    |                    |
 
 -------------------------------------------------
