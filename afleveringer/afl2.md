@@ -1,5 +1,11 @@
 # Aflevering 2 - Trigonometri
 
+## Opg 833-b
+
+En retvinklet trekant \( \triangle ABC \) har vinklerne \( \angle C = 90^\circ \), \( \angle B = 25^\circ \) og \( a = 19 \).
+
+Beregn manglende sider og vinkler i trekanten.
+
 ## Opg 820
 Punktet O er centrum i enhedscirklen.
 Punktet P på ligger på cirkelperiferien og har koordinaterne \( (\cos 30^\circ, \sin 30^\circ ) \).
