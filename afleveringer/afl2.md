@@ -2,7 +2,7 @@
 
 ## Opg 833-b
 
-En retvinklet trekant \( \triangle ABC \) har vinklerne \( \angle C = 90^\circ \), \( \angle B = 25^\circ \) og \( a = 19 \).
+En retvinklet trekant \( \triangle ABC \) har \( \angle C = 90^\circ \), \( \angle B = 25^\circ \) og \( a = 19 \).
 
 Beregn manglende sider og vinkler i trekanten.
 
@@ -18,8 +18,8 @@ b.) Bevis at sinus til 30° er \( \frac{1}{2} \)
 c.) Find derefter den eksakte værdi af cosinus til 30° og tangens til 30°.
 
 ## Opg 824
-To rette linjer har forskrifterne
-\( m : 3 \cdot x + 2 \cdot y = 5 \)
+To rette linjer har forskrifterne: </br>
+\( m : 3 \cdot x + 2 \cdot y = 5 \) </br>
 \( n : 5 \cdot x - 3 \cdot y = 7 \)
 
 a.) Tegn linjerne i et koordinatsystem.
