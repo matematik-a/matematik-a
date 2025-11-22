@@ -11,6 +11,7 @@
 | 47  | 14/11   | [Maple træning 1.del](/del3_maple1/del3.md)                                   |                                             |
 |     | 16/11   |                                                                               | [Aflevering 1](/afleveringer/afl1.pdf)      |
 | 48  | 24/11   | [Cosinus, Sinus og Tangens](/del2_trekanter/del22_1a1.md)                     |                                             |
+|     | 30/11   |                                                                               | [Aflevering 2](/afleveringer/afl2.md)       | 
 
 -------------------------------------------------
 
