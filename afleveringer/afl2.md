@@ -1,5 +1,28 @@
 # Aflevering 2 - Trigonometri
 
+----
+
+Afleveringen skal afleveres som en ***pdf-fil*** på lectio, under ***"Matematik aflevering 2"***:
+
+---
+
+Forslag til tegning af trekanter i Maple:
+
+```
+with(geometry);
+point(A, 0, 0);
+point(C, b, 0);
+point(B, b, a);
+triangle(T, [A, B, C]);
+draw(T, axes = normal);
+```
+
+Eller brug Geogebra til at tegne trekanter og aflæse vinkler og sider.</br>
+Tag et screenshot og indsæt i dit dokument.
+
+
+----
+
 ## Opg 833-b
 
 En retvinklet trekant \( \triangle ABC \) har \( \angle C = 90^\circ \), \( \angle B = 25^\circ \) og \( a = 19 \).
@@ -34,6 +57,6 @@ a.) Beregn ukendte vinkler og sider i trekanten.
 
 b.) Tegn trekanten i et koordinatsystem, hvor punkt A ligger i origo, og siden a ligger på x-aksen.
 
-## Opg Fra eksamensættet Matematik A - HTX maj 2025
+## Nedenstående opgave er fra eksamensættet Matematik A - HTX maj 2025
 
 <img style = "float:left" src="/afleveringer/Afl2_Eksamen2025_opg4.png" alt="Opgave fra eksamenssættet Matematik A - HTX maj 2025" />
