@@ -70,7 +70,7 @@ Den moderne definition af matematik er : </br>
 - I en trekant har vi endnu ikke noget forhold mellem vinklerne og siderne.
 - Det får vi i retvinklede trekanter ved hjælp af de trigonometriske funktioner cosinus, sinus og tangens.
 - Vi definerer dem sådan her:
-![](/del2_trekanter/Sin_Cos_Tan_Cot_unit_circle.png)
+![](/del2_trekanter/cos_sin_tan.png)
 
 </details>
 </br>
