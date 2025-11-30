@@ -1,5 +1,5 @@
 
-# Opgaveregning: Trigonometriske funktioner
+# Opgaveregning: Trigonometriske funktioner - del 5
 
 ## opgaver uden brug af hjælpe midler - kun papir og blyant
 
