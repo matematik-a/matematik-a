@@ -14,9 +14,11 @@
 | 47  | 14/11-25 | Opgaveregning: kap 6.5                                                        |                                                                 |                    |  
 |     | 16/11-25 | [Opgaveregning: ekstra uden hjælpemidler](/del5_trig_ovelser/del5.md)         |                                                                 |                    |  
 | 48  | 24/11-25 | [Eksakte \( \cos(45^\circ) \) \( \sin(45^\circ) \) \( \tan(45^\circ) \) \( \cos(60^\circ) \) \( \sin(60^\circ) \) \(  \tan(60^\circ) \)](/del6_sinusrel_eksakt/del61.md) |  |  |
-|     | 24/11-25 | [Sinusrelationer og opgaveregning](/del6_sinusrel_eksakt/del62.md)            | ***Bevis 3 : Sinusrelationerne ?***                             | Anders             |
+|     | 24/11-25 | [Sinusrelationer og opgaveregning](/del6_sinusrel_eksakt/del62.md)            |                                                                 |                    |
 | 49  | 1/12-25  | [Cosinusrelationer og Oversigt](/del7_cosinusrelationer/del7.md)              |                                                                 |                    |
 |     | 1/12-25  | [Trigonometri opgaver i Maple](/del7_cosinusrelationer/del72.md)              |                                                                 |                    |
+|     | 5/12-25  | Bevis af Sinusrelationer & evt Cosinusrelationer                              | ***Bevis 3+4 : Sinus og Cosinusrelationer***                    |                    |
+|     | 5/12-25  | TEST 1                                                                        | ***TEST 1 - Trigonometri***                                     |                    |
 |     | 7/12-25  |                                                                               | [Aflevering 2](/afleveringer/afl2.md)                           |                    |
 
 -------------------------------------------------
