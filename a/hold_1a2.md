@@ -8,8 +8,8 @@
 | --- | -------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------- | ------------------ |
 | 45  | 03/11-25 | [Grundlæggende om trekanter & Ensvinklede trekanter](/del1_trekanter/del1.md) |                                                                 |                    |
 |     | 07/11-25 | [Pythagoras & Cosinius, sinus og tangens](/del2_trekanter/del2.md)            | ***Bevis 1 : Pythagoras***                                      | Varish, Kayra      |  
-| 46  | 09/11-25 |                                                                               | [Aflevering 1](/afleveringer/afl1.pdf)                          |                    |
-|     | 10/11-25 | [Maple træning](/del3_maple1/del3.md)                                         |                                                                 |                    |
+|     | 09/11-25 |                                                                               | [Aflevering 1](/afleveringer/afl1.pdf)                          |                    |
+| 46  | 10/11-25 | [Maple træning](/del3_maple1/del3.md)                                         |                                                                 |                    |
 |     | 13/11-25 | [Retvinklede trekanter](/del4_trig_retvinkel/del4.md)                         | ***Bevis 2 : Trig. relationer i retvinklet trekant***           | Carl, Mads, Martin |
 | 47  | 14/11-25 | Opgaveregning: kap 6.5                                                        |                                                                 |                    |  
 |     | 16/11-25 | [Opgaveregning: ekstra uden hjælpemidler](/del5_trig_ovelser/del5.md)         |                                                                 |                    |  
@@ -20,6 +20,7 @@
 |     | 5/12-25  | Bevis af Sinusrelationer & evt Cosinusrelationer                              | ***Bevis 3+4 : Sinus og Cosinusrelationer***                    |                    |
 |     | 5/12-25  | TEST 1                                                                        | ***TEST 1 - Trigonometri***                                     |                    |
 |     | 7/12-25  |                                                                               | [Aflevering 2](/afleveringer/afl2.md)                           |                    |
+| 50  | 12/12-25 | Matematikprojekt 2                                                            |                                                                 |                      |
 
 -------------------------------------------------
 
