@@ -1,12 +1,12 @@
-
-
 ### Opgave 1  
 **Bestem højden af skrænten ved hjælp af to ensvinklede retvinklede trekanter.**  
 Afstand hoved → parasol: $1\,\text{m}$. Parasol → skrænt: $9\,\text{m}$, altså hoved → skrænt: $10\,\text{m}$.  
 Lille trekant: højde $1{,}5$, grundlinje $1$. Stor trekant: højde $h$, grundlinje $10$.
 
 $$
-\frac{1{,}5}{1} = \frac{h}{10} \Rightarrow h = 15.
+\frac{1{,}5}{1} = \frac{h}{10} 
+\Rightarrow 
+h = 15.
 $$
 
 **_Resultat: Skrænten er $15\,\text{m}$ høj._**
@@ -20,12 +20,23 @@ $$
 B = 180^\circ - 90^\circ - 45^\circ = 45^\circ.
 $$
 
-Da trekanten er en $45^\circ\!-\!45^\circ\!-\!90^\circ$-trekant, fås
+Trekanten er retvinklet i $A$, så Pythagoras:
 $$
-b = c = \frac{a}{\sqrt{2}} = \sqrt{2}.
+b^2 + c^2 = a^2 = 2^2 = 4.
 $$
 
-**_Resultat: $B = 45^\circ,\; b = \sqrt{2},\; c = \sqrt{2}.$_**
+Da $B = C = 45^\circ$, er de modstående sider lige lange:
+$$
+b = c.
+$$
+
+Dermed:
+$$
+2b^2 = 4 \Rightarrow b^2 = 2 \Rightarrow b = \sqrt{2},
+$$
+og derfor også $c = \sqrt{2}$.
+
+**_Resultat: $B = 45^\circ,\; b = \sqrt{2},\; c = \sqrt{2}._**
 
 ---
 
@@ -52,37 +63,56 @@ a^2 + 1 = 4
 a = \sqrt{3}.
 $$
 
-**_Resultat: $C = 30^\circ,\; b = 2,\; a = \sqrt{3}.$_**
+**_Resultat: $C = 30^\circ,\; b = 2,\; a = \sqrt{3}._**
 
 ---
 
 ### Opgave 4  
 **Bestem $A$, $a$ og $b$ i en trekant med $B = 45^\circ$, $C = 30^\circ$, $c = 2$.**  
+
 Vinkelsum:
 $$
 A = 180^\circ - 45^\circ - 30^\circ = 105^\circ.
 $$
 
-Sinusrelationen:
+Lad siden $a$ være siden $BC$, og tegn højden fra hjørne $A$ ned på siden $a$. Kald fodpunktet $D$.  
+Så får vi to retvinklede trekanter: $\triangle ABD$ og $\triangle ACD$.
+
+I $\triangle ABD$ er
+- $AB = c = 2$ (hypotenusen),
+- $\angle B = 45^\circ$,
+- $\angle D = 90^\circ$.
+
+Dermed er det en $45^\circ\!-\!45^\circ\!-\!90^\circ$-trekant, og
 $$
-\frac{c}{\sin C} = \frac{2}{\sin 30^\circ} = 4
-\quad\Rightarrow\quad
-a = 4\sin 105^\circ,\qquad b = 4\sin 45^\circ.
+AD = BD = \frac{AB}{\sqrt{2}} = \frac{2}{\sqrt{2}} = \sqrt{2}.
 $$
 
-Heraf:
+I $\triangle ACD$ er
+- $\angle C = 30^\circ$,
+- $\angle D = 90^\circ$,
+- $\angle ACD$ retvinklet ⇒ hypotenusen er $AC = b$,
+- den modstående katete til $30^\circ$ er $AD$,
+- den hosliggende katete til $30^\circ$ er $CD$.
+
+Vi ved $AD = \sqrt{2}$, så:
 $$
-b = 4\cdot \frac{\sqrt{2}}{2} = 2\sqrt{2},
-$$
-og (f.eks. vha. additionsformler)
-$$
-\sin 105^\circ = \sin(60^\circ + 45^\circ)
-               = \frac{\sqrt{6}+\sqrt{2}}{4}
+AD = b\sin 30^\circ = \frac{b}{2} = \sqrt{2}
 \Rightarrow
-a = 4\cdot\frac{\sqrt{6}+\sqrt{2}}{4} = \sqrt{6}+\sqrt{2}.
+b = 2\sqrt{2}.
 $$
 
-**_Resultat: $A = 105^\circ,\; a = \sqrt{6}+\sqrt{2},\; b = 2\sqrt{2},\; c = 2.$_**
+Så er
+$$
+CD = b\cos 30^\circ = 2\sqrt{2}\cdot\frac{\sqrt{3}}{2} = \sqrt{6}.
+$$
+
+Hele siden $a$ er
+$$
+a = BD + CD = \sqrt{2} + \sqrt{6}.
+$$
+
+**_Resultat: $A = 105^\circ,\; a = \sqrt{6}+\sqrt{2},\; b = 2\sqrt{2},\; c = 2._**
 
 ---
 
@@ -108,7 +138,7 @@ $$
 A = 60^\circ.
 $$
 
-**_Resultat: $A = 60^\circ$._**
+**_Resultat: $A = 60^\circ._**
 
 ---
 
@@ -136,7 +166,7 @@ $$
 x = \frac{5}{2} = 2{,}5.
 $$
 
-**_Resultat: $x = \dfrac{5}{2} = 2{,}5.$_**
+**_Resultat: $x = \dfrac{5}{2} = 2{,}5._**
 
 ---
 
