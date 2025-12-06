@@ -16,6 +16,7 @@ $$
 ### Opgave 2  
 **Bestem vinkel $B$ samt siderne $b$ og $c$ i en retvinklet trekant med $A = 90^\circ$, $C = 45^\circ$, $a = 2$.**  
 Vinkelsum:
+
 $$
 B = 180^\circ - 90^\circ - 45^\circ = 45^\circ.
 $$
@@ -25,16 +26,12 @@ $$
 b^2 + c^2 = a^2 = 2^2 = 4.
 $$
 
-Da $B = C = 45^\circ$, er de modstående sider lige lange:
-$$
-b = c.
-$$
+Da $B = C = 45^\circ$, er de modstående sider lige lange, dvs. b = c:
 
 Dermed:
 $$
 2b^2 = 4 \Rightarrow b^2 = 2 \Rightarrow b = \sqrt{2},
 $$
-og derfor også $c = \sqrt{2}$.
 
 **_Resultat: $B = 45^\circ,\; b = \sqrt{2},\; c = \sqrt{2}$._**
 
