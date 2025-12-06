@@ -17,10 +17,10 @@
 |     | 24/11-25 | [Sinusrelationer og opgaveregning](/del6_sinusrel_eksakt/del62.md)            |                                                                 |                    |
 | 49  | 1/12-25  | [Cosinusrelationer og Oversigt](/del7_cosinusrelationer/del7.md)              |                                                                 |                    |
 |     | 1/12-25  | [Trigonometri opgaver i Maple](/del7_cosinusrelationer/del72.md)              |                                                                 |                    |
-|     | 5/12-25  | Bevis af Sinusrelationer & evt Cosinusrelationer                              | ***Bevis 3+4 : Sinus og Cosinusrelationer***                    |                    |
-|     | 5/12-25  | TEST 1                                                                        | ***TEST 1 - Trigonometri***                                     |                    |
+|     | 5/12-25  | Bevis af Sinusrelationer & evt Cosinusrelationer                              | ***Bevis 3+4 : Sinusrelation og Cosinusrelation***              | Patrick,Kasper,2XAlexander, Max.Mads, Martin|
+|     | 5/12-25  | TEST 1                                                                        | [Test 1 -Trigonometri](/afleveringer/test1/test1.md)            |                    |
 |     | 7/12-25  |                                                                               | [Aflevering 2](/afleveringer/afl2.md)                           |                    |
-| 50  | 12/12-25 | Matematikprojekt 2                                                            |                                                                 |                      |
+| 50  | 12/12-25 | Matematikprojekt 2                                                            |                                                                 |                    |
 
 -------------------------------------------------
 

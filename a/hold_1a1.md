@@ -12,8 +12,8 @@
 |     | 16/11-25 |                                                                               | [Aflevering 1](/afleveringer/afl1.pdf)      |                      |
 | 48  | 24/11-25 | [Cosinus, Sinus og Tangens](/del2_trekanter/del22_1a1.md)                     |                                             |                      |
 |     | 26/11-25 | [Retvinklede trekanter](/del4_trig_retvinkel/del4.md)                         | Bevis 2 : Trig. relationer i retvinklet trekant | Hannibal & Marius B. |   
-| 49  | 5/12-25  | Bevis af Sinusrelationer & evt Cosinusrelationer                              | ***Bevis 3+4 : Sinus og Cosinusrelationer***|                      |
-|     | 5/12-25  | TEST 1                                                                        | ***TEST 1 - Trigonometri***                 |                      |
+| 49  | 5/12-25  | Bevis af Sinusrelationer & evt Cosinusrelationer                              | ***Bevis 3   : Sinusrelationer højde inde***| Jakob og Thor |
+|     | 5/12-25  | TEST 1                                                                        | [Test 1 -Trigonometri](/afleveringer/test1/test1.md) |             |
 |     | 7/12-25  |                                                                               | [Aflevering 2](/afleveringer/afl2.md)       |                      |      
 | 50  | 8/12-25  |                                                                               |                                             |                      |
 |     | 10/12-25 | Matematikprojekt 2                                                            |                                             |                      |

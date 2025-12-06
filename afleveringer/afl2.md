@@ -6,10 +6,11 @@ Afleveringen skal afleveres som en ***pdf-fil*** på lectio, under ***"Matematik
 
 ---
 
-Forslag til tegning af trekanter i Maple:
+Forslag til tegning af trekanter i Maple (du skal kende siderne i trekanten på forhånd):
 
 ```
 with(geometry);
+
 point(A, 0, 0);
 point(C, b, 0);
 point(B, b, a);
