@@ -36,7 +36,7 @@ $$
 $$
 og derfor også $c = \sqrt{2}$.
 
-**_Resultat: $B = 45^\circ,\; b = \sqrt{2},\; c = \sqrt{2}._**
+**_Resultat: $B = 45^\circ,\; b = \sqrt{2},\; c = \sqrt{2}$._**
 
 ---
 
@@ -63,7 +63,7 @@ a^2 + 1 = 4
 a = \sqrt{3}.
 $$
 
-**_Resultat: $C = 30^\circ,\; b = 2,\; a = \sqrt{3}._**
+**_Resultat: $C = 30^\circ,\; b = 2,\; a = \sqrt{3}$._**
 
 ---
 
@@ -112,7 +112,7 @@ $$
 a = BD + CD = \sqrt{2} + \sqrt{6}.
 $$
 
-**_Resultat: $A = 105^\circ,\; a = \sqrt{6}+\sqrt{2},\; b = 2\sqrt{2},\; c = 2._**
+**_Resultat: $A = 105^\circ,\; a = \sqrt{6}+\sqrt{2},\; b = 2\sqrt{2},\; c = 2$._**
 
 ---
 
@@ -138,7 +138,7 @@ $$
 A = 60^\circ.
 $$
 
-**_Resultat: $A = 60^\circ._**
+**_Resultat: $A = 60^\circ$._**
 
 ---
 
@@ -166,7 +166,7 @@ $$
 x = \frac{5}{2} = 2{,}5.
 $$
 
-**_Resultat: $x = \dfrac{5}{2} = 2{,}5._**
+**_Resultat: $x = \dfrac{5}{2} = 2{,}5$._**
 
 ---
 
