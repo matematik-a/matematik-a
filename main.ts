@@ -83,7 +83,7 @@ async function readMarkdownFile(filePath: string): Promise<Response> {
       <head>
         <meta charset="UTF-8">
         <title>MAT A</title>
-        <link rel="stylesheet" href="../style.css">
+        <link rel="stylesheet" href="/style.css">
       </head>
       <script>
       window.MathJax = {
