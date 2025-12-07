@@ -2,7 +2,7 @@
 
 -------------------------------------------------
 
-## Trigonometri
+### Trigonometri
 
 | Uge | Dato     | Emne                                                                          | Aflevering - Projekt - Bevis - Test                             |  Ved tavlen        |
 | --- | -------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------- | ------------------ |
@@ -25,20 +25,20 @@
 
 -------------------------------------------------
 
-## Ligninger og uligheder *lynforløb*
+### Ligninger og uligheder *lynforløb*
  
 -------------------------------------------------
 
-## Analytisk plangeometri
+### Analytisk plangeometri
 
 -------------------------------------------------
 
-## Vektorer i planen
+### Vektorer i planen
 
 -------------------------------------------------
 
-## Regression - forskellige sammenhænge
+### Regression - forskellige sammenhænge
 
 -------------------------------------------------
 
-## Mundtlig årsprøve i projekter og emner
+### Mundtlig årsprøve i projekter og emner
