@@ -18,7 +18,7 @@
 | 50  | 8/12-25  | [Opfølgning på test & bevis træning](/del8_EfterTest1/del8_efterTest1.md)     | Bevis 4 : Sinus og Cosinusrelationerne      | Konrad F.            |
 |     | 8/12-25  | [Opgaveregning](/del8_EfterTest1/opgPlusA612til628.pdf)                       |                                             |                      |
 |     | 10/12-25 | [Formelsamling og Metaopgave](/del7_cosinusrelationer/del73.md)               |                                             |                      |
-|     | 10/12-25 | [Matematikprojekt 2](/projekter/trig_cykelstel.pdf)                           |                                             |                      |
+|     | 10/12-25 | [Matematikprojekt II, maks 3 personer ](/projekter/trig_cykelstel.pdf)        |                                             |                      |
 
 
 -------------------------------------------------
