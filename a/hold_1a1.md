@@ -20,6 +20,7 @@
 |     | 10/12-25 | [Formelsamling og Metaopgave](/del7_cosinusrelationer/del73.md)               |                                             |                      |
 |     | 10/12-25 | [Matematikprojekt II, maks 3 personer ](/projekter/trig_cykelstel.pdf)        |                                             |                      |
 
+[Link til : formelsamling for trigonometriforløbet](/formelsamling/trigonometri/formler_trigonometri.md)
 
 -------------------------------------------------
 
