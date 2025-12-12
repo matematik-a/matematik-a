@@ -17,12 +17,14 @@
 |     | 24/11-25 | [Sinusrelationer og opgaveregning](/del6_sinusrel_eksakt/del62.md)            |                                                                 |                    |
 | 49  | 1/12-25  | [Cosinusrelationer og bevis-oversigt](/del7_cosinusrelationer/del7.md)        |                                                                 |                    |
 |     | 1/12-25  | [Trigonometri opgaver i Maple](/del7_cosinusrelationer/del72.md)              |                                                                 |                    |
-|     | 5/12-25  | Træning af beviser                                                            | ***Bevis 3 : Sinusrelation***                      | Patrick,Kasper,Alexander, Sander|
+|     | 5/12-25  | Træning af beviser                                                            | ***Bevis 3 : Sinusrelation***                      | Patrick,Kasper,Alexander, Sander, Filip |
 |     | 5/12-25  | Træning af beviser                                                            | ***Bevis 4 : Cosinusrelation***                        | Alexander, Max, Mads, Martin|
 |     | 5/12-25  | TEST 1                                                                        | [Test 1 -Trigonometri](/afleveringer/test1/test1.md)            |                    |
 |     | 7/12-25  |                                                                               | [Aflevering 2](/afleveringer/afl2.md)                           |                    |
 | 50  | 12/12-25 | [Fagliglæsning - Euklid's Elementerne](/del9_fagliglaes/del9.md)              |                                                                 |                    |
-|     | 12/12-25 | [Matematikprojekt II, maks 3 personer ](/projekter/trig_cykelstel.pdf)        |                                             |                      |
+|     | 12/12-25 | [Matematikprojekt II, maks 3 personer ](/projekter/trig_cykelstel.pdf)        |                                                                 |                    |
+|     | 15/12-25 | Matematikprojekt II, maks 3 personer                                          |                                                                 |                    |
+
 
 [Link til : formelsamling for trigonometriforløbet](/formelsamling/trigonometri/formler_trigonometri.md)
 
