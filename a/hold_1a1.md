@@ -24,6 +24,7 @@
 | 2   | 5/1-26   | Opgaveregning                                                                 |                                             |                      |
 |     | 7/1-26   | Opgaveregning                                                                 |                                             |                      |
 |     | 7/1-26   | TEST 1 FINAL                                                                  |                                             |                      |
+|     | 11/1-26  |                                                                               | [Aflever - Projekt 2](/projekter/trig_cykelstel.pdf)            |                    |
 
 
 [Link til : formelsamling for trigonometriforløbet](/formelsamling/trigonometri/formler_trigonometri.md)

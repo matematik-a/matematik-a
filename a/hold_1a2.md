@@ -24,6 +24,7 @@
 | 50  | 12/12-25 | [Fagliglæsning - Euklid's Elementerne](/del9_fagliglaes/del9.md)              |                                                                 |                    |
 |     | 12/12-25 | [Matematikprojekt II, maks 3 personer ](/projekter/trig_cykelstel.pdf)        |                                                                 |                    |
 |     | 15/12-25 | Matematikprojekt II, maks 3 personer                                          |                                                                 |                    |
+|     | 11/1-26  |                                                                               | [Aflever - Projekt 2](/projekter/trig_cykelstel.pdf)            |                    |
 
 
 [Link til : formelsamling for trigonometriforløbet](/formelsamling/trigonometri/formler_trigonometri.md)
