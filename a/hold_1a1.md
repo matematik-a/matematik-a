@@ -19,6 +19,10 @@
 |     | 8/12-25  | [Opgaveregning](/del8_EfterTest1/opgPlusA612til628.pdf)                       |                                             |                      |
 |     | 10/12-25 | [Formelsamling og Metaopgave](/del7_cosinusrelationer/del73.md)               |                                             |                      |
 |     | 10/12-25 | [Matematikprojekt II, maks 3 personer ](/projekter/trig_cykelstel.pdf)        |                                             |                      |
+|     | 12/12-25 | [Fagliglæsning - Euklid's Elementerne](/del9_fagliglaes/del9.md)              |                                             |                      |
+|     | 12/12-25 | [Matematikprojekt II, maks 3 personer ](/projekter/trig_cykelstel.pdf)        |                                             |                      |
+
+
 
 [Link til : formelsamling for trigonometriforløbet](/formelsamling/trigonometri/formler_trigonometri.md)
 
