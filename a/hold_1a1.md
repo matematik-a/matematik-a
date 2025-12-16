@@ -23,8 +23,8 @@
 |     | 12/12-25 |  Matematikprojekt II, maks 3 personer                                         |                                             |                      |
 | 2   | 5/1-26   | Opgaveregning                                                                 |                                             |                      |
 |     | 7/1-26   | Opgaveregning                                                                 |                                             |                      |
-|     | 7/1-26   | TEST 1 FINAL                                                                  |                                             |                      |
-|     | 11/1-26  |                                                                               | [Aflever - Projekt 2](/projekter/trig_cykelstel.pdf)            |                    |
+|     | 7/1-26   | TEST 1.2                                                                      | Test 1.2 - Trigonometri                     |                      |
+|     | 11/1-26  |                                                                               | [Aflever - Projekt 2](/projekter/trig_cykelstel.pdf)  |            |
 
 
 [Link til : formelsamling for trigonometriforløbet](/formelsamling/trigonometri/formler_trigonometri.md)

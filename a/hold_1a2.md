@@ -44,12 +44,13 @@
 <details open>
   <summary>Ligninger og uligheder *lynforløb*</summary>
 
-| Uge | Dato   | Emne                                                                          | Aflevering - Projekt - Bevis - Test                             |  Ved tavlen        |
-| --- | ------ | ----------------------------------------------------------------------------- | --------------------------------------------------------------- | ------------------ |
-| 2   | 5/1-26 | Regneregler, Brøker, Talmængder                                               |                                                                 |                    |
-|     | 5/1-26 | Potenser, Rødder                                                              |                                                                 |                    |                         
-|     | 9/1-26 |                                                                               |                                                                 |                    |  
-|     | 9/1-26 |                                                                               |                                                                 |                    |  
+| Uge | Dato    | Emne                                                                          | Aflevering - Projekt - Bevis - Test                             |  Ved tavlen        |
+| --- | ------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------- | ------------------ |
+| 2   | 5/1-26  | Regneregler, Brøker, Talmængder                                               |                                                                 |                    |
+|     | 5/1-26  | Potenser, Rødder                                                              |                                                                 |                    |                         
+|     | 9/1-26  |                                                                               |                                                                 |                    |  
+|     | 9/1-26  |                                                                               |                                                                 |                    |  
+|     | 11/1-26 |                                                                               | [Aflever - Projekt 2](/projekter/trig_cykelstel.pdf)            |                    |
 
 </details>
 
