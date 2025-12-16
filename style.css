@@ -26,10 +26,10 @@ h1, h2, h3 {
 }
 
 summary{
-    font-size: 25px;
+    font-size: 20px;
     font-weight: bold;
         margin-bottom: 15px;
-    line-height: 10px;
+    line-height: 20px;
 }
 
 details {
@@ -40,7 +40,7 @@ details, ul, ol, table, td, th {
     font-size: 14px;
     color: #144914;
     /* background-color: lightblue; */
-      /* background-color: #aaac98; */
+    background-color: #aaac98;
 
 }
 

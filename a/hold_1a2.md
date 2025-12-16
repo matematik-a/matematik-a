@@ -2,7 +2,12 @@
 
 -------------------------------------------------
 
-### Trigonometri
+## [Samlet Pensum Matematik A - fra undervisningsministeriet - se oversigt her ](/a/kernestof_1a2.md)
+
+-------------------------------------------------
+
+<details>
+  <summary>Trigonometri forløb</summary>
 
 | Uge | Dato     | Emne                                                                          | Aflevering - Projekt - Bevis - Test                             |  Ved tavlen        |
 | --- | -------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------- | ------------------ |
@@ -27,13 +32,27 @@
 |     | 11/1-26  |                                                                               | [Aflever - Projekt 2](/projekter/trig_cykelstel.pdf)            |                    |
 
 
-[Link til : formelsamling for trigonometriforløbet](/formelsamling/trigonometri/formler_trigonometri.md)
+### [Link til : formelsamling for trigonometriforløbet](/formelsamling/trigonometri/formler_trigonometri.md)
+
+
+
+</details>
 
 
 -------------------------------------------------
 
-### Ligninger og uligheder *lynforløb*
- 
+<details open>
+  <summary>Ligninger og uligheder *lynforløb*</summary>
+
+| Uge | Dato   | Emne                                                                          | Aflevering - Projekt - Bevis - Test                             |  Ved tavlen        |
+| --- | ------ | ----------------------------------------------------------------------------- | --------------------------------------------------------------- | ------------------ |
+| 2   | 5/1-26 | Regneregler, Brøker, Talmængder                                               |                                                                 |                    |
+|     | 5/1-26 | Potenser, Rødder                                                              |                                                                 |                    |                         
+|     | 9/1-26 |                                                                               |                                                                 |                    |  
+|     | 9/1-26 |                                                                               |                                                                 |                    |  
+
+</details>
+
 -------------------------------------------------
 
 ### Analytisk plangeometri
