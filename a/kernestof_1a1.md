@@ -1,6 +1,6 @@
 
  
-## 1a2 samlet pensumsoversigt (( kernestof )) for matematik A
+## 1a1 samlet pensumsoversigt (( kernestof )) for matematik A
 #### Fra afsnit 2.2 fra undervisningsministeriets bekendtgørelse - matematik A - htx,august 2024
 ##### Gennemgået stof markeres med gult
 

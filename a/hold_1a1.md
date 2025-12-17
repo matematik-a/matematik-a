@@ -2,6 +2,10 @@
 
 -------------------------------------------------
 
+### [samlet pensum for 1a1 - klik her ](/a/kernestof_1a1.md)
+
+-------------------------------------------------
+
 ### Trigonometri
 
 | Uge | Dato     | Emne                                                                          | Aflevering - Projekt - Bevis - Test         | Ved tavlen           |

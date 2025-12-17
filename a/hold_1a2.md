@@ -2,7 +2,7 @@
 
 -------------------------------------------------
 
-## [Samlet Pensum Matematik A - fra undervisningsministeriet - se oversigt her ](/a/kernestof_1a2.md)
+### [samlet pensum for 1a2 - klik her ](/a/kernestof_1a2.md)
 
 -------------------------------------------------
 
