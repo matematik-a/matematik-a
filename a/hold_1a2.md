@@ -42,7 +42,7 @@
 -------------------------------------------------
 
 <details open>
-  <summary>Ligninger og uligheder *lynforløb*</summary>
+  <summary>Ligninger og regneregler *lynforløb*</summary>
 
 | Uge | Dato    | Emne                                                                          | Aflevering - Projekt - Bevis - Test                             |  Ved tavlen        |
 | --- | ------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------- | ------------------ |
