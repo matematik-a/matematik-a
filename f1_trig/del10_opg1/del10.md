@@ -23,7 +23,7 @@ Udfyld de manglende værdier i tabellen - vha. viden om enhedscirklen og allered
 To linjer har hældningskoefficienterne 1/3 og 1/2. Bestem den spidse vinkel mellem de to linjer.
 
 ## Opgave 830 ((modificeret )) 
-En linje går igennem ((1,3)) og danner en vinkel på 75° med x-aksen (hint: Du kan anvende værdierne i tabellens kolonne for 15 grader). Bestem linjens ligning.
+En linje går igennem ((1,3)) og danner en vinkel på 75° med x-aksen - *hint: Du kan anvende værdierne i tabellens kolonne for 15 grader* -. Bestem linjens ligning.
 
 ## Opgave 832
 En retvinklet trekant har en vinkel C på 90°. Desuden er a = 4 og b = 9.
