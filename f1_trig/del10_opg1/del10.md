@@ -45,7 +45,7 @@ Et rektangel er tre gange så langt som det er bredt. Bestem de vinkler, som dia
 Man ønsker at konstruere en regulær 10-kant med kantlængden 8 cm. Find radius af den omskrevne cirkel.
 
 ## Opgave 2001
-Beregn vinklerne i en trekant når siderne er: a = 5, b = 6 og c = 9.
+Beregn vinkel A i en trekant når siderne er: a = 5, b = 6 og c = 9.
 
 ## Opgave 871 (( modificeret ))
 Beregn arealet af et cirkeludsnit når korden er 26 cm og radius er 50 cm.
