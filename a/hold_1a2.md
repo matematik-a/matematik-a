@@ -29,6 +29,7 @@
 | 50  | 12/12-25 | [Fagliglæsning - Euklid's Elementerne](/f1_trig/del9_fagliglaes/del9.md)              |                                                                 |                    |
 |     | 12/12-25 | [Matematikprojekt II, maks 3 personer ](/f1_trig/projekter/trig_cykelstel.pdf)        |                                                                 |                    |
 |     | 15/12-25 | Matematikprojekt II, maks 3 personer                                                  |                                                                 |                    |
+| 2   | 5/1-26  | [Repetition Trig](/f1_trig/del10_opg1/del10.md)                                        |                                                                 |                    |
 |     | 11/1-26  |                                                                                       | [Aflever - Projekt 2](/projekter/trig_cykelstel.pdf)            |                    |
 
 
@@ -46,11 +47,12 @@
 
 | Uge | Dato    | Emne                                                                          | Aflevering - Projekt - Bevis - Test                             |  Ved tavlen        |
 | --- | ------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------- | ------------------ |
-| 2   | 5/1-26  | [Regneregler: Regneherarki, Brøker, Talmængder](/f2_basic/del1_regler/del1.md)|                                                                 |                    |
-|     | 5/1-26  | [Potenser & Rødder](/f2_basic/del2_potenser/del2.md)                          |                                                                 |                    |                         
-|     | 9/1-26  | Procentregning                                                                |                                                                 |                    |  
-|     | 9/1-26  | Andengradsligninger                                                           |                                                                 |                    |  
-|     | 11/1-26 |                                                                               | [Aflever - Projekt 2](/projekter/trig_cykelstel.pdf)            |                    |
+| 2   | 5/1-26  | [Repetition Trig](/f1_trig/del10_opg1/del10.md)                               |                                                                 |                    |
+|     | 9/1-26  | [Regneregler: Regneherarki, Brøker, Talmængder](/f2_basic/del1_regler/del1.md)|                                                                 |                    |
+|     | 9/1-26  | [Potenser & Rødder](/f2_basic/del2_potenser/del2.md)                          |                                                                 |                    |                         
+|     | ?/1-26  | Procentregning                                                                |                                                                 |                    |  
+|     | ?/1-26  | Andengradsligninger                                                           |                                                                 |                    |  
+|     | ?/1-26  |                                                                               | [Aflever - Projekt 2](/projekter/trig_cykelstel.pdf)            |                    |
 
 </details>
 
