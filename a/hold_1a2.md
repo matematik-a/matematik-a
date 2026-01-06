@@ -29,7 +29,6 @@
 | 50  | 12/12-25 | [Fagliglæsning - Euklid's Elementerne](/f1_trig/del9_fagliglaes/del9.md)              |                                                                 |                    |
 |     | 12/12-25 | [Matematikprojekt II, maks 3 personer ](/f1_trig/projekter/trig_cykelstel.pdf)        |                                                                 |                    |
 |     | 15/12-25 | Matematikprojekt II, maks 3 personer                                                  |                                                                 |                    |
-| 2   | 5/1-26   | [Repetitionsopgaver trigonometri](/f1_trig/del10_opg1/del10.md)                       |                                                                 |                    |
 |     | 11/1-26  |                                                                                       | [Aflever - Projekt 2](/projekter/trig_cykelstel.pdf)            |                    |
 
 

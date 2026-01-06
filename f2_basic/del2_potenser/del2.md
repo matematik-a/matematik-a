@@ -8,53 +8,34 @@
 
 En potens er en måde at skrive gentagen multiplikation på. En potens består af en base og en eksponent, hvor basen er det tal, der skal ganges, og eksponenten angiver, hvor mange gange basen skal ganges med sig selv. For eksempel er \( a^n \) en potens med base \( a \) og eksponent \( n \), hvilket betyder, at \( a \) skal ganges med sig selv \( n \) gange:
 
-$ a^n = \underbrace{a \cdot a \cdot a \cdots a}_{n \text{ gange}} $
+- $ a^n = \underbrace{a \cdot a \cdot a \cdots a}_{n \text{ gange}} $ , hvor det gælder at $ n \in \mathbb{N} $
 
 ------------------------------
-
-### Potenser med samme grundtal
-
-Når man har potenser med samme grundtal, gælder følgende regler:
-
- $ a^m \cdot a^n = a^{m+n} $
-
-### Potenser med samme eksponent
-
-Når man har potenser med samme eksponent, gælder følgende regel:
-
- $ a^n \cdot b^n = (a \cdot b)^n $
 
  ### Potensregneregler  
 
-Produktregel: $  a^m \cdot a^n = a^{m+n} $
-
-Kvotientregel: $ \frac{a^m}{a^n} = a^{m-n} $ for $ a \neq 0 $
-
-Potens af en potens: $ (a^m)^n = a^{m \cdot n} $
-
-Potens af et produkt: $ (a \cdot b)^n = a^n \cdot b^n $
-
-Potens af en kvotient: $ \left( \frac{a}{b} \right)^ n = \frac{a^n}{b^n} $ for $ b \neq 0 $
-
-Nulpotens: $ a^0 = 1 $ for $ a \neq 0 $
-
-Negativ eksponent: $ a^{-n} = \frac{1}{a^n} $ for $ a \neq 0 $
-
-Stambrøk som potens: $ a^{\frac{1}{n}} = \sqrt[n]{a} $ for $ a \geq 0 $ og $ n \in \mathbb{N} $
-
-Rationel eksponent: $ a^{\frac{m}{n}} = \sqrt[n]{a^m} $ for $ a \geq 0 $, $ n \in \mathbb{N} $ og $ m \in \mathbb{Z} $
+| **Regel**               | **Formel**        |
+| ----------------------- | ----------------- |
+| 1 Produktregel          | $ \large a^m \cdot a^n = a^{m+n} $ |
+| 2 Nulpotens             | $ \large  a^0 = 1 $ for $ a \neq 0 $ |
+| 3 Potens af en potens   | $ \large  (a^m)^n = a^{m \cdot n} $ |
+| 4 Potens af et produkt  | $ \large  (a \cdot b)^n = a^n \cdot b^n $ |
+| 5 Potens af en kvotient | $ \large  \left( \frac{a}{b} \right)^ n = \frac{a^n}{b^n} $ for $ b \neq 0 $ |
+| 6 Kvotientregel         | $ \large \frac{a^m}{a^n} = a^{m-n} $ for $ a \neq 0 $        |
+| 7 Negativ eksponent     | $ \large a^{-n} = \frac{1}{a^n} $ for $ a \neq 0 $ |
+| 8 Stambrøk som potens   | $ \large a^{\frac{1}{n}} = \sqrt[n]{a} $ for $ a \geq 0 $ og $ n \in \mathbb{N} $ |
+| 9 Rationel eksponent    | $ \large a^{\frac{m}{n}} = \sqrt[n]{a^m} $ for $ a \geq 0 $, $ n \in \mathbb{N} $ og  $ m \in \mathbb{Z} $ |
 
  ------------------------------
 
-### Regler for kvadratrødder
+### Regler for kvadratrødder, udledt fra ovenstående
 
-Fra de ovenstående regler kan vi udlede følgende regler for kvadratrødder:
+| **Regel**               | **Formel**        |
+| ----------------------- | ----------------- |
+| 10 Kvadratrodsreglen for potenser: | $ \sqrt{a^2} = \| a \| $ |
+| 11 Produktregel for rødder:        | $ \sqrt{a \cdot b} = \sqrt{a} \cdot \sqrt{b} $ for $ a \geq 0 $ og $ b \geq 0 $  |
+| 12 Kvotientregel for rødder:       | $ \sqrt{\frac{a}{b}} = \frac{\sqrt{a}}{\sqrt{b}} $ for $ a \geq 0 $ og $ b > 0 $ |
 
-Produktregel for rødder: $ \sqrt{a \cdot b} = \sqrt{a} \cdot \sqrt{b} $ for $ a \geq 0 $ og $ b \geq 0 $
-
-Kvotientregel for rødder: $ \sqrt{\frac{a}{b}} = \frac{\sqrt{a}}{\sqrt{b}} $ for $ a \geq 0 $ og $ b > 0 $
-
-------------------------------
 ------------------------------
 
 ## Øvelse 

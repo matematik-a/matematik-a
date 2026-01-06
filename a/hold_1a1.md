@@ -17,7 +17,7 @@
 | 48  | 24/11-25 | [Cosinus, Sinus og Tangens](/f1_trig/del2_trekanter/del22_1a1.md)                     |                                             |                      |
 |     | 26/11-25 | [Retvinklede trekanter](/f1_trig/del4_trig_retvinkel/del4.md)                         | Bevis 2 : Trig. relationer i retvinklet trekant | Hannibal & Marius B. |   
 | 49  | 5/12-25  | Træning af beviser                                                                    | Bevis 3 : Sinusrelationer højde inde        | Jakob og Thor        |
-|     | 5/12-25  | TEST 1                                                                                | [Test 1 -Trigonometri](/afleveringer/test1/test1.md) |             |
+|     | 5/12-25  | ***TEST 1***                                                                          | [***TEST 1 -Trigonometri***](/afleveringer/test1/test1.md) |       |
 |     | 7/12-25  |                                                                                       | [Aflevering 2](/afleveringer/afl2.md)       |                      |      
 | 50  | 8/12-25  | [Opfølgning på test & bevis træning](/f1_trig/del8_EfterTest1/del8_efterTest1.md)     | Bevis 4 : Sinus og Cosinusrelationerne      | Konrad F.            |
 |     | 8/12-25  | [Opgaveregning](/f1_trig/del8_EfterTest1/opgPlusA612til628.pdf)                       |                                             |                      |
@@ -25,10 +25,9 @@
 |     | 10/12-25 | [Matematikprojekt II, maks 3 personer ](/f1_trig/projekter/trig_cykelstel.pdf)        |                                             |                      |
 |     | 12/12-25 | [Fagliglæsning - Euklid's Elementerne](/f1_trig/del9_fagliglaes/del9.md)              |                                             |                      |
 |     | 12/12-25 | Matematikprojekt II, maks 3 personer                                                  |                                             |                      |
-| 2   | 5/1-26   | [Opgaveregning I](/f1_trig/del10_opg1/del10.md)                                       |                                             |                      |
-|     | 7/1-26   | Opgaveregning                                                                         |                                             |                      |
-|     | 7/1-26   | TEST 1.2                                                                              | Test 1.2 - Trigonometri                     |                      |
-|     | 11/1-26  |                                                                                       | [Aflever - Projekt 2](/projekter/trig_cykelstel.pdf)  |            |
+| 2   | 7/1-26   | [Opgaveregning - træning inden test](/f1_trig/del10_opg1/del10.md)                    |                                             |                      |
+|     | 9/1-26   | ***TEST 1.2***                                                                        | ***Test 1.2 - Trigonometri***               |                      |
+|     | 11/1-26  |                                                                                       | [Aflever - Projekt 2 : Cykelstel](/projekter/trig_cykelstel.pdf) | |
 
 
 [Link til : formelsamling for trigonometriforløbet](/formelsamling/trigonometri/formler_trigonometri.md)
