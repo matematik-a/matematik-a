@@ -8,7 +8,9 @@
 
 En potens er en måde at skrive gentagen multiplikation på. En potens består af en base og en eksponent, hvor basen er det tal, der skal ganges, og eksponenten angiver, hvor mange gange basen skal ganges med sig selv. For eksempel er \( a^n \) en potens med base \( a \) og eksponent \( n \), hvilket betyder, at \( a \) skal ganges med sig selv \( n \) gange:
 
-- $ a^n = \underbrace{a \cdot a \cdot a \cdots a}_{n \text{ gange}} $ , hvor det gælder at $ n \in \mathbb{N} $
+***Definition af potens:***
+
+<div style="text-align: center;">$ \Large a^n = \underbrace{a \cdot a \cdot a \cdots a}_{n \text{ gange}}  , \text{ hvor det gælder } n \in \mathbb{N} $</div>
 
 ------------------------------
 
@@ -40,7 +42,8 @@ En potens er en måde at skrive gentagen multiplikation på. En potens består a
 
 ## Øvelse 
 
-Gå sammen og prøv at bevise de ovenstående regler for potenser og rødder ved hjælp af definitionen af potenser og rødder. Diskuter jeres beviser med hinanden og sørg for, at I forstår hver enkelt regel.
+Gå sammen og prøv at bevise de ovenstående regler - ved hjælp af ovenstående definitioner. <br>
+Diskuter jeres beviser med hinanden og sørg for, at I forstår hver enkelt regel.
 
 
 
