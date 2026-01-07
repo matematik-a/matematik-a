@@ -42,9 +42,14 @@ En potens er en måde at skrive gentagen multiplikation på. En potens består a
 
 ## Øvelse 
 
-Gå sammen og prøv at bevise de ovenstående regler - ved hjælp af ovenstående definitioner. <br>
+Gå sammen og prøv at bevise og overvej hvilke regler der kan "bevises" og hvilke der måske ikke kan bevises, men kun "retfærdiggøres". <br>
 Diskuter jeres beviser med hinanden og sørg for, at I forstår hver enkelt regel.
-
+Her er et par hints til, hvordan I msåke kan gribe det an:
+- Produktreglen : Brug definitionen af potenser til at omskrive udtryk.
+- nulpotensreglen  : kan "retflediggøres" / "ikke direkte bevises" ved at bruge produktreglen.
+- Kvotientreglen : Brug definitionen af potenser til at omskrive udtryk. Ovevej m>n , m=n og m<n.
+- Negativ eksponent : følger direkte af kvotientreglen.
+- Stambrøk som potens : udvidelse af potenser til brøker som eksponent. Overvej feks. $ (a^{1/n})^n $ og anvendelsen af "potens af en potens".
 
 
 
