@@ -6,7 +6,8 @@
 
 -------------------------------------------------
 
-### Trigonometri
+<details>
+  <summary>Trigonometri forløb</summary>
 
 | Uge | Dato     | Emne                                                                                  | Aflevering - Projekt - Bevis - Test         | Ved tavlen           |
 | --- | -------- | ------------------------------------------------------------------------------------- | ------------------------------------------- | -------------------- |
@@ -29,12 +30,21 @@
 |     | 9/1-26   | ***TEST 1.2***                                                                        | ***Test 1.2 - Trigonometri***               |                      |
 |     | 11/1-26  |                                                                                       | [Aflever - Projekt 2 : Cykelstel](/projekter/trig_cykelstel.pdf) | |
 
-
 [Link til : formelsamling for trigonometriforløbet](/formelsamling/trigonometri/formler_trigonometri.md)
+
+</details>
 
 -------------------------------------------------
 
-### Ligninger og uligheder *lynforløb*
+<details open>
+  <summary>Ligninger og regneregler *lynforløb*</summary>
+
+| Uge | Dato    | Emne                                                                          | Aflevering - Projekt - Bevis - Test                             |  Ved tavlen        |
+| --- | ------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------- | ------------------ |
+| 3   | 15/1-26  | [Regneregler: Regneherarki, Brøker, Talmængder](/f2_basic/del1_regler/del1.md)|                                                                 |                    |
+|     | 15/1-26  | [Potenser & Rødder](/f2_basic/del2_potenser/del2.md)                          |                                                                 |                    |      
+
+</details>
  
 -------------------------------------------------
 
