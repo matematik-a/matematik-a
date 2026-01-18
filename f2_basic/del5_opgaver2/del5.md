@@ -22,7 +22,7 @@ Reducer følgende
 
 ## Mængder
 
-Bestem tallene i følgende mængder når $ A = \{ 1,2,3,4,5,6 \} $
+Bestem tallene i følgende mængder når  A = { 1,2,3,4,5,6 } 
 
 218 B.)  B = { $ x^2 | x \in A $ } 
 
