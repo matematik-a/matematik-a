@@ -41,8 +41,9 @@
 
 | Uge | Dato    | Emne                                                                          | Aflevering - Projekt - Bevis - Test                             |  Ved tavlen        |
 | --- | ------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------- | ------------------ |
-| 3   | 15/1-26  | [Regneregler: Regneherarki, Brøker, Talmængder](/f2_basic/del1_regler/del1.md)|                                                                 |                    |
-|     | 15/1-26  | [Potenser & Rødder](/f2_basic/del2_potenser/del2.md)                          |                                                                 |                    |      
+| 3   | 15/1-26 | [Regneregler: Regneherarki, Brøker, Talmængder](/f2_basic/del1_regler/del1.md)|                                                                 |                    |
+|     |         |                                                                               |                                                                 |                    |          
+| 4   | 19/1-26 | [Potenser & Rødder](/f2_basic/del2_potenser/del2.md)                          |                                                                 |                    |      
 
 </details>
  
