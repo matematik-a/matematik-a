@@ -50,9 +50,11 @@
 |     | 9/1-26  | [Potenser & Rødder](/f2_basic/del2_potenser/del2.md)                          |                                                                 |                    |      
 |     | 11/1-26 |                                                                               | [Aflever - Projekt 2](/projekter/trig_cykelstel.pdf)            |                    |
 | 3   | 12/1-26 | [Andengradsligninger - kvadratkomplettering](/f2_basic/del4_andengrad/del4.md) |                                                                |                    |  
-|     | 16/1-26 |                                                                               |                                                                 |                    |
+|     | -       |                                                                               |                                                                 |                    |
 | 4   | 19/1-26 | Bevis diskriminantformel - "frivillig vælges"                                 |                                                                 |                    |
-|     | 19/1-26 | [Diverse opgaver](/f2_basic/del5_opgaver2/del5.md)                  |                                                                 |                    |
+|     | -       |                                                                               |                                                                 |                    |
+| 5   | 23/1-26 | [Diverse opgaver - lektion 1](/f2_basic/del5_opgaver2/del5.md)                |                                                                 |                    |
+|     | 23/1-26 | [Diverse opgaver - lektion 2](/f2_basic/del5_opgaver2/del5_2.md)              |                                                                 |                    |
 
 </details>
 

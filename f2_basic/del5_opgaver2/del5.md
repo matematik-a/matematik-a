@@ -44,6 +44,8 @@ Bestem tallene i følgende mængder når  A = { 1,2,3,4,5,6 }
 
 # Andre ligninger
 
+Prøv at løse ligning og derefter tegne løsningen i et koordinatsystem
+
 349 3.) Løs ligningen $ | x | < 3 $
 
 349 1.) Løs ligningen $ | x - 2 | = 3 $
@@ -58,11 +60,11 @@ Bestem tallene i følgende mængder når  A = { 1,2,3,4,5,6 }
 
 405 c.) Løs $ \sqrt{ (x-2)^2} = 3 $
 
-417 b.) Beregn $  {\frac{ 2^½ \cdot \sqrt{2^3} \cdot 2 }{\sqrt[3]{2}}} $
+417 b.) Beregn $  {\frac{ 2^{\frac{-1}{2}} \cdot \sqrt{2^3} \cdot 2 }{\sqrt[3]{2}}} $
 
-Lidt sværere, find x:
+Lidt sværere, find x, det vides at x > 0:
 
-421 d.)  $ x^{3/4}  = 7 \sqrt[3]{x} $
+421 g.)  $ x^{3/4}  = 7 \sqrt[3]{x} $
 
 421 h.)  $  { 3 \cdot \sqrt[7]{x}  = 7 \sqrt[3]{x} } $
 
@@ -70,9 +72,11 @@ Lidt sværere, find x:
 
 ## Andengradsligninger 
 
+start med at tjekke antal løsninger diskriminant
+
 356 1.) $ \frac{1}{2} x^2 - \frac{3}{2} x + 2 = 0 $
 
-356 2.) $ 2 x^2 + 6 x + 8 = 0 $
+356 2.) $ 2 x^2 + 6 x + 8 = 0 $ , hu
 
 356 3.) $ \frac{5}{2} x^2 - 7 x + 1 = 0 $
 

@@ -44,6 +44,9 @@
 | 3   | 15/1-26 | [Regneregler: Regneherarki, Brøker, Talmængder](/f2_basic/del1_regler/del1.md)|                                                                 |                    |
 |     |         |                                                                               |                                                                 |                    |          
 | 4   | 19/1-26 | [Potenser & Rødder](/f2_basic/del2_potenser/del2.md)                          |                                                                 |                    |      
+|     |         |                                                                               |                                                                 |                    |  
+| 5   | 22/1-26 | [Bevis $ \sqrt[n]{a} = a^{1/n} $](/f2_basic/del2_potenser/bevis_rodregel2.md) |                                                                 |                    |
+|     | 23/1-26 | [Andengradsligninger - kvadratkomplettering](/f2_basic/del4_andengrad/del4.md) |                                                                |                    |
 
 </details>
  
