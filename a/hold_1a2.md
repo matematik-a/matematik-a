@@ -31,10 +31,7 @@
 |     | 15/12-25 | Matematikprojekt II, maks 3 personer                                                  |                                                                 |                    |
 |     | 11/1-26  |                                                                                       | [Aflever - Projekt 2](/projekter/trig_cykelstel.pdf)            |                    |
 
-
 ### [Link til : formelsamling for trigonometriforløbet](/formelsamling/trigonometri/formler_trigonometri.md)
-
-
 
 </details>
 
@@ -42,19 +39,24 @@
 -------------------------------------------------
 
 <details open>
-  <summary>Ligninger og regneregler *lynforløb*</summary>
+  <summary>Ligninger og regneregler</summary>
 
-| Uge | Dato    | Emne                                                                          | Aflevering - Projekt - Bevis - Test                             |  Ved tavlen        |
-| --- | ------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------- | ------------------ |
-| 2   | 9/1-26  | [Regneregler: Regneherarki, Brøker, Talmængder](/f2_basic/del1_regler/del1.md)|                                                                 |                    |
-|     | 9/1-26  | [Potenser & Rødder](/f2_basic/del2_potenser/del2.md)                          |                                                                 |                    |      
-|     | 11/1-26 |                                                                               | [Aflever - Projekt 2](/projekter/trig_cykelstel.pdf)            |                    |
-| 3   | 12/1-26 | [Andengradsligninger - kvadratkomplettering](/f2_basic/del4_andengrad/del4.md) |                                                                |                    |  
-|     | -       |                                                                               |                                                                 |                    |
-| 4   | 19/1-26 | Bevis diskriminantformel - "frivillig vælges"                                 |                                                                 |                    |
-|     | -       |                                                                               |                                                                 |                    |
-| 5   | 23/1-26 | [Diverse opgaver - lektion 1](/f2_basic/del5_opgaver2/del5.md)                |                                                                 |                    |
-|     | 23/1-26 | [Diverse opgaver - lektion 2](/f2_basic/del5_opgaver2/del5_2.md)              |                                                                 |                    |
+| Uge | Dato    | Emne                                                                           | Aflevering - Projekt - Bevis - Test                             |  Ved tavlen        |
+| --- | ------- | ------------------------------------------------------------------------------ | --------------------------------------------------------------- | ------------------ |
+| 2   | 9/1-26  | [Regneregler: Regneherarki, Brøker, Talmængder](/f2_basic/del1_regler/del1.md) |                                                                 |                    |
+|     | 9/1-26  | [Potenser & Rødder](/f2_basic/del2_potenser/del2.md)                           |                                                                 |                    |      
+|     | 11/1-26 |                                                                                | [Aflever - Projekt 2](/projekter/trig_cykelstel.pdf)            |                    |
+| 3   | 12/1-26 | [Andengradsligninger - kvadratkomplettering](/f2_basic/del4_andengrad/del4.md) |                                                                 |                    |  
+|     | -       |                                                                                |                                                                 |                    |
+| 4   | 19/1-26 | Bevis diskriminantformel - "frivillig vælges"                                  |                                                                 |                    |
+|     | -       |                                                                                |                                                                 |                    |
+|     | 23/1-26 | [Diverse opgaver - lektion 1](/f2_basic/del5_opgaver2/del5.md)                 |                                                                 |                    |
+|     | 23/1-26 | [Diverse opgaver 2 - lektion 2](/f2_basic/del5_opgaver2/del5_2.md)             |                                                                 |                    |
+|     | -       |                                                                                |                                                                 |                    |
+| 5   | 25/1-26 | [Diverse opgaver 3 - lektion 1](/f2_basic/del5_opgaver2/del5_3.md)             |                                                                 |                    |
+| 5   | 25/1-26 | [Analytisk plangeometri](/f3_aplan/del1.md)                                    |                                                                 |                    |
+|     | -       |                                                                                |                                                                 |                    |
+| 6   | ?/2-26  | TEST - LIGNINGER REGNEREGLER OG LIDT A.P.GEOMETRI                              |                                                                 |                    |
 
 </details>
 
