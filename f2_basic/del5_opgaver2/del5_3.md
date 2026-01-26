@@ -18,9 +18,9 @@ $ x \in A $ , x tilhører A , dvs. x er tal fra mængden A
 
  K = { $ x \in R | x > 2 $ } , dette eks. angiver en mængde K der indeholder reelle tal størrer end 2  
 
-$ K = A \cap B $ , foreneningsmængde
+$ K = A \cap B $ , fællesmænde
 
-$ K = A \cup B $ , fællesmængde
+$ K = A \cup B $ , foreningsmængde
 
 #### Opgaver:
 
@@ -68,7 +68,7 @@ Husk en dobbeltrod dvs. en rod kan omskrives til $ a \cdot ( x - r)^2  = 0 $
 
 A1.) En andengradsligning har rødderne 1 og 3 ,- skriv ligningen på formen $ 2 \cdot x^2 + b \cdot x + c = 0 $
 
-A2.) Bestem løsningerne til ligningen $ x^2 + - 3 \cdot k \cdot x -2 \cdot k^2 = 0 $
+A2.) Bestem løsningerne til ligningen $ x^2 - k^2
 
 
 
