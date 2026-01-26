@@ -68,7 +68,7 @@ Husk en dobbeltrod dvs. en rod kan omskrives til $ a \cdot ( x - r)^2  = 0 $
 
 A1.) En andengradsligning har rødderne 1 og 3 ,- skriv ligningen på formen $ 2 \cdot x^2 + b \cdot x + c = 0 $
 
-A2.) Bestem løsningerne til ligningen $ x^2 - k^2
+A2.) Bestem løsningerne til ligningen $ x^2 - k^2 = 0$ 
 
 
 
