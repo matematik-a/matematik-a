@@ -53,8 +53,8 @@
 |     | 23/1-26 | [Diverse opgaver - lektion 1](/f2_basic/del5_opgaver2/del5.md)                 |                                                                 |                    |
 |     | 23/1-26 | [Diverse opgaver 2 - lektion 2](/f2_basic/del5_opgaver2/del5_2.md)             |                                                                 |                    |
 |     | -       |                                                                                |                                                                 |                    |
-| 5   | 25/1-26 | [Diverse opgaver 3 - lektion 1](/f2_basic/del5_opgaver2/del5_3.md)             |                                                                 |                    |
-| 5   | 25/1-26 | [Analytisk plangeometri](/f3_aplan/del1.md)                                    |                                                                 |                    |
+| 6   | 26/1-26 | [Diverse opgaver 3 - lektion 1](/f2_basic/del5_opgaver2/del5_3.md)             |                                                                 |                    |
+|     | 26/1-26 | [Analytisk plangeometri](/f3_aplan/del1.md)                                    |                                                                 |                    |
 |     | -       |                                                                                |                                                                 |                    |
 | 6   | ?/2-26  | TEST - LIGNINGER REGNEREGLER OG LIDT A.P.GEOMETRI                              |                                                                 |                    |
 
