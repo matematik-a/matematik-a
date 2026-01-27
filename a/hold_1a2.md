@@ -38,7 +38,7 @@
 
 -------------------------------------------------
 
-<details open>
+<details>
   <summary>Ligninger og regneregler</summary>
 
 | Uge | Dato    | Emne                                                                           | Aflevering - Projekt - Bevis - Test                             |  Ved tavlen        |
@@ -48,17 +48,28 @@
 |     | 11/1-26 |                                                                                | [Aflever - Projekt 2](/projekter/trig_cykelstel.pdf)            |                    |
 | 3   | 12/1-26 | [Andengradsligninger - kvadratkomplettering](/f2_basic/del4_andengrad/del4.md) |                                                                 |                    |  
 |     | -       |                                                                                |                                                                 |                    |
-| 4   | 19/1-26 | Bevis diskriminantformel - "frivillig vælges"                                  |                                                                 |                    |
+| 4   | 19/1-26 | Bevis diskriminantformel - "frivillig vælges"                                  |                                                                 | Simon Torp         |
 |     | -       |                                                                                |                                                                 |                    |
 |     | 23/1-26 | [Diverse opgaver - lektion 1](/f2_basic/del5_opgaver2/del5.md)                 |                                                                 |                    |
 |     | 23/1-26 | [Diverse opgaver 2 - lektion 2](/f2_basic/del5_opgaver2/del5_2.md)             |                                                                 |                    |
 |     | -       |                                                                                |                                                                 |                    |
-| 6   | 26/1-26 | [Diverse opgaver 3 - lektion 1](/f2_basic/del5_opgaver2/del5_3.md)             |                                                                 |                    |
-|     | 26/1-26 | [Analytisk plangeometri](/f3_aplan/del1.md)                                    |                                                                 |                    |
-|     | -       |                                                                                |                                                                 |                    |
-| 6   | ?/2-26  | TEST - LIGNINGER REGNEREGLER OG LIDT A.P.GEOMETRI                              |                                                                 |                    |
+| 5   | 26/1-26 | [Diverse opgaver 3 - lektion 1](/f2_basic/del5_opgaver2/del5_3.md)             |                                                                 |                    |
 
 </details>
+
+-------------------------------------------------
+
+<details open>
+  <summary>Analytisk plangeometri</summary>
+
+| Uge | Dato    | Emne                                                                           | Aflevering - Projekt - Bevis - Test                             |  Ved tavlen        |
+| --- | ------- | ------------------------------------------------------------------------------ | --------------------------------------------------------------- | ------------------ |
+|  5  | 26/1-26 | [Opstart](/f3_aplan/del1.md)                                                   |                                                                 |                    |
+|     | -       |                                                                                |                                                                 |                    |
+|     | ?/2-26  | TEST - LIGNINGER REGNEREGLER OG LIDT A.P.GEOMETRI                              |                                                                 |                    |
+
+</details>
+
 
 -------------------------------------------------
 

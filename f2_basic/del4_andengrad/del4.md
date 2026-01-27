@@ -14,45 +14,34 @@ En andengradsligning er en ligning på formen:
 
 $ \large ax^2 + bx + c = 0 , \text{ hvor } a \neq 0 $    
 
-Andengradsligninger kan løses på flere forskellige måder, herunder:
-- Faktorisering
-- Kvadratkompletering
-- Brug af andengradssætningen (som er et resultat af kvadratkompletering
+Andengradsligninger kan løses på flere forskellige måder, herunder: gætte og tjekke, faktorisering, kvadratkompletering og ved hjælp af andengradssætningen.
 
 ------------------------------
 
-### Løsning ved kvadratkompletering
+## Løsning ved kvadratkompletering
 
-#### Eksempel 1 : 
+Metoden går ud på at omskrive en del af ligningen til et fuldstændigt kvadrat på formen $ \large (x + k)^2 $.
+Derefter kan man tage kvadratroden på begge sider og isolere x.
 
-Følgende ligning løses ved kvadratkompletering:
+### Metode :
 
- $ \large 2x^2 + 4x - 6 = 0 $
+***Trin 1*** Hvis a ≠ 1, divideres ligningen igennem med a. </br>
+***Trin 2*** Flyt den konstante term (c) over på højre side. </br>
+***Trin 3*** Tilføj et passende tal til begge sider, så venstresiden bliver et fuldstændigt kvadrat. </br>
+***Trin 4*** Tag kvadratroden på begge sider. </br>
 
-Metoden går ud på først at omskrive en del af ligningen til et fuldstændigt kvadrat på formen $ \large (x + k)^2 $.
-Derefter kan man tage kvadratroden på begge sider og isolere x.<br>
-Først divideres ligningen igennem med 2:
+#### Eksempel : 
 
-***Trin 1 :*** $ \large x^2 + 2x - 3 = 0 $
-
-Så flyttes -3 over på højre side:
-
-***Trin 2 :*** $ \large x^2 + 2x = 3 $
-
-Nu skal venstresiden omskrives til et fuldstændigt kvadrat.
-Sammenlign med formlen $ \large (x + k)^2 = x^2 + 2xk + k^2 $.
-
-***Trin 3 :*** $ \large ( x + 1 )^2 = 3 + 1^2 $
-
-Læg mærke til at man har tilføjet $ \large 1^2 $ på højre side for at bevare ligheden.<br>
-Nu kan vi løse ligningen ved at tage kvadratroden på begge sider:
-
-***Trin 4 :*** $ \large x + 1 = \pm \sqrt{4} $
-
-***Trin 5 :*** $ \large x = -1 \pm 2 $
-
-Dermed fås løsningerne:
-$ \large x_1 = 1 $ og $ \large x_2 = -3 $.
+| Trin     | ligning        | kommentar   |
+| -------- | -------------- | ----------- |
+|          |  $ \large 2x^2 + 4x - 6 = 0 $ | Start ligningen |
+| **1**    | $ \large x^2 + 2x - 3 = 0 $ |  Divider med 2 |
+| **2**    | $ \large x^2 + 2x = 3 $ | Læg 3 til på begge sider |
+| **3**    | $ \large x^2 + 2 \cdot 1 \cdot x + 1^2 = 3 + 1^2 $ | Tilføj $ 1^2 $ på begge sider |
+|          | $ \large ( x + 1 )^2 = 3 + 1^2 $ | Venstresiden er nu et fuldstændigt kvadrat |    
+| **4**    | $ \large x + 1 = \pm \sqrt{4} $ | Tag kvadratroden på begge sider |
+|          | $ \large x = -1 \pm 2 $ |
+|      | $ \large x_1 = 1 $ og $ \large x_2 = -3 $ | løsningerne er nu givet |
 
 
 --------------------------------
@@ -63,10 +52,14 @@ Løs følgende andengradsligninger ved kvadratkompletering:
 2. $ \large 3x^2 - 9x + 6 = 0 $
 3. $ \large 2x^2 + 8x - 10 = 0 $
 
+
+--------------------------------
+
+
 ### Opgave 2 :
 
-I skal nu bevise Andengradssætningen : 
-#### Andengradssætningen
+I skal nu bevise diskriminantformlen ved hjælp af kvadratkompletering.: 
+#### Dikriminantformlen :
 Løsningerne til andengradsligningen $ \large ax^2 + bx + c = 0 , \text{ hvor } a \neq 0 $ er givet ved formlen: 
 
-$ \Large x = \frac{ -b \pm \sqrt{b^2 - 4ac}}{2a} $
+$ \Large x = \frac{ -b \pm \sqrt{d}}{2a} $ hvor $ d = b^2 - 4ac $

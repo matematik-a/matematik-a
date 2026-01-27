@@ -37,7 +37,7 @@
 -------------------------------------------------
 
 <details open>
-  <summary>Ligninger og regneregler *lynforløb*</summary>
+  <summary>Ligninger og regneregler</summary>
 
 | Uge | Dato    | Emne                                                                          | Aflevering - Projekt - Bevis - Test                             |  Ved tavlen        |
 | --- | ------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------- | ------------------ |
@@ -45,8 +45,7 @@
 |     |         |                                                                               |                                                                 |                    |          
 | 4   | 19/1-26 | [Potenser & Rødder](/f2_basic/del2_potenser/del2.md)                          |                                                                 |                    |      
 |     |         |                                                                               |                                                                 |                    |  
-| 5   | 22/1-26 | [Bevis $ \sqrt[n]{a} = a^{1/n} $](/f2_basic/del2_potenser/bevis_rodregel2.md) |                                                                 |                    |
-|     | 23/1-26 | [Andengradsligninger - kvadratkomplettering](/f2_basic/del4_andengrad/del4.md) |                                                                |                    |
+| 5   | 28/1-26 | [Andengradsligninger - kvadratkomplettering](/f2_basic/del4_andengrad/del4.md) | [ rodregel - friviliig læsning ](/f2_basic/del2_potenser/bevis_rodregel3.md)  |     |
 
 </details>
  
