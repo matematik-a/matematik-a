@@ -62,4 +62,4 @@ I skal nu bevise diskriminantformlen ved hjælp af kvadratkompletering.:
 #### Dikriminantformlen :
 Løsningerne til andengradsligningen $ \large ax^2 + bx + c = 0 , \text{ hvor } a \neq 0 $ er givet ved formlen: 
 
-$ \Large x = \frac{ -b \pm \sqrt{d}}{2a} $ hvor $ d = b^2 - 4ac $
+$\boxed{ \Large x = \frac{ -b \pm \sqrt{d}}{2a}}$ hvor diskriminanten d er :  $ \boxed{ \Large d = b^2 - 4ac }$

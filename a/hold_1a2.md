@@ -66,7 +66,11 @@
 | --- | ------- | ------------------------------------------------------------------------------ | --------------------------------------------------------------- | ------------------ |
 |  5  | 26/1-26 | [Opstart](/f3_aplan/del1.md)                                                   |                                                                 |                    |
 |     | -       |                                                                                |                                                                 |                    |
-|     | ?/2-26  | TEST - LIGNINGER REGNEREGLER OG LIDT A.P.GEOMETRI                              |                                                                 |                    |
+|     | 28/1-26 | Bevis formel for ortogonale linjer                                             |                                                                 |                    |
+|     | 28/1-26 | Bevis formel for afstand imellem to punkter                                    |                                                                 |                    |
+|     | 28/1-26 | Bevis formel for afstand imellem linje og punkt                                |                                                                 |                    |
+|     | -       |                                                                                |                                                                 |                    |
+|     | 30/1-26  | TEST - LIGNINGER REGNEREGLER OG LIDT A.P.GEOMETRI                              |                                                                 |                    |
 
 </details>
 
