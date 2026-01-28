@@ -48,7 +48,7 @@
 | 5   | 28/1-26 | [Andengradsligninger - kvadratkomplettering](/f2_basic/del4_andengrad/del4.md) | [ rodregel - friviliig læsning ](/f2_basic/del2_potenser/bevis_rodregel3.md)  |     |
 |     |         |                                                                               |                                                                 |                    |  
 | 6   |  -      |                                                                                | TEST 2                                                          |                    |
-| 8   |  -      |                                                                                | TEST 2                                                          |                    |
+| 8   |  -      |                                                                                | Aflevering 3                                                    |                    |
 | 9   |  -      |                                                                                | [Aflever - Projekt 3](/projekter/aPlanGeo_laage.pdf)            |                    |
 </details>
 
