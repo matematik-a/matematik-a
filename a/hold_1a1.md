@@ -46,7 +46,10 @@
 | 4   | 19/1-26 | [Potenser & Rødder](/f2_basic/del2_potenser/del2.md)                          |                                                                 |                    |      
 |     |         |                                                                               |                                                                 |                    |  
 | 5   | 28/1-26 | [Andengradsligninger - kvadratkomplettering](/f2_basic/del4_andengrad/del4.md) | [ rodregel - friviliig læsning ](/f2_basic/del2_potenser/bevis_rodregel3.md)  |     |
-
+|     |         |                                                                               |                                                                 |                    |  
+| 6   |  -      |                                                                                | TEST 2                                                          |                    |
+| 8   |  -      |                                                                                | TEST 2                                                          |                    |
+| 9   |  -      |                                                                                | [Aflever - Projekt 3](/projekter/aPlanGeo_laage.pdf)            |                    |
 </details>
 
 -------------------------------------------------
