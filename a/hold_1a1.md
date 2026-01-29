@@ -46,10 +46,12 @@
 | 4   | 19/1-26 | [Potenser & Rødder](/f2_basic/del2_potenser/del2.md)                          |                                                                 |                    |      
 |     |         |                                                                               |                                                                 |                    |  
 | 5   | 28/1-26 | [Andengradsligninger - kvadratkomplettering](/f2_basic/del4_andengrad/del4.md) | [ rodregel - friviliig læsning ](/f2_basic/del2_potenser/bevis_rodregel3.md)  |     |
+|     |         | Bevis diskriminantformel                                                      |                                                                 | Frederik E. & Thor |  
 |     |         |                                                                               |                                                                 |                    |  
-| 6   |  -      |                                                                                | TEST 2                                                          |                    |
-| 8   |  -      |                                                                                | Aflevering 3                                                    |                    |
-| 9   |  -      |                                                                                | [Aflever - Projekt 3](/projekter/aPlanGeo_laage.pdf)            |                    |
+|     | 29/1-26 | [Diverse opgaver - lektion 1](/f2_basic/del5_opgaver2/del5B_1.md)             |                                                                 |                    |
+| 6   |  -      |                                                                               | TEST 2                                                          |                    |
+| 8   |  -      |                                                                               | Aflevering 3                                                    |                    |
+| 9   |  -      |                                                                               | [Aflever - Projekt 3](/projekter/aPlanGeo_laage.pdf)            |                    |
 </details>
 
 -------------------------------------------------
