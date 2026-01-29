@@ -2,9 +2,8 @@
 
 ------------------------------
 
-## Del 5 :  Diverse opgaver i tal, regneregler og ligninger 3 - opsamlingsopgaver 
-
-### Materiale fra plus A, systime: kapitel 2
+## Del 5 :  Diverse opgaver i tal, regneregler og ligninger
+### Materiale fra plus A, systime: kapitel 2 & Opgaver fra Carstens matematik A
 
 ------------------------------
 
