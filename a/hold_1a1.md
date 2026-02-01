@@ -49,9 +49,11 @@
 |     |         | Bevis diskriminantformel                                                      |                                                                 | Frederik E. & Thor |  
 |     |         |                                                                               |                                                                 |                    |  
 |     | 29/1-26 | [Diverse opgaver - lektion 1](/f2_basic/del5_opgaver2/del5B_1.md)             |                                                                 |                    |
-| 6   |  -      |                                                                               | TEST 2                                                          |                    |
-| 8   |  -      |                                                                               | Aflevering 3                                                    |                    |
-| 9   |  -      |                                                                               | [Aflever - Projekt 3](/projekter/aPlanGeo_laage.pdf)            |                    |
+|     |         |                                                                               |                                                                 |                    |  
+| 6   |  2/2-26 | [Andre ligninger med rødder og potenser](/f2_basic/del6/del6.md)              | TEST 2                                                          |                    |
+|     |         |                                                                               |                                                                 |                    |  
+| 8   |  -      |                                                                               | Aflevering 3 - ligninger rgeneregler?                           |                    |
+| 10  |  -      |                                                                               | [Aflever - Projekt 3](/projekter/aPlanGeo_laage.pdf)            |                    |
 </details>
 
 -------------------------------------------------
