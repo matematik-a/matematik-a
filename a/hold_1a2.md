@@ -68,7 +68,7 @@
 | --- | ------- | ------------------------------------------------------------------------------ | --------------------------------------------------------------- | ------------------ |
 |  5  | 26/1-26 | [Opstart - rette linjer kap 7.1](/f3_aplan/del1.md)                            |                                                                 |                    |
 |     | -       |                                                                                |                                                                 |                    |
-|     | 28/1-26 | Bevis formel for ortogonale linjer, se øvelse 7.1.6                            |                                                                 | ?                  |
+|     | 28/1-26 | Bevis formel for ortogonale linjer, se øvelse 7.1.6                            |                                                                 | Rasmus             |
 |     | 28/1-26 | Bevis formel for afstand imellem to punkter , brug pythagoras                  |                                                                 | Johan              |
 |     | 28/1-26 | Bevis formel for afstand imellem linje og punkt, se kap 7.2 -"bevis sætning 2" |                                                                 | Norma              |
 |     | 28/1-26 | Øvelse 7.2.1 til 7.2.4                                                         |                                                                 |                    | 
