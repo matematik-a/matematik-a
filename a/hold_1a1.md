@@ -47,13 +47,10 @@
 |     |         |                                                                               |                                                                 |                    |  
 | 5   | 28/1-26 | [Andengradsligninger - kvadratkomplettering](/f2_basic/del4_andengrad/del4.md) | [ rodregel - friviliig læsning ](/f2_basic/del2_potenser/bevis_rodregel3.md)  |     |
 |     |         | Bevis diskriminantformel                                                      |                                                                 | Frederik E. & Thor |  
-|     |         |                                                                               |                                                                 |                    |  
 |     | 29/1-26 | [Diverse opgaver - 1](/f2_basic/del5_opgaver2/del5B_1.md)                     |                                                                 |                    |
 |     |         |                                                                               |                                                                 |                    |  
 | 6   | 2/2-26  | [Diverse opgaver - 2](/f2_basic/del6/del6.md)                                 |                                                                 |                    |
-|     |         |                                                                               |                                                                 |                    |  
 |     | 4/2-26  | [Opgaveregning - træning inden test](/f2_basic/del7/del7.md)                  |                                                                 |                    |
-|     |         |                                                                               |                                                                 |                    |  
 |     | 6/2-26  | ***TEST 2 - LIGNINGER OG REGNEREGLER***                                       | TEST 2                                                          |                    | 
 | 8   |  -      |                                                                               | Aflevering 3 - ligninger regneregler?                           |                    |
 | 10  |  -      |                                                                               | [Aflever - Projekt 3](/projekter/aPlanGeo_laage.pdf)            |                    |
