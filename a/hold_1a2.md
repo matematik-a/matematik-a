@@ -54,6 +54,8 @@
 |     | 23/1-26 | [Diverse opgaver 2 - lektion 2](/f2_basic/del5_opgaver2/del5_2.md)             |                                                                 |                    |
 |     | -       |                                                                                |                                                                 |                    |
 | 5   | 26/1-26 | [Diverse opgaver 3 - lektion 1](/f2_basic/del5_opgaver2/del5_3.md)             |                                                                 |                    |
+|     | -       |                                                                                |                                                                 |                    |
+|     | 30/1-26 | ***TEST - LIGNINGER REGNEREGLER OG LIDT A.P.GEOMETRI***                        | TEST 2                                                          |                    |
 
 </details>
 
@@ -66,9 +68,9 @@
 | --- | ------- | ------------------------------------------------------------------------------ | --------------------------------------------------------------- | ------------------ |
 |  5  | 26/1-26 | [Opstart - rette linjer kap 7.1](/f3_aplan/del1.md)                            |                                                                 |                    |
 |     | -       |                                                                                |                                                                 |                    |
-|     | 28/1-26 | Bevis formel for ortogonale linjer, se øvelse 7.1.6                            |                                                                 | lodtrækning        |
-|     | 28/1-26 | Bevis formel for afstand imellem to punkter , brug pythagoras                  |                                                                 | lodtrækning        |
-|     | 28/1-26 | Bevis formel for afstand imellem linje og punkt, se kap 7.2 -"bevis sætning 2" |                                                                 | lodtrækning        |
+|     | 28/1-26 | Bevis formel for ortogonale linjer, se øvelse 7.1.6                            |                                                                 | ?                  |
+|     | 28/1-26 | Bevis formel for afstand imellem to punkter , brug pythagoras                  |                                                                 | Johan              |
+|     | 28/1-26 | Bevis formel for afstand imellem linje og punkt, se kap 7.2 -"bevis sætning 2" |                                                                 | Norma              |
 |     | 28/1-26 | Øvelse 7.2.1 til 7.2.4                                                         |                                                                 |                    | 
 |     | -       |                                                                                |                                                                 |                    |
 |     | 30/1-26 | TEST - LIGNINGER REGNEREGLER OG LIDT A.P.GEOMETRI                              | TEST 2                                                          |                    |
