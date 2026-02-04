@@ -74,6 +74,8 @@
 |     | 28/1-26 | Øvelse 7.2.1 til 7.2.4                                                         |                                                                 |                    | 
 |     | -       |                                                                                |                                                                 |                    |
 |     | 30/1-26 | TEST - LIGNINGER REGNEREGLER OG LIDT A.P.GEOMETRI                              | TEST 2                                                          |                    |
+|     | -       |                                                                                |                                                                 |                    |
+| 6   | 6/2-26  | [cirklens ligning kap 7.3](/f3_aplan/del3.md)                                  |                                                                 |                    |  
 | 8   |  -      |                                                                                | AFLEVERING 3 - ligninger regneregler ?                          |                    |
 | 10  |  -      |                                                                                | [Aflever - Projekt 3](/projekter/aPlanGeo_laage.pdf)            |                    |
 
