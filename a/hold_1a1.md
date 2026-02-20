@@ -51,9 +51,12 @@
 |     |         |                                                                               |                                                                 |                    |  
 | 6   | 2/2-26  | [Diverse opgaver - 2](/f2_basic/del6/del6.md)                                 |                                                                 |                    |
 |     | 4/2-26  | [Opgaveregning - træning inden test](/f2_basic/del7/del7.md)                  |                                                                 |                    |
-|     | 6/2-26  | ***TEST 2 - LIGNINGER OG REGNEREGLER***                                       | TEST 2                                                          |                    | 
-| 8   |  -      |                                                                               | Aflevering 3 - ligninger regneregler?                           |                    |
+|     | 6/2-26  | ***TEST 2 - LIGNINGER OG REGNEREGLER***                                       | TEST 2 - ***kun få deltog***                                    |                    | 
+|     |         |                                                                               |                                                                 |                    |  
+| 8   | 23/2-26 | ***TEST 2 - LIGNINGER OG REGNEREGLER***                                       | TEST 2 - ***deltagere fra sidst får NY test***                  |                    |
+|     |         |                                                                               |                                                                 |                    |  
 | 10  |  -      |                                                                               | [Aflever - Projekt 3](/projekter/aPlanGeo_laage.pdf)            |                    |
+
 </details>
 
 -------------------------------------------------

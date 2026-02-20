@@ -75,8 +75,12 @@
 |     | -       |                                                                                |                                                                 |                    |
 |     | 30/1-26 | TEST - LIGNINGER REGNEREGLER OG LIDT A.P.GEOMETRI                              | TEST 2                                                          |                    |
 |     | -       |                                                                                |                                                                 |                    |
-| 6   | 6/2-26  | [cirklens ligning kap 7.3](/f3_aplan/del3.md)                                  |                                                                 |                    |  
-| 8   |  -      |                                                                                | AFLEVERING 3 - ligninger regneregler ?                          |                    |
+| 6   | 6/2-26  | [Cirklens ligning kap 7.3](/f3_aplan/del3.md)                                  |                                                                 |                    |  
+|     | -       |                                                                                |                                                                 |                    |
+| 8   | 23/2-26 | [Cirklens ligning repetition](/f3_aplan/del4_cirkel2.md)                       |                                                                 |                    |
+| 8   | 23/2-26 | [Cirklens tangenter](/f3_aplan/del5_tangenter.md)                              |                                                                 |                    |
+|     | -       |                                                                                |                                                                 |                    |
+| 8   | 25/2-26 | Cirklers skæringspunkter                                                       |                                                                 |                    |
 | 10  |  -      |                                                                                | [Aflever - Projekt 3](/projekter/aPlanGeo_laage.pdf)            |                    |
 
 </details>
