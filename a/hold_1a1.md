@@ -70,10 +70,6 @@
 
 -------------------------------------------------
 
-### Regression - forskellige sammenhænge
-
--------------------------------------------------
-
 ### Mundtlig årsprøve i projekter og emner
 
 
