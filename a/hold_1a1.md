@@ -54,6 +54,7 @@
 |     | 6/2-26  | ***TEST 2 - LIGNINGER OG REGNEREGLER***                                       | TEST 2 - ***kun få deltog***                                    |                    | 
 |     |         |                                                                               |                                                                 |                    |  
 | 8   | 23/2-26 | ***TEST 2 - LIGNINGER OG REGNEREGLER***                                       | TEST 2 - ***deltagere fra sidst får NY test***                  |                    |
+|  5  | 23/2-26 | [Opstart - rette linjer kap 7.1](/f3_aplan/del1.md)                            |                                                                 |                    |
 |     |         |                                                                               |                                                                 |                    |  
 | 10  |  -      |                                                                               | [Aflever - Projekt 3](/projekter/aPlanGeo_laage.pdf)            |                    |
 
