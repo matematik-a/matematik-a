@@ -83,6 +83,8 @@
 |     | 25/2-26 | [Cirklers skæringspunkter](/f3_aplan/del6_skaering.md)                         |                                                                 |                    |
 |     | -       |                                                                                |                                                                 |                    |
 | 10  | 15/3-26 |                                                                                | [Aflever - Projekt 3](/projekter/aPlanGeo_laage.pdf)            |                    |
+|     | -       |                                                                                |                                                                 |                    |
+| 11  | 13/3-26 | ***TEST - LIGNINGER REGNEREGLER OG LIDT A.P.GEOMETRI***                        | TEST 3                                                          |                    |
 
 </details>
 
