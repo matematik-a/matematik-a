@@ -73,7 +73,7 @@
 |     | 25/2-26 | Bevis formel for afstand imellem linje og punkt, se kap 7.2 -"bevis sætning 2" |                                                                 |                    |
 | 11  | 15/3-26 |                                                                                | [Aflever - Projekt 3](/projekter/aPlanGeo_laage.pdf)            |                    |
 |     | -       |                                                                                |                                                                 |                    |
-| 12  | 20/3-26 |                                                                                | TEST 3                                                          |                    |
+| 12  | 20/3-26 |  ***TEST - I ANALYTRISK PLANGEOMETRI***                                        | TEST 3                                                          |                    |
 
 
 </details>
