@@ -36,7 +36,7 @@
 
 -------------------------------------------------
 
-<details open>
+<details>
   <summary>Ligninger og regneregler</summary>
 
 | Uge | Dato    | Emne                                                                          | Aflevering - Projekt - Bevis - Test                             |  Ved tavlen        |
@@ -62,7 +62,20 @@
 
 -------------------------------------------------
 
-### Analytisk plangeometri
+
+<details open>
+  <summary>Analytisk plangeometri</summary>
+
+| Uge | Dato    | Emne                                                                           | Aflevering - Projekt - Bevis - Test                             |  Ved tavlen        |
+| --- | ------- | ------------------------------------------------------------------------------ | --------------------------------------------------------------- | ------------------ |
+|  8  | 23/2-26 | [Opstart - rette linjer kap 7.1](/f3_aplan/del1.md)                            |                                                                 |                    |
+|     | -       |                                                                                |                                                                 |                    |
+|     |         |                                                                                |                                                                 |                    |
+|     | 25/2-26 | Bevis formel for afstand imellem to punkter , brug pythagoras                  |                                                                 |                    |
+|     | 25/2-26 | Bevis formel for ortogonale linjer, se øvelse 7.1.6                            |                                                                 |                    |
+|     | 25/2-26 | Bevis formel for afstand imellem linje og punkt, se kap 7.2 -"bevis sætning 2" |                                                                 |                    |
+
+</details>
 
 -------------------------------------------------
 
@@ -71,5 +84,3 @@
 -------------------------------------------------
 
 ### Mundtlig årsprøve i projekter og emner
-
-
