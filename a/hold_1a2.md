@@ -77,11 +77,12 @@
 |     | -       |                                                                                |                                                                 |                    |
 | 6   | 6/2-26  | [Cirklens ligning kap 7.3](/f3_aplan/del3.md)                                  |                                                                 |                    |  
 |     | -       |                                                                                |                                                                 |                    |
-| 8   | 23/2-26 | [Cirklens ligning repetition](/f3_aplan/del4_cirkel2.md)                       |                                                                 |                    |
-| 8   | 23/2-26 | [Cirklens tangenter](/f3_aplan/del5_tangenter.md)                              |                                                                 |                    |
+| 9   | 23/2-26 | [Cirklens ligning repetition](/f3_aplan/del4_cirkel2.md)                       |                                                                 |                    |
+|     | 23/2-26 | [Cirklens tangenter](/f3_aplan/del5_tangenter.md)                              |                                                                 |                    |
 |     | -       |                                                                                |                                                                 |                    |
-| 8   | 25/2-26 | [Cirklers skæringspunkter](/f3_aplan/del6_skaering.md)                         |                                                                 |                    |
-| 10  |  -      |                                                                                | [Aflever - Projekt 3](/projekter/aPlanGeo_laage.pdf)            |                    |
+|     | 25/2-26 | [Cirklers skæringspunkter](/f3_aplan/del6_skaering.md)                         |                                                                 |                    |
+|     | -       |                                                                                |                                                                 |                    |
+| 10  | 15/3-26 |                                                                                | [Aflever - Projekt 3](/projekter/aPlanGeo_laage.pdf)            |                    |
 
 </details>
 

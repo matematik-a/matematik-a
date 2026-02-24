@@ -53,10 +53,7 @@
 |     | 4/2-26  | [Opgaveregning - træning inden test](/f2_basic/del7/del7.md)                  |                                                                 |                    |
 |     | 6/2-26  | ***TEST 2 - LIGNINGER OG REGNEREGLER***                                       | TEST 2 - ***kun få deltog***                                    |                    | 
 |     |         |                                                                               |                                                                 |                    |  
-| 8   | 23/2-26 | ***TEST 2 - LIGNINGER OG REGNEREGLER***                                       | TEST 2 - ***deltagere fra sidst får NY test***                  |                    |
-|  5  | 23/2-26 | [Opstart - rette linjer kap 7.1](/f3_aplan/del1.md)                           |                                                                 |                    |
-|     |         |                                                                               |                                                                 |                    |  
-| 10  |  -      |                                                                               | [Aflever - Projekt 3](/projekter/aPlanGeo_laage.pdf)            |                    |
+| 9   | 23/2-26 | ***TEST 2 - LIGNINGER OG REGNEREGLER***                                       | TEST 2 - ***deltagere fra sidst får NY test***                  |                    |
 
 </details>
 
@@ -68,12 +65,14 @@
 
 | Uge | Dato    | Emne                                                                           | Aflevering - Projekt - Bevis - Test                             |  Ved tavlen        |
 | --- | ------- | ------------------------------------------------------------------------------ | --------------------------------------------------------------- | ------------------ |
-|  8  | 23/2-26 | [Opstart - rette linjer kap 7.1](/f3_aplan/del1.md)                            |                                                                 |                    |
+|  9  | 23/2-26 | [Opstart - rette linjer kap 7.1](/f3_aplan/del1.md)                            |                                                                 |                    |
 |     | -       |                                                                                |                                                                 |                    |
 |     |         |                                                                                |                                                                 |                    |
 |     | 25/2-26 | Bevis formel for afstand imellem to punkter , brug pythagoras                  |                                                                 |                    |
 |     | 25/2-26 | Bevis formel for ortogonale linjer, se øvelse 7.1.6                            |                                                                 |                    |
 |     | 25/2-26 | Bevis formel for afstand imellem linje og punkt, se kap 7.2 -"bevis sætning 2" |                                                                 |                    |
+| 11  | 15/3-26 |                                                                                | [Aflever - Projekt 3](/projekter/aPlanGeo_laage.pdf)            |                    |
+
 
 </details>
 
