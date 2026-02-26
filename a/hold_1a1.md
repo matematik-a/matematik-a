@@ -71,7 +71,9 @@
 |     | 25/2-26 | Bevis formel for afstand imellem to punkter , brug pythagoras                  |                                                                 |                    |
 |     | 25/2-26 | Bevis formel for ortogonale linjer, se øvelse 7.1.6                            |                                                                 |                    |
 |     | 25/2-26 | Bevis formel for afstand imellem linje og punkt, se kap 7.2 -"bevis sætning 2" |                                                                 |                    |
-|     | 25/2-26 | Øvelse 7.2.1 til 7.2.4, hvis der er tid                                        |                                                                 |                    |    
+|     | -       |                                                                                |                                                                 |                    |
+|     | 26/2-26 | Øvelse 7.2.1 til/og med 7.2.5                                                  |                                                                 |                    |
+|     | 26/2-26 | [Cirklens ligning kap 7.3](/f3_aplan/del3.md)                                  |                                                                 |                    |  
 | 11  | 15/3-26 |                                                                                | [Aflever - Projekt 3](/projekter/aPlanGeo_laage.pdf)            |                    |
 |     | -       |                                                                                |                                                                 |                    |
 | 12  | 20/3-26 |  ***TEST - I ANALYTISK PLANGEOMETRI***                                         | TEST 3                                                          |                    |
