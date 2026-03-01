@@ -18,9 +18,9 @@ Måske denne metode virker bedre for jer, da det er mere uforpligtende at skulle
  
 En linje skærer en cirkel i to punkter beregn lægnden af den korde der dannes imellem de to punkter.
 
-$$ (x + 2)^2 + (y - 1)^2 = 5 $$
+$ (x + 2)^2 + (y - 1)^2 = 5 $
 
-$$ x + 4 \cdot y = 0 $$
+$ x + 4 \cdot y = 0 $
 
 -----------------------------------------------------------------------------
 
@@ -28,9 +28,9 @@ $$ x + 4 \cdot y = 0 $$
 
 Beregn skæringspunkterne mellem følgende to cirkler:
 
-$$ (x + 2)^2 + (y - 1)^2 = 5 $$
+$ (x + 2)^2 + (y - 1)^2 = 5 $
 
-$$ (x - 2)^2 + (y - 4)^2 = 10 $$
+$ (x - 2)^2 + (y - 4)^2 = 10 $
 
 -----------------------------------------------------------------------------
 
@@ -38,9 +38,9 @@ $$ (x - 2)^2 + (y - 4)^2 = 10 $$
 
 For hvilke værdier af "r" er der ingen berørering imellem cirklerne?
 
-$$ x^2 + y^2 = r^2 $$
+$ x^2 + y^2 = r^2 $
 
-$$ x^2 + y^2 -4y - 2y = 5 $$
+$ x^2 + y^2 -4y - 2y = 5 $
 
 -----------------------------------------------------------------------------
 
