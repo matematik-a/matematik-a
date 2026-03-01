@@ -16,7 +16,7 @@ Måske denne metode virker bedre for jer, da det er mere uforpligtende at skulle
 
 #### Opgave 1
  
-En linje skærer en cirkel i to punkter beregn lægnden af den korde der dannes imellem de to punkter.
+En linje skærer en cirkel i to punkter beregn længden af den korde der dannes imellem de to punkter.
 
 $ (x + 2)^2 + (y - 1)^2 = 5 $
 
@@ -36,7 +36,7 @@ $ (x - 2)^2 + (y - 4)^2 = 10 $
 
 ### Opgave 3
 
-For hvilke værdier af "r" er der ingen berørering imellem cirklerne?
+For hvilke værdier af "r" er der ingen berøring imellem cirklerne?
 
 $ x^2 + y^2 = r^2 $
 
