@@ -74,6 +74,10 @@
 |     | -       |                                                                                |                                                                 |                    |
 |     | 26/2-26 | Øvelse 7.2.1 til/og med 7.2.5                                                  |                                                                 |                    |
 |     | 26/2-26 | [Cirklens ligning kap 7.3](/f3_aplan/del3.md)                                  |                                                                 |                    |  
+|     | -       |                                                                                |                                                                 |                    |
+| 10  | 2/3-26  | [Cirklens ligning repetition](/f3_aplan/del4_cirkel2.md)                       |                                                                 |                    |
+|     | 2/3-26  | [Cirklens tangenter](/f3_aplan/del5_tangenter.md)                              |                                                                 |                    |
+|     | -       |                                                                                |                                                                 |                    |
 | 11  | 15/3-26 |                                                                                | [Aflever - Projekt 3](/projekter/aPlanGeo_laage.pdf)            |                    |
 |     | -       |                                                                                |                                                                 |                    |
 | 12  | 20/3-26 |  ***TEST - I ANALYTISK PLANGEOMETRI***                                         | TEST 3                                                          |                    |
