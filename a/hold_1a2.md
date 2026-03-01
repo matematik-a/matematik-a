@@ -82,7 +82,7 @@
 |     | -       |                                                                                |                                                                 |                    |
 |     | 25/2-26 | [Cirklers skæringspunkter](/f3_aplan/del6_skaering.md)                         |                                                                 |                    |
 |     | -       |                                                                                |                                                                 |                    |
-| 10  | 2/3-26  | [Cirklens ligning - opgaver](/f3_aplan/del7_cirkel_opgaver.md)                 |                                                                 |                    |
+| 10  | 2/3-26  | [Opgaver med to cirkler](/f3_aplan/del7_cirkler.md)                            |                                                                 |                    |
 |     | 2/3-26  | Projektarbejde                                                                 |                                                                 |                    |
 |     | 8/3-26  |                                                                                | [Aflever - Projekt 3](/projekter/aPlanGeo_laage.pdf)            |                    |
 |     | -       |                                                                                |                                                                 |                    |
