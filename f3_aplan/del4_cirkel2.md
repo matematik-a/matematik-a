@@ -16,7 +16,7 @@ I kan se sidste gangs gennemgang af cirklens ligning her: [Cirklens ligning - re
 
 -----------------------------------------------------------------------------
 
-### Vi skal nu arbejde videre med følgende opgaver: 7.4, 7.5 , 7. og 7.9 i plus A, systime - under opgaver
+### Vi skal nu arbejde videre med følgende opgaver: 7.4, 7.5 , 7.8 og 7.9 i plus A, systime - under opgaver
 
 De to sidste er lidt sværere.
 
