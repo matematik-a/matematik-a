@@ -59,7 +59,7 @@ $$y = -x + 5$$
 
 ------------------------------------------------------------------------------
 
-### Lav opgaverne i øvelse 7.3.9 og 7.3.12 på samme måde som ovenstående eksempel.
+### Lav opgaverne i øvelse 7.3.9 til og med 7.3.12.
 
 Tjek gerne løsningerne i geogebra for at se om de er korrekte.
 
