@@ -79,7 +79,7 @@
 |     | 2/3-26  | [Cirklens tangenter](/f3_aplan/del5_tangenter.md)                              |                                                                 |                    |
 |     | -       |                                                                                |                                                                 |                    |
 |     | 4/3-26  | Cirkel tangenter : opg. 7.7 og 7.10 del-2                                      |                                                                 |                    |
-|     | 4/3-26  | [Cirklers skæringspunkter](/f3_aplan/del6_skaering.md)                         |                                                                 |                    |
+|     | 4/3-26  | Cirklens skæringspunkter : øvelse 7.3.13 til/og med 7.3.16                     |                                                                 |                    |
 |     | -       |                                                                                |                                                                 |                    |
 | 11  | 15/3-26 |                                                                                | [Aflever - Projekt 3](/projekter/aPlanGeo_laage.pdf)            |                    |
 |     | -       |                                                                                |                                                                 |                    |
