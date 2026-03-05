@@ -81,7 +81,7 @@
 |     | 6/3-26  | Cirkel tangenter : opg. 7.7 og 7.10 del-2                                      |                                                                 |                    |
 |     | 6/3-26  | Cirklens skæringspunkter : øvelse 7.3.13 til/og med 7.3.16                     |                                                                 |                    |
 |     | -       |                                                                                |                                                                 |                    |  
-| 11  |         | Projekt arbejde & Maple træning - hel ugen                                     |                                                                 |                    |
+| 11  |         | Projekt arbejde & Maple træning - hele ugen                                    |                                                                 |                    |
 |     | 15/3-26 |                                                                                | [Aflever - Projekt 3](/projekter/aPlanGeo_laage.pdf)            |                    |
 |     | -       |                                                                                |                                                                 |                    |
 | 12  | 20/3-26 |  ***TEST - I ANALYTISK PLANGEOMETRI***                                         | TEST 3                                                          |                    |

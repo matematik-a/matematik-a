@@ -85,10 +85,10 @@
 | 10  | 2/3-26  | [Opgaver med to cirkler](/f3_aplan/del7_cirkler.md)                            |                                                                 |                    |
 |     | 2/3-26  | Projektarbejde                                                                 |                                                                 |                    |
 |     |         |                                                                                |                                                                 |                    |
-|     | 6/3-26  | [Maple træning - ligninger løsning](/f3_aplan/del8_maple.md)                   |                                                                 |                    | 
+|     | 6/3-26  | [Maple træning - lignings løsning](/f3_aplan/del8_maple.md)                    |                                                                 |                    | 
 |     |         |                                                                                |                                                                 |                    |
 |     | 8/3-26  |                                                                                | [Aflever - Projekt 3](/projekter/aPlanGeo_laage.pdf)            |                    |
-|     |        |                                                                                |                                                                 |                    |
+|     |         |                                                                                |                                                                 |                    |
 | 11  |         | Træning til testen + Lidt ekstra beviser - og opgaver - hele ugen              |                                                                 |                    | 
 |     | 13/3-26 | ***TEST - I ANALYTISK PLANGEOMETRI***                                          | TEST 3                                                          |                    |
 
