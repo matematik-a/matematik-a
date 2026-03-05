@@ -1,5 +1,5 @@
 
-## Del 6 :  Cirklens ligning - skæringer
+## Del 7 :  Cirklens ligning - skæringer
 
 -----------------------------------------------------------------------------
 
@@ -40,7 +40,7 @@ For hvilke værdier af "r" er der ingen berøring imellem cirklerne?
 
 $ x^2 + y^2 = r^2 $
 
-$ x^2 + y^2 -4y - 2y = 5 $
+$ x^2 + y^2 -4x - 2y = 5 $
 
 -----------------------------------------------------------------------------
 

@@ -67,26 +67,30 @@
 | Uge | Dato    | Emne                                                                           | Aflevering - Projekt - Bevis - Test                             |  Ved tavlen        |
 | --- | ------- | ------------------------------------------------------------------------------ | --------------------------------------------------------------- | ------------------ |
 |  5  | 26/1-26 | [Opstart - rette linjer kap 7.1](/f3_aplan/del1.md)                            |                                                                 |                    |
-|     | -       |                                                                                |                                                                 |                    |
+|     |         |                                                                                |                                                                 |                    |
 |     | 28/1-26 | Bevis formel for ortogonale linjer, se øvelse 7.1.6                            |                                                                 | Rasmus             |
 |     | 28/1-26 | Bevis formel for afstand imellem to punkter , brug pythagoras                  |                                                                 | Johan              |
 |     | 28/1-26 | Bevis formel for afstand imellem linje og punkt, se kap 7.2 -"bevis sætning 2" |                                                                 | Norma              |
 |     | 28/1-26 | Øvelse 7.2.1 til 7.2.4                                                         |                                                                 |                    | 
-|     | -       |                                                                                |                                                                 |                    |
+|     |         |                                                                                |                                                                 |                    |
 |     | 30/1-26 | TEST - LIGNINGER REGNEREGLER OG LIDT A.P.GEOMETRI                              | TEST 2                                                          |                    |
-|     | -       |                                                                                |                                                                 |                    |
+|     |         |                                                                                |                                                                 |                    |
 | 6   | 6/2-26  | [Cirklens ligning kap 7.3](/f3_aplan/del3.md)                                  |                                                                 |                    |  
-|     | -       |                                                                                |                                                                 |                    |
+|     |         |                                                                                |                                                                 |                    |
 | 9   | 23/2-26 | [Cirklens ligning repetition](/f3_aplan/del4_cirkel2.md)                       |                                                                 |                    |
 |     | 23/2-26 | [Cirklens tangenter](/f3_aplan/del5_tangenter.md)                              |                                                                 |                    |
-|     | -       |                                                                                |                                                                 |                    |
+|     |         |                                                                                |                                                                 |                    |
 |     | 25/2-26 | [Cirklers skæringspunkter](/f3_aplan/del6_skaering.md)                         |                                                                 |                    |
-|     | -       |                                                                                |                                                                 |                    |
+|     |         |                                                                                |                                                                 |                    |
 | 10  | 2/3-26  | [Opgaver med to cirkler](/f3_aplan/del7_cirkler.md)                            |                                                                 |                    |
 |     | 2/3-26  | Projektarbejde                                                                 |                                                                 |                    |
+|     |         |                                                                                |                                                                 |                    |
+|     | 6/3-26  | [Maple træning - ligninger løsning](/f3_aplan/del8_maple.md)                   |                                                                 |                    | 
+|     |         |                                                                                |                                                                 |                    |
 |     | 8/3-26  |                                                                                | [Aflever - Projekt 3](/projekter/aPlanGeo_laage.pdf)            |                    |
-|     | -       |                                                                                |                                                                 |                    |
-| 11  | 13/3-26 | ***TEST - I ANALYTISK PLANGEOMETRI***                                          | TEST 3                                                          |                    |
+|     |        |                                                                                |                                                                 |                    |
+| 11  |         | Træning til testen + Lidt ekstra beviser - og opgaver - hele ugen              |                                                                 |                    | 
+|     | 13/3-26 | ***TEST - I ANALYTISK PLANGEOMETRI***                                          | TEST 3                                                          |                    |
 
 </details>
 
