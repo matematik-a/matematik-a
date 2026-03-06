@@ -17,7 +17,7 @@ Brugbare Maple kommandoer :
 
 `solve(ligning, variabel)` - Løser en ligning for en given variabel.
 
-`solve({ligning1, ligning2, ...}, {variabel1, variabel2, ...}, explicit);` - Løser et system af ligninger for flere variabler. Hvis `explicit` er sand, returnerer det løsninger i eksplicit form.
+`solve({ligning1, ligning2, ...}, {variabel1, variabel2, ...}, explicit);` - Løser et system af ligninger for flere variabler. `explicit` tvinger Maple til at give ALLE løsningerne.
 
 `eval(udtryk, variabel = værdi)` - Evaluerer et udtryk ved at erstatte en variabel med en bestemt værdi.
 
