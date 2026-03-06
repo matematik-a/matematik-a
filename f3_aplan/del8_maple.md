@@ -15,16 +15,25 @@ Og desuden er Maple et tilladt værktøj til eksamen, så det er vigtigt at I er
 
 Brugbare Maple kommandoer :
 
-- `solve(ligning, variabel)` - Løser en ligning for en given variabel.
-- `eval(udtryk, variabel = værdi)` - Evaluerer et udtryk ved at erstatte en variabel med en bestemt værdi.
-- `discrim(polynomium, variabel)` - Beregner diskriminanten for et polynomium, hvilket kan hjælpe med at bestemme antallet af løsninger.
-- `implicitplot(udtryk)` - tegner grafen for et eller fler implicit udtryk, hvilket kan være nyttigt for at visualisere løsningerne.
+`solve(ligning, variabel)` - Løser en ligning for en given variabel.
+
+`solve({ligning1, ligning2, ...}, {variabel1, variabel2, ...}, explicit);` - Løser et system af ligninger for flere variabler. Hvis `explicit` er sand, returnerer det løsninger i eksplicit form.
+
+`eval(udtryk, variabel = værdi)` - Evaluerer et udtryk ved at erstatte en variabel med en bestemt værdi.
+
+`discrim(polynomium, variabel)` - Beregner diskriminanten for et polynomium, hvilket kan hjælpe med at bestemme antallet af løsninger.
+
+`implicitplot(udtryk)` - tegner grafen for et eller fler implicit udtryk, hvilket kan være nyttigt for at visualisere løsningerne.
+
+`lhs(udtryk)` og `rhs(udtryk)` - Returnerer henholdsvis venstre og højre side af et udtryk, hvilket kan være nyttigt for at manipulere ligninger.
+
+`evalf(udtryk)` - Evaluerer et udtryk og retunerer et numerisk resultat, hvilket kan være nyttigt for at få en mere præcis løsning.
 
 -----------------------------------------------------------------------------
 
 ### Jeg laver følgende eksempel på opgaveløsning i maple :
 
-Tangenten linje med ligningen $y = a*x + 2$ tangerer cirklen med ligningen $(x - 3)^2 + (y - 4)^2 = 5$. Find værdien af "a".
+Tangenten linje med ligningen $y = a \cdot x + 2$ tangerer cirklen med ligningen $(x - 3)^2 + (y - 4)^2 = 5$. Find værdien af "a".
 
 -----------------------------------------------------------------------------
 
