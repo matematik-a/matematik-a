@@ -60,7 +60,7 @@ $(x - a)^2 + (y - b)^2 - 5 = 0$
 
 #### Opgave D
 
-Find et udtryk for radius til en cirkel med centrum $(-4,0)$, så den har berøring med de to kendte cirkler fra opgave B.
+Find et udtryk for radius til en cirkel med centrum $(-4,0)$, så den ikke har berøring med de to kendte cirkler fra opgave B.
 
 #### Opgave E
 
