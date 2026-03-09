@@ -8,9 +8,7 @@
 -----------------------------------------------------------------------------
 
 I dag prøver vi at regne på opgaver med mere end en cirkel. Istedet for at I viser jeres løsninger for hele klassen,
-så trækker jeg to eller tre grupper der hver viser en enkelt af opgaverne!
-
-Måske denne metode virker bedre for jer, da det er mere uforpligtende at skulle vise en opgave for mig, end at skulle vise den for hele klassen?! 
+så trækker jeg to eller tre grupper/personer, der hver viser en enkelt af opgaverne!
 
 -----------------------------------------------------------------------------
 
