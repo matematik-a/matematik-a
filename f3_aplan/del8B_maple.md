@@ -1,4 +1,4 @@
-## Del 8 A: Maple træning - lignings løsning 
+## Del 8 B: Maple træning - lignings løsning 
 
 -----------------------------------------------------------------------------
 
