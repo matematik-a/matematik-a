@@ -50,18 +50,3 @@ Find tangent der tangerer disse to cirkler:
 $(x + 3)^2 + y^2 - 5 = 0$
 
 $(x - 2)^2 + y^2 - 5 = 0$
-
-
-#### Opgave C
-
-Find cirkler med kendt radius, der tangerer de to kendte cirkler fra opgave B.
-
-$(x - a)^2 + (y - b)^2 - 5 = 0$
-
-#### Opgave D
-
-Find et udtryk for radius til en cirkel med centrum $(-4,0)$, så den ikke har berøring med de to kendte cirkler fra opgave B.
-
-#### Opgave E
-
-For at træne ligningsløsning i Maple, så prøv at løse D uden at bruge afstandsformlerne. Det vil hjælpe jer med at forstå, hvordan Maple håndterer ligninger.

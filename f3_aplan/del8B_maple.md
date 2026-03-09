@@ -1,9 +1,8 @@
-
 ## Del 8 A: Maple træning - lignings løsning 
 
 -----------------------------------------------------------------------------
 
-### Materiale fra plus A, systime - Kap 7.3
+### Materiale fra plus A, systime - Kap 7
 
 -----------------------------------------------------------------------------
 
@@ -33,35 +32,16 @@ Brugbare Maple kommandoer :
 
 ### Jeg laver følgende eksempel på opgaveløsning i maple :
 
-Tangenten linje med ligningen $y = a \cdot x + 2$ tangerer cirklen med ligningen $(x - 3)^2 + (y - 4)^2 = 5$. Find værdien af "a".
+Jeg løser et par af opgaverne fra sidst.
 
 -----------------------------------------------------------------------------
 
-#### Opgave A
+#### Opgave F
 
-Beregn cirkel radius og centrum ud fra tre punkter, der alle ligger på cirklens periferi:
+Find cirkel, der tangerer følgende tre cirkler:
 
-$A=(1,2), B=(3,4), C=(5,7)$
+$(x - 6)^2 + (y + 3)^2 = 20$
 
-#### Opgave B
+$(x + 3)^2 + (y - 6)^2 = 20$
 
-Find tangent der tangerer disse to cirkler:
-
-$(x + 3)^2 + y^2 - 5 = 0$
-
-$(x - 2)^2 + y^2 - 5 = 0$
-
-
-#### Opgave C
-
-Find cirkler med kendt radius, der tangerer de to kendte cirkler fra opgave B.
-
-$(x - a)^2 + (y - b)^2 - 5 = 0$
-
-#### Opgave D
-
-Find et udtryk for radius til en cirkel med centrum $(-4,0)$, så den ikke har berøring med de to kendte cirkler fra opgave B.
-
-#### Opgave E
-
-For at træne ligningsløsning i Maple, så prøv at løse D uden at bruge afstandsformlerne. Det vil hjælpe jer med at forstå, hvordan Maple håndterer ligninger.
+$(x + 4)^2 + (y - 2)^2 = 5$
