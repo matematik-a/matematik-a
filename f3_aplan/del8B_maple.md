@@ -12,21 +12,7 @@ Og desuden er Maple et tilladt værktøj til eksamen, så det er vigtigt at I er
 
 -----------------------------------------------------------------------------
 
-Brugbare Maple kommandoer :
-
-`solve(ligning, variabel)` - Løser en ligning for en given variabel.
-
-`solve({ligning1, ligning2, ...}, {variabel1, variabel2, ...}, explicit);` - Løser et system af ligninger for flere variabler. `explicit` tvinger Maple til at give ALLE løsningerne.
-
-`eval(udtryk, variabel = værdi)` - Evaluerer et udtryk ved at erstatte en variabel med en bestemt værdi.
-
-`discrim(polynomium, variabel)` - Beregner diskriminanten for et polynomium, hvilket kan hjælpe med at bestemme antallet af løsninger.
-
-`implicitplot(udtryk)` - tegner grafen for et eller fler implicit udtryk, hvilket kan være nyttigt for at visualisere løsningerne.
-
-`lhs(udtryk)` og `rhs(udtryk)` - Returnerer henholdsvis venstre og højre side af et udtryk, hvilket kan være nyttigt for at manipulere ligninger.
-
-`evalf(udtryk)` - Evaluerer et udtryk og retunerer et numerisk resultat, hvilket kan være nyttigt for at få en mere præcis løsning.
+Brugbare Maple kommandoer : se [maple træning 1](/f3_aplan/del8A_maple.md)
 
 -----------------------------------------------------------------------------
 
