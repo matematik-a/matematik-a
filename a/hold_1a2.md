@@ -88,9 +88,10 @@
 |     | 6/3-26  | [Maple træning 1- lignings løsning](/f3_aplan/del8_maple.md)                   |                                                                 |                    | 
 |     |         |                                                                                |                                                                 |                    |
 | 11  |         | Mapletræning & Projekt & Testtræning - hele ugen                               |                                                                 |                    | 
-|     | 10/3-26 | [Maple træning 2](/f3_aplan/del8B_maple.md)                                    |                                                                 |                    |
 |     | 11/3-26 |                                                                                | [Aflever - Projekt 3](/projekter/aPlanGeo_laage.pdf)            |                    |
-|     | 13/3-26 | ***TEST - I ANALYTISK PLANGEOMETRI***                                          | TEST 3                                                          |                    |
+|     | 13/3-26 | [Maple træning 2](/f3_aplan/del8B_maple.md)                                    |                                                                 |                    |
+|     |         |                                                                                |                                                                 |                    |
+| 12  | 16/3-26 | ***TEST - I ANALYTISK PLANGEOMETRI***                                          | TEST 3                                                          |                    |
 
 </details>
 
