@@ -87,9 +87,11 @@
 |     | -       |                                                                                |                                                                 |                    |  
 |     | 12/3-26 | [Maple træning A](/f3_aplan/del8A_maple.md)                                    |                                                                 |                    |
 |     | 12/3-26 | Projektarbejde 2                                                               |                                                                 |                    |
-|     | 18/3-26 |                                                                                | [Aflever - Projekt 3](/projekter/aPlanGeo_laage.pdf)            |                    |
 |     | -       |                                                                                |                                                                 |                    |
-| 12  | 20/3-26 |  ***TEST - I ANALYTISK PLANGEOMETRI***                                         | TEST 3                                                          |                    |
+|     | 20/3-26 | [test 3 - træningsopgaver](/f3_aplan/test3_test.pdf)                |                                                                 |                    |
+|     | 22/3-26 |                                                                                | [Aflever - Projekt 3](/projekter/aPlanGeo_laage.pdf)            |                    |
+|     | -       |                                                                                |                                                                 |                    |
+| 13  | 23/3-26 |  ***TEST - I ANALYTISK PLANGEOMETRI***                                         | TEST 3                                                          |                    |
 
 
 </details>
@@ -101,3 +103,5 @@
 -------------------------------------------------
 
 ### Mundtlig årsprøve i projekter og emner
+
+ca. uge 20 ? 
