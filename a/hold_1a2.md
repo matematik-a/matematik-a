@@ -61,7 +61,7 @@
 
 -------------------------------------------------
 
-<details open>
+<details>
   <summary>Analytisk plangeometri</summary>
 
 | Uge | Dato    | Emne                                                                           | Aflevering - Projekt - Bevis - Test                             |  Ved tavlen        |
@@ -96,9 +96,20 @@
 </details>
 
 -------------------------------------------------
+<details open>
+  <summary>Vektorer i planen</summary>
 
-### Vektorer i planen
+| Uge | Dato    | Emne                                                                           | Aflevering - Projekt - Bevis - Test                             |  Ved tavlen        |
+| --- | ------- | ------------------------------------------------------------------------------ | --------------------------------------------------------------- | ------------------ |
+|  12 | 20/3-26 | [Opstart - kap 12 (intro) - Øvelse.12.1+12.1.2+12.1.3 & GeoGebra](/f4_vektorer2d/del1.md)    |                                                   |                    |
+|     |         |                                                                                |                                                                 |                    |
+
+
+
+</details> 
 
 -------------------------------------------------
 
 ### Mundtlig årsprøve i projekter og emner
+ 
+uge 21 ??
