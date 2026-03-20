@@ -42,6 +42,7 @@
 
 ***opg 4:*** gentag opgave 2 og 3 med regnestykket $\vec{c} = \vec{a} - \vec{b}$ 
 
+***Bonus/Frivillig:*** hvordan man finder vinklen imellem vektorer eller beregner den?
 
 *40 minutter* - Sig til når I er færdige
 

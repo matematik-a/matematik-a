@@ -101,7 +101,8 @@
 
 | Uge | Dato    | Emne                                                                           | Aflevering - Projekt - Bevis - Test                             |  Ved tavlen        |
 | --- | ------- | ------------------------------------------------------------------------------ | --------------------------------------------------------------- | ------------------ |
-|  12 | 20/3-26 | [Opstart - kap 12 (intro) - Øvelse.12.1+12.1.2+12.1.3 & GeoGebra](/f4_vektorer2d/del1.md)    |                                                   |                    |
+|  12 |         | [svære opgaver - test 3](/f3_aplan/test3fejl.md)                               |                                                                 |                    |
+|     | 20/3-26 | [opstart - kap 12 (intro) - Øvelse.12.1+12.1.2+12.1.3 & GeoGebra](/f4_vektorer2d/del1.md)    |                                                   |                    |
 |     |         |                                                                                |                                                                 |                    |
 
 
