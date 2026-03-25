@@ -10,11 +10,11 @@
 
 Hvilke regneregler fungerer på vektorer og hvad er reultatet?
 
-> Fungerer addition $ \vec{a} + \vec{b} = ? $
+> Fungerer addition $ \Large \vec{a} + \vec{b} = ? $
 
-> Fungerer subtraktion $  \vec{a} - \vec{b}  = ? $
+> Fungerer subtraktion $ \Large  \vec{a} - \vec{b}  = ? $
 
-> Fungerer multiplikation med skalar, k er altså et tal $ k \cdot \vec{a} = ?$
+> Fungerer multiplikation med skalar, k er altså et tal $ \Large k \cdot \vec{a} = ?$
 
 -----------------------------------------------------------------------------
 
