@@ -60,12 +60,12 @@ $ (x-4)^2 + y^2 = 8 $
     <th></th>
   </tr>
   <tr>
-    <td>Afstand mellem to punkter $(x1,y1)$ og $(x2,y2)$ er : </td>
+    <td>Afstand d mellem to punkter $(x1,y1)$ og $(x2,y2)$ er : </td>
     <td>$ d = \sqrt{ (x1 - x2)^2 + (y1 - y2)^2} $ </td>
   </tr>
   <tr>
-    <td>Afstand mellem linje $y = a \cdot x + b$og punkt $(x0,y0)$ er : </td>
-    <td>$\Large \frac{| a\cdot x0 + b -y0 |}{\sqrt{a^2 + 1}}$ </td>
+    <td>Afstand L mellem linje $y = a \cdot x + b$ og punkt $(x0,y0)$ er : </td>
+    <td>$L \Large = \frac{| a\cdot x0 + b -y0 |}{\sqrt{a^2 + 1}}$ </td>
   </tr>
   <tr>
     <td>Ortogonale linjer med hældninger a1 og a2 har produktet:</td>
@@ -73,7 +73,7 @@ $ (x-4)^2 + y^2 = 8 $
   </tr>
   <tr>
     <td>Diskriminant formlen for andengradsligningen $ ax^2 +bx + c = 0$ er:</td>
-    <td>$ \Large \frac{-b +- \sqrt{b^2 - 4 \cdot a \cdot c}}{2 \cdot a} $</td>
+    <td>$ x \Large = \frac{-b \pm \sqrt{b^2 - 4 \cdot a \cdot c}}{2 \cdot a} $</td>
   </tr>
     <tr>
     <td>Cirklens ligning med center $(xc,yc)$ og radius r er:</td>
