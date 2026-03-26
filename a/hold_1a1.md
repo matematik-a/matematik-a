@@ -60,7 +60,7 @@
 -------------------------------------------------
 
 
-<details open>
+<details>
   <summary>Analytisk plangeometri</summary>
 
 | Uge | Dato    | Emne                                                                           | Aflevering - Projekt - Bevis - Test                             |  Ved tavlen        |
@@ -98,7 +98,18 @@
 
 -------------------------------------------------
 
-### Vektorer i planen
+<details open>
+  <summary>Vektorer i planen</summary>
+
+| Uge | Dato    | Emne                                                                           | Aflevering - Projekt - Bevis - Test                             |  Ved tavlen        |
+| --- | ------- | ------------------------------------------------------------------------------ | --------------------------------------------------------------- | ------------------ |
+|  13 | 26/3-26 | [opstart - kap 12 (intro) - Øvelse.12.1+12.1.2+12.1.3 & GeoGebra](/f4_vektorer2d/del1.md)    |                                                   |                    |
+|     |         |                                                                                |                                                                 |                    |
+|     | 26/3-26 | [ vektorer regneregler ](/f4_vektorer2d/del2.md)                               |                                                                 |                    | 
+
+
+</details> 
+
 
 -------------------------------------------------
 
