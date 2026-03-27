@@ -32,13 +32,13 @@ ctx.stroke();
 
 Vigtigste forudsætninger for at lave beviserne 
 
-> *Hvad er basisvektorer og hvordan kan de bruges til vektorer?*
+> *Spørgsmål 1: Hvad er basisvektorer og hvordan kan de bruges til vektorer?*
 
-> *Hvad er tværvektoren og hvordan ser formlen ud for den?*
+> *Spørgsmål 2: Hvad er tværvektoren og hvordan ser formlen ud for den?*
 
-> *Hvad er længden af en vektor og hvordan beregnes den?*
+> *Spørgsmål 3: Hvad er længden af en vektor og hvordan beregnes den?*
 
-> *Hvordan er vores nye "legeplads" $\mathbb{R}^2$ forskellig fra $\mathbb{R}$?*
+> *Spørgsmål 4: Hvordan er vores nye "legeplads" $\mathbb{R}^2$ forskellig fra $\mathbb{R}$?*
 
 -----------------------------------------------------------------------------
 
@@ -48,21 +48,21 @@ I får cirka 15 minutter til hvert bevis - jeg vælger løbende hvem der gennemg
 
 ***Tag udgangspunkt i - Definition 4 : Vektoreren bekrevet vha. basisvektorer - i kapitel 12.1.2***
 
-> (1) Bevis for regneregel addition
+> Bevis 1 - for regneregel addition
 
-> (2) Bevis for regneregel subtraktion
+> Bevis 2 - for regneregel subtraktion
 
-> (3) Bevis for regneregel multiplikation med skalar
+> Bevis 3 - for regneregel multiplikation med skalar
 
-> (4) Bevis for tværvektor
+> Bevis 4 - for tværvektor
 
-> (5) Bevis for længde af vektor
+> Bevis 5 - for længde af vektor
 
 -----------------------------------------------------------------------------
 
 ## Anden Del : lav øvelse 12.1.11 og 12.1.16
 
-I får resten af timen til at lave disse øvelser
+> I får resten af timen til at lave disse øvelser
 
 
 
