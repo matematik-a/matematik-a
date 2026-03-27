@@ -1,18 +1,10 @@
 # Forløb 4 - Vektorer i 2D
 
-## Del 3 :  Vektorer i ?
+## Del 3 : Definition af basisvektorer /  bevis regneregler, tværvektor og længde
 
 -----------------------------------------------------------------------------
 
 ### Materiale fra plus A, systime - Kap 12.1.2
-
-#### Definition af basisvektorer
-
-#### Beviser for regneregler med vektorer
-
-#### Bevis for tværvektor
-
-#### Bevis for længde af vektor
 
 <!-- javascript, der tegner et grid område som jeg kan anvende til at visualisere vektorer på tavlen med projektoren -->
 
@@ -48,9 +40,9 @@ Vigtigste forudsætninger for at lave beviserne
 
 -----------------------------------------------------------------------------
 
-## 1. Modul : Lav følgende beviser
+## 1. del : lav følgende beviser
 
-Cirka 15 til 20  minutter til hvert bevis - jeg vælger løbende hvem der gennemgår beviserne for mig
+I får cirka 15 minutter til hvert bevis - jeg vælger løbende hvem der gennemgår beviserne for mig
 
 ***Tag udgangspunkt i - Definition 4 : Vektoreren bekrevet vha. basisvektorer - i kapitel 12.1.2***
 
@@ -62,4 +54,7 @@ Cirka 15 til 20  minutter til hvert bevis - jeg vælger løbende hvem der gennem
 
 -----------------------------------------------------------------------------
 
-## 2. Modul : 
+## 2. del : lav øvelse 12.1.11 og 12.1.16
+
+I får resten af timen til at lave disse øvelser
+
