@@ -26,5 +26,6 @@ Lav øvelserne - brug gerne GeoGebra
 
 Prøv at udtænke beviser for regnereglerne i sætning 1
 
+
 -----------------------------------------------------------------------------
 
