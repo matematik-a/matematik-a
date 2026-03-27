@@ -102,9 +102,12 @@
 | Uge | Dato    | Emne                                                                           | Aflevering - Projekt - Bevis - Test                             |  Ved tavlen        |
 | --- | ------- | ------------------------------------------------------------------------------ | --------------------------------------------------------------- | ------------------ |
 |  12 |         | [svære opgaver - test 3](/f3_aplan/test3fejl.md)                               |                                                                 |                    |
-|     | 20/3-26 | [opstart - kap 12 (intro) - Øvelse.12.1+12.1.2+12.1.3 & GeoGebra](/f4_vektorer2d/del1.md)    |                                                   |                    |
+|     | 20/3-26 | [opstart - kap 12 (intro) - Øvelse.12.1+12.1.2+12.1.3 & GeoGebra](/f4_vektorer2d/del1.md) |                                                      |                    |
 |     |         |                                                                                |                                                                 |                    |
-|  13 | 25/3-26 | [ vektorer regneregler ](/f4_vektorer2d/del2.md)                               |                                                                 |                    | 
+|  13 | 25/3-26 | [vektorer regneregler ](/f4_vektorer2d/del2.md)                                |                                                                 |                    | 
+|     |         |                                                                                |                                                                 |                    |
+|     | 27/3-26 | [bevis regneregler, tværvektor-formel og længde-formel](/f4_vektorer2d/del3.md)  |                                                               |                    |
+
 
 
 </details> 
