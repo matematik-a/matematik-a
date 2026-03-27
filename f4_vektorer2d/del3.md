@@ -8,7 +8,7 @@
 
 <!-- javascript, der tegner et grid område som jeg kan anvende til at visualisere vektorer på tavlen med projektoren -->
 
-<canvas id="myCanvas" width="400" height="400" style="border:1px solid #000000;">   
+<canvas id="myCanvas" width="300" height="300" style="border:1px solid #000000;">   
 </canvas>
 <script>
 var c = document.getElementById("myCanvas");
@@ -32,29 +32,37 @@ ctx.stroke();
 
 Vigtigste forudsætninger for at lave beviserne 
 
-> Hvad er basisvektorer og hvordan kan de bruges til vektorer?
+> *Hvad er basisvektorer og hvordan kan de bruges til vektorer?*
 
-> Hvad er tværvektoren og hvordan ser formlen ud for den?
+> *Hvad er tværvektoren og hvordan ser formlen ud for den?*
 
-> Hvad er længden af en vektor og hvordan beregnes den?
+> *Hvad er længden af en vektor og hvordan beregnes den?*
+
+> *Hvordan er vores nye "legeplads" $\mathbb{R}^2$ forskellig fra $\mathbb{R}$?*
 
 -----------------------------------------------------------------------------
 
-## 1. del : lav følgende beviser
+## Første Del : lav følgende beviser -> god ide at øve , da jeg giver karakterer NÆSTE gang vi beviser
 
 I får cirka 15 minutter til hvert bevis - jeg vælger løbende hvem der gennemgår beviserne for mig
 
 ***Tag udgangspunkt i - Definition 4 : Vektoreren bekrevet vha. basisvektorer - i kapitel 12.1.2***
 
-> 1. Bevis for regneregel addition
-> 2. Bevis for regneregel subtraktion
-> 3. Bevis for regneregel multiplikation med skalar
-> 4. Bevis for tværvektor
-> 5. Bevis for længde af vektor
+> (1) Bevis for regneregel addition
+
+> (2) Bevis for regneregel subtraktion
+
+> (3) Bevis for regneregel multiplikation med skalar
+
+> (4) Bevis for tværvektor
+
+> (5) Bevis for længde af vektor
 
 -----------------------------------------------------------------------------
 
-## 2. del : lav øvelse 12.1.11 og 12.1.16
+## Anden Del : lav øvelse 12.1.11 og 12.1.16
 
 I får resten af timen til at lave disse øvelser
+
+
 
