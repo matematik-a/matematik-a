@@ -88,6 +88,8 @@ with(Gym);
 ListeX := [1, 2, 3, 4, 5];
 ListeY := [2, 3, 5, 7, 11];
 f(x):=LinReg(ListeX, ListeY,x);
+```
+
 
 Lav opgave 2.15 fra nedenstående materiale vha. gymnasiepakken
 [https://matgf.deno.dev/matrialer/Opg25.pdf](https://matgf.deno.dev/matrialer/Opg25.pdf)
