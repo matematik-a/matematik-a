@@ -98,7 +98,7 @@
 
 -------------------------------------------------
 
-<details open>
+<details>
   <summary>Vektorer i planen</summary>
 
 | Uge | Dato    | Emne                                                                           | Aflevering - Projekt - Bevis - Test                             |  Ved tavlen        |
@@ -107,8 +107,29 @@
 |     |         |                                                                                |                                                                 |                    |
 |     | 26/3-26 | [ vektorer regneregler ](/f4_vektorer2d/del2.md)                               |                                                                 |                    | 
 
-
 </details> 
+
+-------------------------------------------------
+
+
+<details open>
+  <summary>Studie Område SO1b : Du bliver hvad du spiser </summary>
+
+Lineær regression
+
+| Uge | Dato    | timer ca.| Emne                               | 
+| --- | ------- | -------- | ---------------------------------- | 
+|  15 | 7/4-26  | 1.0      | [lineær regression & maple](/f5_so1b/del1_linReg.md) |                             
+|     |         |          |                                    |                  
+|     | 8/4-26  | 1.0 DVR  | bevis                              |                                    
+|     |         | 1.0 DVR  | projektarbejde                     |                                    
+|     |         |          |                                    |                   
+|     | 9/4-26  | 0.5      | forklaringsgrad , offset og støj   |                                  
+|     |         | 1.5      | projektarbejde                     |                                   
+|     |         |          |                                    |                    
+|     | 10/4-26 | 0.5      | ret-selv-test                      |                                  
+|     |         | 1.5      | projektarbejde                     |             
+</details>
 
 
 -------------------------------------------------
