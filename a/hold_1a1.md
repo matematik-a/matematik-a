@@ -121,7 +121,7 @@ Lineær regression
 | --- | ------- | -------- | ---------------------------------- | 
 |  15 | 7/4-26  | 1.0      | [lineær regression & maple](/f5_so1b/del1_linReg.md) |                             
 |     |         |          |                                    |                  
-|     | 8/4-26  | 1.0 DVR  | bevis                              |                                    
+|     | 8/4-26  | 1.0 DVR  | [bevis](/f5_so1b/BevisLinReg.pdf)  |                                    
 |     |         | 1.0 DVR  | projektarbejde                     |                                    
 |     |         |          |                                    |                   
 |     | 9/4-26  | 0.5      | forklaringsgrad , offset og støj   |                                  
