@@ -124,7 +124,7 @@ Lineær regression
 |     | 8/4-26  | 1.0 DVR  | [bevis](/f5_so1b/del2_bevisLinReg.pdf)  |                                    
 |     |         | 1.0 DVR  | projektarbejde                     |                                    
 |     |         |          |                                    |                   
-|     | 9/4-26  | 0.5      | forklaringsgrad , offset og støj   |                                  
+|     | 9/4-26  | 0.5      | [forklaringsgrad , offset og støj](/f5_so1b/del3_forklaringsGrad.md)   |                                  
 |     |         | 1.5      | projektarbejde                     |                                   
 |     |         |          |                                    |                    
 |     | 10/4-26 | 0.5      | ret-selv-test                      |                                  
