@@ -107,6 +107,8 @@
 |  13 | 25/3-26 | [vektorer regneregler ](/f4_vektorer2d/del2.md)                                |                                                                 |                    | 
 |     |         |                                                                                |                                                                 |                    |
 |     | 27/3-26 | [bevis regneregler, tværvektor-formel og længde-formel](/f4_vektorer2d/del3.md)  |                                                               |                    |
+|     |         |                                                                                |                                                                 |                    |
+| 15  | 8/4-26  | [skalarprodukt og videobeviser](/f4_vektorer2d/del4.md)                         |                                                                 |                    |
 
 
 
