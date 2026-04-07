@@ -5,6 +5,22 @@
 
 -----------------------------------------------------------------------------
 
+## Repetition-Forståelses øvelser:
+
+***Opgave 1:*** Hvad betyder hat tegnet over  $ \hat{a} $ og  $ \hat{b} $ ? Forklar det med dine egne ord.
+
+***Opgave 2:*** Hvad betyder indeks i på både $ \hat{y_i} $ og $ x_i $ ? Giv et selvvalgt eksempel.
+
+***Opgave 3:*** Hvad betyder $ \bar{x} $ og $ \bar{y} $ ? Forklar betydningen og giv et selvvalgt eksempel. 
+
+***Opgave 4:*** Hvad betyder $ S(\hat{a},\hat{b}) $ ? Forklar det med dine egne ord.
+
+***Opgave 5:*** Hvad betyder $ \sum_{i=1}^n $ ? Giv et eksempel på hvordan symbolet bruges i praksis.
+
+
+
+-----------------------------------------------------------------------------
+
 <table border="1" cellpadding="8" cellspacing="0">
 
   <tr>

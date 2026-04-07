@@ -49,19 +49,6 @@ $ \Large \hat{y_i} = \hat{a} \cdot x_i + \hat{b} $
 </tr>
 </table>
 
------------------------------------------------------------------------------
-
-## Forståelses øvelser:
-
-***Opgave 1:*** Hvad betyder hat tegnet over  $ \hat{a} $ og  $ \hat{b} $ ? Forklar det med dine egne ord.
-
-***Opgave 2:*** Hvad betyder indeks i på både $ \hat{y_i} $ og $ x_i $ ? Giv et selvvalgt eksempel på et forøg hvor i er 1, 2 og 3.
-
-***Opgave 3:*** Hvad betyder $ \bar{x} $ og $ \bar{y} $ ? Forklar betydningen og giv et selvvalgt eksempel. 
-
-***Opgave 4:*** Hvad betyder $ S(\hat{a},\hat{b}) $ ? Forklar det med dine egne ord.
-
-***Opgave 5:*** Hvad betyder $ \sum_{i=1}^n $ ? Giv et eksempel på hvordan symbolet bruges i praksis.
 
 -----------------------------------------------------------------------------
 
