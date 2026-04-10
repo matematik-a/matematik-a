@@ -1,7 +1,7 @@
 
 # Forløb 5 - SO1b - Du bliver hvad du spiser
 
-## Del 3 :  Hvad er forklaringsgraden?
+## Del 3 :  Hvad er forklaringsgraden og residualer?
 
 -----------------------------------------------------------------------------
 
