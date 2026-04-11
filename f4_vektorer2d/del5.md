@@ -1,6 +1,6 @@
- Forløb 4 - Vektorer i 2D
+# Forløb 4 - Vektorer i 2D
 
-## Del 4 : prikprodukt, vektorprojektion og determinant
+## Del 4 : Prikprodukt, Vektorprojektion og Determinant
 
 -----------------------------------------------------------------------------
 
@@ -8,31 +8,31 @@
 
 -----------------------------------------------------------------------------
 
-### 1. Sætning der skal bevises - Prikproduktets geometriske fortolkning - 
+## 1. bevis - Prikproduktets geometriske fortolkning - 
 
 For det første  VIGTIGT : prikproduktet er ikke det samme som "multiplikation" - men hvorfor?</br> Det er defineret som $ \vec{u} \cdot \vec{v} = u_1 v_1 + u_2 v_2 $ Og den geometriske fortolkning er at:  
 
-$ \Large \vec{a} \cdot \vec{b} = |\vec{a}| |\vec{b}| \cos(\theta) $  
+$ \Large \vec{a} \cdot \vec{b} = |\vec{a}| \cdot |\vec{b}| \cdot \cos(\theta) $  
 
 *- Prikproduktet kan derfor fortælle om en vinkel er stump spis eller retvinklet*
 
-### 2. Sætning der skal bevises - Projektion af en vektor på en vektor - 
+## 2. bevis - Projektion af en vektor på en vektor - 
 
 Projektion af en vektor på en vektor kan beregnes ved hjælp af prikproduktet og længden af vektoren.</br> I beviset for projektionen er det tager man udgangspunkt i prikproduktets geometriske fortolkning:
 
-$ \Large \vec{a_b}= \frac{\vec{a} \cdot \vec{b}}{|\vec{b}|^2} \vec{b} $
+$ \Large \vec{a_b}= \LARGE \frac{\vec{a} \cdot \vec{b}}{|\vec{b}|^2} \Large \cdot \vec{b} $
 
-### 3. Sætning der skal bevises - Determinant af to vektorer og arealet af parallelogrammet - 
+## 3. bevis - Determinant af to vektorer og arealet af parallelogrammet - 
 
 Determinanten størrelse svarer til arealet af det udspændte parallelogram mellem de to vektorer.
 
-$ \Large \text{Areal} = |\text{det}(\vec{u}, \vec{v})| = | u_1 v_2 - u_2 v_1 | $ 
+$ \Large \text{Areal}_{( \vec{a}, \vec{b} )} = |\text{det}(\vec{a}, \vec{b})| = | a_1 \cdot b_2 - a_2 \cdot b_1 | $ 
 
 *- Hvis determinanten er 0, så betyder det derfor at de to vektorer er parallele*
 
------------------------------------------------------------------------------
+-----------------------------------------------------------------
 
-### Dagens program - bevis præsentationer
+## Dagens program - bevis præsentationer
 
 ***Følg denne procedure når I skal præsentere jeres beviser for hinanden i matrix grupperne:***
 
