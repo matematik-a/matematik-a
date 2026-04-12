@@ -33,7 +33,7 @@ $ \Large \vec{a_b}= \LARGE \frac{\vec{a} \cdot \vec{b}}{|\vec{b}|^2} \Large \cdo
 
 Determinanten størrelse svarer til arealet af det udspændte parallelogram mellem de to vektorer.
 
-$ \Large \text{Areal}_{( \vec{a}, \vec{b} )} = |\text{det}(\vec{a}, \vec{b})| = | a_1 \cdot b_2 - a_2 \cdot b_1 | $ 
+$ \Large \text{Areal}_{( \vec{a}, \vec{b} )} = |\text{det}(\vec{a}, \vec{b})| = | a_1 \cdot b_2 - a_2 \cdot b_1 | = | \vec{a} \cdot \hat{\vec{b}} | $
 
 *- Hvis determinanten er 0, så betyder det derfor at de to vektorer er parallele*
 
