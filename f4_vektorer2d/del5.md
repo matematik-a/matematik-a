@@ -8,9 +8,16 @@
 
 -----------------------------------------------------------------------------
 
+Dagens program er bevis præsentationer i matrix grupper - og det er derfor vigtigt at I har forstået nedstående begreber og formler, da det er disse I skal bevise for hinanden i matrix grupperne.
+
+-----------------------------------------------------------------------------
+
+
 ## 1. bevis - Prikproduktets geometriske fortolkning - 
 
-For det første  VIGTIGT : prikproduktet er ikke det samme som "multiplikation" - men hvorfor?</br> Det er defineret som $ \vec{u} \cdot \vec{v} = u_1 v_1 + u_2 v_2 $ Og den geometriske fortolkning er at:  
+For det første  VIGTIGT : prikproduktet er ikke det samme som "multiplikation" - men hvorfor?</br> 
+Lad os lige kigge på nedenstående og identificere prikprodukter og multiplikationer</br>
+Prikproduktet er defineret som $ \vec{u} \cdot \vec{v} = u_1 v_1 + u_2 v_2 $ Og den geometriske fortolkning er at:  
 
 $ \Large \vec{a} \cdot \vec{b} = |\vec{a}| \cdot |\vec{b}| \cdot \cos(\theta) $  
 
@@ -32,28 +39,50 @@ $ \Large \text{Areal}_{( \vec{a}, \vec{b} )} = |\text{det}(\vec{a}, \vec{b})| = 
 
 -----------------------------------------------------------------
 
-## Dagens program - bevis præsentationer
+## Agenda:
 
-***Følg denne procedure når I skal præsentere jeres beviser for hinanden i matrix grupperne:***
+### Følg denne procedure når I skal præsentere jeres beviser for hinanden i matrix grupperne:
 
-1 Til at starte med forklarer og skriver man hvad man gerne vil bevise 
-
-2 Herefter er vigtigt at være meget tydelig i hvilke forudsætninger man bruger i et bevis.
-
-3 Til sidst laver man udledningen der beviser påstanden. Husk undervejs at skal være meget tydelig omkring både, beregninger, definitioner og logiske argumenter, og hvordan de hænger sammen.
+| Trin | Handling |
+| :--- | :--- |
+| **1. Påstand** | Forklar og skriv præcis, hvad du vil bevise. |
+| **2. Forudsætninger** | Forklar og skriv de antagelser og regler, beviset bygger på. |
+| **3. Udledning** | Lav selve ræsonnementet med tydelige beregninger og logiske argumenter. |
 
 
 ### Ca. 40 minutter - Træn beviser i gruppe 40 minutter
 
-Hver 3 mands-gruppe øver beviserne
+Hver 2 , 3 og 4 mands-grupper og øver beviserne
+
+| Gruppe | Bevis 1 - lokale 0.77 | Bevis 2 - lokale 2.31 | Bevis 2 - lokale 2.31 | Bevis 3 - lokale 0.77 |
+| :--- | :--- | :--- | :--- | :--- |
+| **G1-G4** | Filip, Alex B., Alexander | Varish & Arthur | Alex X. & Christoffer | Carl, Anton, Max |
+| **G5-G8** | Frederik, Gustav, Johan | Victor & Kayra | Kasper & Kristoffer | Laura, Mads P., Martin |
+| **G9-G12** | Abdullah, Norma, Patrick | Storm & Sander | Simon K. & Sebastian | Rasmus, Simon T., Sofia |
+
 
 ### Ca. 30 minutter - Matrix grupper - præsenter beviser 
-
 1 Fra hver gruppe mødes i en matrix gruppe og præsenterer beviserne for hinanden - de andre i gruppen skal vurdere om beviset er korrekt og forståeligt, og komme med forslag til forbedringer
 
-### Ca 30 minutter - Øvelser - enkelte frivillige præsenterer for mig
+
+
+| Gruppe | Ekspert i Bevis 1 | Ekspert i Bevis 2 | Ekspert i Bevis 3 |
+| :--- | :--- | :--- | :--- |
+| **Gruppe A** lokale 0.77 | Filip Nicolai | Alexander Xavier | Max Schou |
+| **Gruppe B** lokale 0.77  | Alexander Bøgelund | Christoffer | Anton Johannes Nissen |
+| **Gruppe C** lokale 0.77  | Alexander | Arthur Bredahl Pontoppidan | Abdullah Mohammed |
+| **Gruppe D** lokale 0.77  | Frederik Toming | Kasper Nikolaj | Laura Roat |
+| **Gruppe E** lokale 0.77  | Gustav | Kayra | Mads Peter Bjerg |
+| **Gruppe F** lokale 2.31 | Johan Løhde | Kristoffer | Martin |
+| **Gruppe G** lokale 2.31 | Abdullah | Simon Kvist | Rasmus Kindvig |
+| **Gruppe H** lokale 2.31 | Norma Møller | Sander Ole Schacht | Simon Torp |
+| **Gruppe I** lokale 2.31 | Patrick Kjøller | Sebastian Varga | Sofia |
+| **Gruppe J** lokale 2.31 | Storm Elliot | Varish Sunil | Victor (Pladsholder) |
 
 -----------------------------------------------------------------------------
+
+### Resten af timen - ca. 30 minutter - Øvelser - enkelte frivillige præsenterer for mig
+
 
 
 
