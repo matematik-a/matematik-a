@@ -6,8 +6,11 @@
 
 ### Bevis grupper og Præsentation grupper
 
-
-
+I disse timer skal I lave beviser for hinanden - men jeg efterprøver en ny arbejdsform; matrix-grupper.</br>
+Desuden opdeler vi klassen i to dele for at få mere ro under arbejdet.</br>
+Første del består af at I øver præsentationerne af beviset ,- hvis I har et kæmpe overskud af tid må I selvfølgelig gerne kigge på de andre beviser.</br>
+I anden del mødes en repræsentant for hver bevis-gruppe og I præsenterer nu beviserne for hinanden.</br>
+Det er vigtigt at I giver hinanden konstruktiv feedback på præsentationen. 
 
 13:40 til 14:20 : Grupper 1-4  er i lokale 0.75 </br>
 pause</br>
