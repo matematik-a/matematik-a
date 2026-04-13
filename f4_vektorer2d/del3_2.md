@@ -5,12 +5,12 @@
 ### Materiale fra plus A, systime - Kap 12.1
 -----------------------------------------------------------------------------
 
-| | Bevis 1 | Bevis 2 | Bevis 3 | Bevis 4 |
+| | Bevis 1 -Addition / Subtraktion | Bevis 2 - Vektor længde | Bevis 3 - AB vektor formel | Bevis 4 - Tvær vektor -står ikke i bogen |
 | :--- | :--- | :--- | :--- | :--- |
-| **Emne** | Addition / Subtraktion | Vektor længde | AB vektor formel | Tvær vektor - bevis står ikke i bogen |
+| **Formel** | $ \Large \vec{a}+\vec{b} = (a1+b1, a2+b2)$ </br> $ \Large \vec{a}-\vec{b} = (a1-b1, a2-b2)$  | $ \Large \|\vec{a}\| = \sqrt{a1^2 + a2^2}$ |  $ \Large \vec{AB} = (a1-b1, a2-b2)$ |  $ \Large \hat{\vec{a}} = (-a2, a1)$ |
 | **Reference** | 12.1.2 sætning 2 | 12.1.3 sætning 5 | 12.1.3 sætning 6 | 12.1.2 sætning 4 |
 
-#### Følg denne procedure når I skal præsentere jeres beviser for hinanden i matrix grupperne:
+Følg denne procedure når I skal præsentere jeres beviser for hinanden i matrix grupperne:
 
 | Trin | Handling |
 | :--- | :--- |
@@ -18,7 +18,10 @@
 | **2. Forudsætninger** | Forklar og skriv de antagelser og regler, beviset bygger på. |
 | **3. Udledning** | Lav selve ræsonnementet med tydelige beregninger og logiske argumenter. |
 
-### Bevis grupper og Præsentation grupper
+-----------------------------------------------------------------------------
+
+
+### Bevis-grupper og Præsentations-grupper
 
 I disse timer skal I lave beviser for hinanden - men jeg efterprøver en ny arbejdsform; matrix-grupper.</br>
 Desuden opdeler vi klassen i to dele for at få mere ro under arbejdet.</br>
