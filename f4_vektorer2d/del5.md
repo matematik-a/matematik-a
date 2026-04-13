@@ -70,7 +70,7 @@ Hver 2 , 3 og 4 mands-grupper og øver beviserne
 | :--- | :--- | :--- | :--- |
 | **Gruppe A** lokale 0.77 | Filip Nicolai | Alexander Xavier | Max Schou |
 | **Gruppe B** lokale 0.77  | Alexander Bøgelund | Christoffer | Anton Johannes Nissen |
-| **Gruppe C** lokale 0.77  | Alexander | Arthur Bredahl Pontoppidan | Abdullah Mohammed |
+| **Gruppe C** lokale 0.77  | Alexander R. | Arthur Bredahl Pontoppidan | Carl |
 | **Gruppe D** lokale 0.77  | Frederik Toming | Kasper Nikolaj | Laura Roat |
 | **Gruppe E** lokale 0.77  | Gustav | Kayra | Mads Peter Bjerg |
 | **Gruppe F** lokale 2.31 | Johan Løhde | Kristoffer | Martin |
