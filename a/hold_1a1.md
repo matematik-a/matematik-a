@@ -99,7 +99,7 @@
 -------------------------------------------------
 
 
-<details open>
+<details>
   <summary>Studie Område SO1b : Du bliver hvad du spiser </summary>
 
 Lineær regression
@@ -121,7 +121,7 @@ Lineær regression
 
 -------------------------------------------------
 
-<details>
+<details open>
   <summary>Vektorer i planen</summary>
 
 | Uge | Dato    | Emne                                                                           | Aflevering - Projekt - Bevis - Test                             |  Ved tavlen        |
