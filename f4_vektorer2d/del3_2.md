@@ -4,6 +4,14 @@
 | **Emne** | Addition / Subtraktion | Vektor længde | AB vektor formel | Tvær vektor - bevis står ikke i bogen |
 | **Reference** | 12.1.2 sætning 2 | 12.1.3 sætning 5 | 12.1.3 sætning 6 | 12.1.2 sætning 4 |
 
+#### Følg denne procedure når I skal præsentere jeres beviser for hinanden i matrix grupperne:
+
+| Trin | Handling |
+| :--- | :--- |
+| **1. Påstand** | Forklar og skriv præcis, hvad du vil bevise. |
+| **2. Forudsætninger** | Forklar og skriv de antagelser og regler, beviset bygger på. |
+| **3. Udledning** | Lav selve ræsonnementet med tydelige beregninger og logiske argumenter. |
+
 ### Bevis grupper og Præsentation grupper
 
 I disse timer skal I lave beviser for hinanden - men jeg efterprøver en ny arbejdsform; matrix-grupper.</br>
