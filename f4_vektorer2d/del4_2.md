@@ -4,36 +4,68 @@
 
 -----------------------------------------------------------------------------
 
-### Materiale fra plus A, systime - Kap 12.2 ( intro )
+### Materiale fra plus A, systime - Kap 12.2
 
 -----------------------------------------------------------------------------
 
-Definition af skalarproduktet i $\mathbb{R}^2$ :
-  
-$$ \text{For to vektorer } \vec{u} = (u_1, u_2) \text{ og } \vec{v} = (v_1, v_2) $$
-$$ \text{ Skalarproduktet eller prikproduktet er defineret ved: } $$
-$$ \vec{u} \cdot \vec{v} = ( 1 \\\ 2) = u_1 v_1 + u_2 v_2 $$
+$$ \text{Definitionen af } \textbf{skalarproduktet}\text{, også kaldet } \textbf{prikproduktet}\text{, i } \mathbb{R}^2 : $$
+$$ \Large \textcolor{blue}{\vec{u}} \cdot \textcolor{red}{\vec{v}} = \textcolor{blue}{\begin{pmatrix} u_1 \\\ u_2 \end{pmatrix}} \cdot \textcolor{red}{\begin{pmatrix} v_1 \\\ v_2 \end{pmatrix}} 
+= \textcolor{blue}{u_1} \cdot \textcolor{red}{v_1} + \textcolor{blue}{u_2} \cdot \textcolor{red}{v_2}$$
 
 ------------------------------------------------------------------------------
 
-### Videobeviser
+***Vigtigt:***
 
-I bogen (sætning 2) beskrives regenereglerne for skalaproduktet også kaldet prikproduktet - og det er disse regler skal I bevise.
-Alle beviser skal optages på en video og uploades eller linkes til på elevfeedback, I må gerne arbejde sammen nogle stykker!
+Det er vigtigt at være opmærksom på at prikproduktet er et tal og ikke en vektor, men symbolet $ \cdot $ er det samme som for multiplikation, så det kan være forvirrende.
+Overvej hvornår $ \cdot $ betyder multiplikation og hvornår det betyder prikprodukt, i nedenstående udtryk:
+
+$ \vec{a} \cdot \vec{b} \cdot \vec{c} \cdot \vec{d} $
+
+Du må ikke sige "multiplikation" når der er tale om "prikproduktet" og omvendt!
+
+------------------------------------------------------------------------------
+
+## Beviser, der skal øves og præsenteres for hinanden
+
+Bevis alle følgende regler for skalarproduktet - sætning 2 i kapitel 12.2:
+
+| | Regel | Formel | 
+| :--- | :--- | :--- |
+| Bevis 1 | - prikproduktet af ortogonale vektorer er nul | $ \textcolor{blue}{ \Large \vec{u} \cdot \vec{v} = 0  \text{ hvis } \vec{u} \perp \vec{v} } $ |
+| Bevis 2 | - prikproduktet er lig produktet af vektorernes længder multiplikeret med cosinus til vinklen mellem dem | $ \textcolor{blue}{ \Large \vec{u} \cdot \vec{v} = \| \vec{u} \| \cdot \| \vec{v} \| \cdot \cos(\theta) } $ |
+| Bevis 3 | - Projektion af en vektor på en vektor | $ \textcolor{blue}{ \Large \vec{a_b} = \frac{\vec{a} \cdot \vec{b}}{\| \vec{b} \|^2} \cdot \vec{b} } $ |
+
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+
+## Præsentations og bevis-grupper
+
+Grupperne 1-6 og Præsentation 1-4 </br>
+kl. 8:40 til 9:15 : Grupper 1-4  er i lokale 0.75 </br>
+kl. 9:20 til 10:00 : Grupper 5-8  er i lokale 2.31 </br>
+
+|  | Gruppe 1 - bevis 1 | Gruppe 2 - bevis 2 | Gruppe 3 - bevis 3|
+| :-- | :--- | :--- | :--- |
+| Præsentation 1 | Tobias William Thirstrup | Anna-Franceska | Jakob Østergaard |
+| Præsentation 2 | Christian Richard Fredborg | Marius Johannes | Laurits Frisenette |
+| | | | |
+| | ***Gruppe 4 - bevis 1*** | ***Gruppe 5 - bevis 2*** | ***Gruppe 6 - bevis 3*** |
+| Præsentation 3 | Albert Sol Palvig | Sif Rau | Hannibal Rørbøl - Team |
+| Præsentation 4 | Augusta Kirkedal | Konrad Willum | Frederik Borregaard |
+
+------------------------------------------------------------------------------
+
+Grupperne 7-12 og Præsentation 5-8 </br>
+kl. 8:40 til 9:15 : Grupper 7-10  er i lokale 2.31 </br>
+kl. 9:20 til 10:00 : Grupper 11-12  er i lokale 0.75 </br>
+
+| | Gruppe 7 - bevis 1 | Gruppe 8 - bevis 2 | Gruppe 9 - bevis 3 |
+| :--- | :--- | :--- | :--- |
+| Præsentation 5 | Thor Sander Falkesgaard | Liv Hørup Kiil | Bertram Kofoed |
+| Præsentation 6 | Anton Siyu | Alexander Ørsted | Frederik |
+| | | | |
+| | ***Gruppe 10 - bevis 1*** | ***Gruppe 11 - bevis 2*** | ***Gruppe 12 - bevis 3*** |
+| Præsentation 7 | George | Marius Aafalk | Mikkel Lemvard |
+| Præsentation 8 | Veronika Kirsten Frøsig | Mads Schou | Konrad Falkenberg |
 
 
-***jeg giver fravær til dem der hverken har ikke har lavet en video eller forsøgt sig med beviserne***
-
-#### Bevis alle følgende regler for skalarproduktet - sætning 2 i kapitel 12.2 - og optag det på video:
-
-Bevis 6: $ \Large \vec{u} \cdot \vec{u} = |\vec{u}|^2 $ længde af vektor
-
-Bevis 7: $ \Large \vec{u} \cdot \vec{v} = \vec{v} \cdot \vec{u} $ kummutativitet 
-
-Bevis 8: $ \Large \vec{u} \cdot (\vec{v} + \vec{w}) = \vec{u} \cdot \vec{v} + \vec{u} \cdot \vec{w} $ distributivitet
-
-Bevis 9: $ \Large (c \vec{u}) \cdot \vec{v} = c (\vec{u} \cdot \vec{v}) $ multiplikation med skalar
-
-Og bevis også at to vektorer er ortogonale hvis og kun hvis deres skalarprodukt er 0, altså:
-
-Bevis 10: $ \Large \vec{u} \cdot \vec{v} = 0 $ hvis og kun hvis $ \vec{u} $ og $ \vec{v} $ er ortogonale
