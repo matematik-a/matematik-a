@@ -41,7 +41,7 @@ Bevis alle følgende regler for skalarproduktet - sætning 2 i kapitel 12.2:
 ## Præsentations og bevis-grupper
 
 Grupperne 1-6 og Præsentation 1-4 </br>
-kl. 8:40 til 9:15 : Grupper 1-4  er i lokale 0.75 </br>
+kl. 8:40 til 9:15 : Grupper 1-6  er i lokale 0.75 </br>
 kl. 9:20 til 10:00 : Præsentation 1-4  er i lokale 2.31 </br>
 
 |  | Gruppe 1 - bevis 1 | Gruppe 2 - bevis 2 | Gruppe 3 - bevis 3|
@@ -56,7 +56,7 @@ kl. 9:20 til 10:00 : Præsentation 1-4  er i lokale 2.31 </br>
 ------------------------------------------------------------------------------
 
 Grupperne 7-12 og Præsentation 5-8 </br>
-kl. 8:40 til 9:15 : Grupper 7-10  er i lokale 2.31 </br>
+kl. 8:40 til 9:15 : Grupper 7-12  er i lokale 2.31 </br>
 kl. 9:20 til 10:00 : Præsentation 5-8  er i lokale 0.75 </br>
 
 | | Gruppe 7 - bevis 1 | Gruppe 8 - bevis 2 | Gruppe 9 - bevis 3 |
