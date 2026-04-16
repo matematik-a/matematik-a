@@ -140,10 +140,30 @@ Lineær regression
 -------------------------------------------------
 
 ### Mundtlig årsprøve - og tid inden 
- 
+
+Årspørven ligner meget den mundtlige eksamen i 3G.
+Opgavetyper og beviser er kendt inden prøven.
+
+--
+
+1 først trækker man en "opgave" der består to eller tre delspørgsmål, et bevis og en opgave
+
+2 så får man 24 minutter til at forberede sig
+
+3 så er der 24 minutter til selve "eksamen", hvor første halvdel består af jeres præsentation og anden halvdel er en samtale
+
+--
+
 uge 17 vektorer
-uge 18 vektorer 
+
+uge 18 vektorer og test
+
 uge 19 træning til årsprøve
+
 uge 20 træning til årsprøve
+
 uge 21 
+
 uge 22 ÅRSPRØVE  
+
+
