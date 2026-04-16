@@ -139,6 +139,11 @@ Lineær regression
 
 -------------------------------------------------
 
-### Mundtlig årsprøve i projekter og emner
+### Mundtlig årsprøve - og tid inden 
  
-uge 22 ??
+uge 17 vektorer
+uge 18 vektorer 
+uge 19 træning til årsprøve
+uge 20 træning til årsprøve
+uge 21 
+uge 22 ÅRSPRØVE  
