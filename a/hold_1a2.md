@@ -126,16 +126,15 @@ Lineær regression
 
 | Uge | Dato    | timer ca.| Emne                               | 
 | --- | ------- | -------- | ---------------------------------- | 
-|  16 | 14/4-26 | 1.0     | [lineær regression & maple](/f5_so1b/del1_linReg.md) |                             
+|  16 | 14/4-26 | 1.0      | [lineær regression & maple](/f5_so1b/del1_linReg.md) |                             
 |     |         |          |                                    |                  
-|     | 16/4-26 | 1.0      | [bevis](/f5_so1b/del2_bevisLinReg.pdf)  |                                    
-|     |         | 1.0      | projektarbejde                     |                                    
+|     | 16/4-26 | 1.0      | [bevis](/f5_so1b/del2_bevisLinReg2.pdf)  |                                    
 |     |         |          |                                    |                   
-|     | 16/4-26  | 0.5      | [forklaringsgrad og residualer](/f5_so1b/del3_forklaringsGrad.md)   |                                  
-|     |         | 1.5      | projektarbejde                     |                                   
+|     | 16/4-26 | 1.0      | [forklaringsgrad og residualer](/f5_so1b/del3_forklaringsGrad.md)   |                                  
+|     |         | 2.0      | projektarbejde / poster            |                                   
 |     |         |          |                                    |                    
 |     | 17/4-26 | 0.5      | [ret-selv-test](/f5_so1b/TestLinReg.pdf)                      |                                  
-|     |         | 1.5      | projektarbejde                     |             
+|     |         | 1.5      | projektarbejde / poster             |             
 </details>
 
 -------------------------------------------------
