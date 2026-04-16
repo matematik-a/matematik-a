@@ -142,4 +142,4 @@ Lineær regression
 
 ### Mundtlig årsprøve i projekter og emner
 
-ca. uge 20 ? 
+ca. uge 22 ? 

@@ -141,4 +141,4 @@ Lineær regression
 
 ### Mundtlig årsprøve i projekter og emner
  
-uge 20 ??
+uge 22 ??
