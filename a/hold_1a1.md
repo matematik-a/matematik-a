@@ -130,10 +130,11 @@ Lineær regression
 |     |         |                                                                                |                                                                 |                    |
 |     | 26/3-26 | [ vektorer regneregler ](/f4_vektorer2d/del2.md)                               |                                                                 |                    | 
 |     |         |                                                                                |                                                                 |                    |
-|  16 | 13/4-26 | [beviser regneregler, længde, tværvektor og koordinatvektor](/f4_vektorer2d/del3_2.md) |                                                                 |                    |
+|  16 | 13/4-26 | [beviser regneregler, længde, tværvektor og koordinatvektor](/f4_vektorer2d/del3_2.md) |                                                         |                    |
 |     |         |                                                                                |                                                                 |                    |
-|     | 15/4-26 | [prikprodukt og beviser](/f4_vektorer2d/del4_2.md) |                                                                 |                    |
-
+|     | 15/4-26 | [prikprodukt og beviser](/f4_vektorer2d/del4_2.md)                             |                                                                 |                    |
+|     |         |                                                                                |                                                                 |                    |
+|     | 17/4-26 | [vektor-opgaver](/f4_vektorer2d/del5_2.md)                                     |                                                                 |                    |
 
 </details> 
 
