@@ -137,7 +137,7 @@ Lineær regression
 | 16  | 13/4-26 | [prikprodukt, projektion og determinant](/f4_vektorer2d/del5.md)                |                                                                 |                    |
 |     |         |                                                                                |                                                                 |                    |
 | 17  | 21/4-26 | [vektorregning i maple](/f4_vektorer2d/del6VektorMaple.md)                      |                                                                 |                    |
-|     | 21/4-26 | [vektoropgaver - laves i maple ](/f4_vektorer2d/del5_2.md)                     |                                                                 |                    |
+|     | 21/4-26 | [vektoropgaver - laves i maple ](/f4_vektorer2d/del6Opgaver.md)                     |                                                                 |                    |
 |     |         | sig til når i er færdige med opgaverne                                   |                                                                 |                    |
 
 </details> 
