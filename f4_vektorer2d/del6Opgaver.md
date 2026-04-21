@@ -34,7 +34,7 @@ Bestem den værdi af x for hvilken $\overrightarrow{OP} \perp \overrightarrow{OA
 
 Lad $\vec{a}=\binom{5}{9} \quad \text{og} \quad \vec{b}=\binom{8}{-11}$
 
-Bestem koordinatsættet for $\vec{b}'s projektion på $\vec{a}$.
+Bestem koordinatsættet for $\vec{b}$'s projektion på $\vec{a}$.
 
 Bestem vinklen mellem vektorerne.
 
@@ -51,3 +51,18 @@ $C(1, -2)$.
 Bestem vinklerne i $\triangle ABC$ ved hjælp af vektorregning.
 
 Bestem koordinatsættet for fodpunktet H af højden fra C , vink: Bestem først vektoren $\overrightarrow{AH}$  , der er resultatet af en vektorprojektion.
+
+
+------
+
+# Fysikorienterede opgaver - fra teknisk matematik
+
+## Opgave 463
+
+![opg1](/f4_vektorer2d/Opg1TM.png)
+
+## Opgave 465
+
+![opg2](/f4_vektorer2d/Opg2TM.png)
+
+![opg3](/f4_vektorer2d/Opg3TM.png)
