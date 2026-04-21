@@ -20,6 +20,25 @@ dot_product := a . b;
 
 ```
 
+Vigtigt hvis der indgår reele-variable i vektorerne, så skal man huske at definere at de er reele tal, ellers kan Maple ikke regne med dem i prikproduktet:
+
+```maple    
+assume(t, real);
+a := <t, 2>;
+b := <3, t+1>;
+dot_product := a . b;
+
+```
+
+Alternativt kan man anvende Gym pakken der indeholder funktionen dotP, denne regner altid i reelle tal:
+
+```maple
+with(Gym):
+dot_product := dotP(a, b);
+
+```
+
+
 For at beregne længden af en vektor i Maple, kan man bruge funktionen `norm` eller tage kvadratroden af summen af kvadraterne af komponenterne:
 
 ```maple
