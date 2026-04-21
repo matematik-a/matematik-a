@@ -96,30 +96,9 @@
 </details>
 
 -------------------------------------------------
+
+
 <details>
-  <summary>Vektorer i planen</summary>
-
-| Uge | Dato    | Emne                                                                           | Aflevering - Projekt - Bevis - Test                             |  Ved tavlen        |
-| --- | ------- | ------------------------------------------------------------------------------ | --------------------------------------------------------------- | ------------------ |
-|  12 |         | [svære opgaver - test 3](/f3_aplan/test3fejl.md)                               |                                                                 |                    |
-|     | 20/3-26 | [opstart - kap 12 (intro) - Øvelse.12.1+12.1.2+12.1.3 & GeoGebra](/f4_vektorer2d/del1.md) |                                                      |                    |
-|     |         |                                                                                |                                                                 |                    |
-|  13 | 25/3-26 | [vektorer regneregler ](/f4_vektorer2d/del2.md)                                |                                                                 |                    | 
-|     |         |                                                                                |                                                                 |                    |
-|     | 27/3-26 | [bevis regneregler, tværvektor-formel og længde-formel](/f4_vektorer2d/del3.md)  |                                                               |                    |
-|     |         |                                                                                |                                                                 |                    |
-| 15  | 8/4-26  | [skalarprodukt og videobeviser](/f4_vektorer2d/del4.md)                         |                                                                 |                    |
-|     |         |                                                                                |                                                                 |                    |
-| 16  | 13/4-26 | [prikprodukt, projektion og determinant](/f4_vektorer2d/del5.md)                |                                                                 |                    |
-
-
-
-</details> 
-
--------------------------------------------------
-
-
-<details open>
   <summary>Studie Område SO1b : Du bliver hvad du spiser </summary>
 
 Lineær regression
@@ -136,6 +115,32 @@ Lineær regression
 |     | 17/4-26 | 0.5      | [ret-selv-test](/f5_so1b/TestLinReg.pdf)                      |                                  
 |     |         | 1.5      | projektarbejde / poster             |             
 </details>
+
+
+
+
+-------------------------------------------------
+<details open>
+  <summary>Vektorer i planen</summary>
+
+| Uge | Dato    | Emne                                                                           | Aflevering - Projekt - Bevis - Test                             |  Ved tavlen        |
+| --- | ------- | ------------------------------------------------------------------------------ | --------------------------------------------------------------- | ------------------ |
+|  12 |         | [svære opgaver - test 3](/f3_aplan/test3fejl.md)                               |                                                                 |                    |
+|     | 20/3-26 | [opstart - kap 12 (intro) - Øvelse.12.1+12.1.2+12.1.3 & GeoGebra](/f4_vektorer2d/del1.md) |                                                      |                    |
+|     |         |                                                                                |                                                                 |                    |
+|  13 | 25/3-26 | [vektorer regneregler ](/f4_vektorer2d/del2.md)                                |                                                                 |                    | 
+|     |         |                                                                                |                                                                 |                    |
+|     | 27/3-26 | [bevis regneregler, tværvektor-formel og længde-formel](/f4_vektorer2d/del3.md)  |                                                               |                    |
+|     |         |                                                                                |                                                                 |                    |
+| 15  | 8/4-26  | [skalarprodukt og videobeviser](/f4_vektorer2d/del4.md)                         |                                                                 |                    |
+|     |         |                                                                                |                                                                 |                    |
+| 16  | 13/4-26 | [prikprodukt, projektion og determinant](/f4_vektorer2d/del5.md)                |                                                                 |                    |
+|     |         |                                                                                |                                                                 |                    |
+| 17  | 21/4-26 | [vektorregning i maple](/f4_vektorer2d/del6VektorMaple.md)                      |                                                                 |                    |
+|     | 21/4-26 | [vektoropgaver - laves i maple ](/f4_vektorer2d/del5_2.md)                     |                                                                 |                    |
+|     |         | sig til når i er færdige med opgaverne                                   |                                                                 |                    |
+
+</details> 
 
 -------------------------------------------------
 
