@@ -134,7 +134,9 @@ Lineær regression
 |     |         |                                                                                |                                                                 |                    |
 |     | 15/4-26 | [prikprodukt og beviser](/f4_vektorer2d/del4_2.md)                             |                                                                 |                    |
 |     |         |                                                                                |                                                                 |                    |
-|     | 17/4-26 | [vektor-opgaver](/f4_vektorer2d/del5_2.md)                                     |                                                                 |                    |
+|     | 17/4-26 | [vektor-opgaver 1](/f4_vektorer2d/del5_2.md)                                     |                                                                 |                    |
+|     |         |                                                                                |                                                                 |                    |
+| 17  | 23/4-26 | [vektor-opgaver 2](/f4_vektorer2d/del6_2Opgaver.md)                                     |                                                                 |                    |
 
 </details> 
 
