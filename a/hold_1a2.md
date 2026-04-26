@@ -148,6 +148,7 @@ Lineær regression
 </details> 
 
 -------------------------------------------------
+
 <details>
   <summary>Mundtlig årsprøve</summary>
 

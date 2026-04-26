@@ -144,16 +144,47 @@ Lineær regression
 </details> 
 
 -------------------------------------------------
--------------------------------------------------
 
-### Mundtlig årsprøve - og tid inden 
+<details>
+  <summary>Mundtlig årsprøve</summary>
 
 Årspørven ligner meget den mundtlige eksamen i 3G.
 Opgavetyper og beviser er kendt inden prøven.
 
 --
 
-1 først trækker man en "opgave" der består to eller tre delspørgsmål, et bevis og en opgave
+Mulige spørgsmål:
+
+1 Beskriv problemstilling og løsningsmetode i projekt X
+
+2 Bevis sætning Y
+
+3 Løs opgave Z
+
+--
+
+Mulige projekter: 
+-Cykelstel
+-Havelåge
+-Victoriansk mand
+
+Mulige beviser: 
+-cosinusrelationer
+-sinusrelationer
+-definition af cos, sin og tan, og relationer i en retvinklet trekant
+-ortogonale linjer
+-distanceformel punkt linje
+-cirkelligning og distanceformel for punkter
+-prikproduktet & vinkel imellem to vektorer
+-projektion af vektor på vektor
+-arealet af parallellogrammet udspændt af vektorerne
+
+Opgavetyper:
+- kommer...
+
+--
+
+1 først trækker man en "et sprøgsmål" se ovenfor
 
 2 så får man 24 minutter til at forberede sig
 
@@ -172,3 +203,5 @@ uge 20 træning til årsprøve
 uge 21 
 
 uge 22 ÅRSPRØVE  
+
+</details>
