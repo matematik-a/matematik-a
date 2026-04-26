@@ -139,6 +139,11 @@ Lineær regression
 | 17  | 21/4-26 | [vektorregning i maple](/f4_vektorer2d/del6VektorMaple.md)                      |                                                                 |                    |
 |     | 21/4-26 | [vektoropgaver - laves i maple ](/f4_vektorer2d/del6Opgaver.md)                     |                                                                 |                    |
 |     |         | sig til når i er færdige med opgaverne                                   |                                                                 |                    |
+|     | 23/4-26 | [vektor-opgaver 2](/f4_vektorer2d/del6_2Opgaver.md)                                     |                                                                 |                    |
+|     |         |                                                                                |                                                                 |                    |
+| 18  | 27/4-26 | [rette linjer og vektorer](/f4_vektorer2d/del7_RetteLinjerVektorer.md)         |                                                                 |                    |
+|     |         |                                                                                |                                                                 |                    |
+|     | 1/5-26  | [parameterfremstilling](/f4_vektorer2d/del8_Parameterfremstilling.md)         |                                                                 |                    |
 
 </details> 
 

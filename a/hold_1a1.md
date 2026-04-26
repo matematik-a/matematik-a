@@ -128,15 +128,18 @@ Lineær regression
 | --- | ------- | ------------------------------------------------------------------------------ | --------------------------------------------------------------- | ------------------ |
 |  13 | 26/3-26 | [opstart - kap 12 (intro) - Øvelse.12.1+12.1.2+12.1.3 & GeoGebra](/f4_vektorer2d/del1.md)    |                                                   |                    |
 |     |         |                                                                                |                                                                 |                    |
-|     | 26/3-26 | [ vektorer regneregler ](/f4_vektorer2d/del2.md)                               |                                                                 |                    | 
+|     | 26/3-26 | [vektorer regneregler](/f4_vektorer2d/del2.md)                                 |                                                                 |                    | 
 |     |         |                                                                                |                                                                 |                    |
 |  16 | 13/4-26 | [beviser regneregler, længde, tværvektor og koordinatvektor](/f4_vektorer2d/del3_2.md) |                                                         |                    |
 |     |         |                                                                                |                                                                 |                    |
 |     | 15/4-26 | [prikprodukt og beviser](/f4_vektorer2d/del4_2.md)                             |                                                                 |                    |
 |     |         |                                                                                |                                                                 |                    |
-|     | 17/4-26 | [vektor-opgaver 1](/f4_vektorer2d/del5_2.md)                                     |                                                                 |                    |
+|     | 17/4-26 | [vektor-opgaver 1](/f4_vektorer2d/del5_2.md)                                   |                                                                 |                    |
 |     |         |                                                                                |                                                                 |                    |
-| 17  | 23/4-26 | [vektor-opgaver 2](/f4_vektorer2d/del6_2Opgaver.md)                                     |                                                                 |                    |
+| 17  | 23/4-26 | [vektor-opgaver 2](/f4_vektorer2d/del6_2Opgaver.md)                            |                                                                 |                    |
+|     |         |                                                                                |                                                                 |                    |
+| 18  | 27/4-26 | [rette linjer og vektorer](/f4_vektorer2d/del7_RetteLinjerVektorer.md)         |                                                                 |                    |
+|     | 27/4-26 | [parameterfremstilling](/f4_vektorer2d/del8_Parameterfremstilling.md)         |                                                                 |                    |
 
 </details> 
 
