@@ -138,8 +138,8 @@ Lineær regression
 |     |         |                                                                                |                                                                 |                    |
 | 17  | 23/4-26 | [vektor-opgaver 2](/f4_vektorer2d/del6_2Opgaver.md)                            |                                                                 |                    |
 |     |         |                                                                                |                                                                 |                    |
-| 18  | 27/4-26 | [rette linjer og vektorer](/f4_vektorer2d/del7_RetteLinjerVektorer.md)         |                                                                 |                    |
-|     | 27/4-26 | [parameterfremstilling](/f4_vektorer2d/del8_Parameterfremstilling.md)         |                                                                 |                    |
+| 18  | 27/4-26 | [rette linjer og vektorer](/f4_vektorer2d/del7_rettelinjervektorer.md)         |                                                                 |                    |
+|     | 27/4-26 | [parameterfremstilling](/f4_vektorer2d/del8_parameterfremstilling.md)          |                                                                 |                    |
 
 </details> 
 

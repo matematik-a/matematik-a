@@ -130,20 +130,20 @@ Lineær regression
 |     |         |                                                                                |                                                                 |                    |
 |  13 | 25/3-26 | [vektorer regneregler ](/f4_vektorer2d/del2.md)                                |                                                                 |                    | 
 |     |         |                                                                                |                                                                 |                    |
-|     | 27/3-26 | [bevis regneregler, tværvektor-formel og længde-formel](/f4_vektorer2d/del3.md)  |                                                               |                    |
+|     | 27/3-26 | [bevis regneregler, tværvektor-formel og længde-formel](/f4_vektorer2d/del3.md)|                                                                 |                    |
 |     |         |                                                                                |                                                                 |                    |
-| 15  | 8/4-26  | [skalarprodukt og videobeviser](/f4_vektorer2d/del4.md)                         |                                                                 |                    |
+| 15  | 8/4-26  | [skalarprodukt og videobeviser](/f4_vektorer2d/del4.md)                        |                                                                 |                    |
 |     |         |                                                                                |                                                                 |                    |
-| 16  | 13/4-26 | [prikprodukt, projektion og determinant](/f4_vektorer2d/del5.md)                |                                                                 |                    |
+| 16  | 13/4-26 | [prikprodukt, projektion og determinant](/f4_vektorer2d/del5.md)               |                                                                 |                    |
 |     |         |                                                                                |                                                                 |                    |
-| 17  | 21/4-26 | [vektorregning i maple](/f4_vektorer2d/del6VektorMaple.md)                      |                                                                 |                    |
-|     | 21/4-26 | [vektoropgaver - laves i maple ](/f4_vektorer2d/del6Opgaver.md)                     |                                                                 |                    |
-|     |         | sig til når i er færdige med opgaverne                                   |                                                                 |                    |
-|     | 23/4-26 | [vektor-opgaver 2](/f4_vektorer2d/del6_2Opgaver.md)                                     |                                                                 |                    |
+| 17  | 21/4-26 | [vektorregning i maple](/f4_vektorer2d/del6VektorMaple.md)                     |                                                                 |                    |
+|     | 21/4-26 | [vektoropgaver - laves i maple ](/f4_vektorer2d/del6Opgaver.md)                |                                                                 |                    |
+|     |         | sig til når i er færdige med opgaverne                                         |                                                                 |                    |
+|     | 23/4-26 | [vektor-opgaver 2](/f4_vektorer2d/del6_2Opgaver.md)                            |                                                                 |                    |
 |     |         |                                                                                |                                                                 |                    |
-| 18  | 27/4-26 | [rette linjer og vektorer](/f4_vektorer2d/del7_RetteLinjerVektorer.md)         |                                                                 |                    |
+| 18  | 27/4-26 | [rette linjer og vektorer](/f4_vektorer2d/del7_rettelinjervektorer.md)         |                                                                 |                    |
 |     |         |                                                                                |                                                                 |                    |
-|     | 1/5-26  | [parameterfremstilling](/f4_vektorer2d/del8_Parameterfremstilling.md)         |                                                                 |                    |
+|     | 1/5-26  | [parameterfremstilling](/f4_vektorer2d/del8_parameterfremstilling.md)          |                                                                 |                    |
 
 </details> 
 
