@@ -141,9 +141,9 @@ Lineær regression
 |     |         | sig til når i er færdige med opgaverne                                         |                                                                 |                    |
 |     | 23/4-26 | [vektor-opgaver 2](/f4_vektorer2d/del6_2Opgaver.md)                            |                                                                 |                    |
 |     |         |                                                                                |                                                                 |                    |
-| 18  | 27/4-26 | [rette linjer og vektorer](/f4_vektorer2d/del7_rettelinjervektorer.md)         |                                                                 |                    |
+| 18  | 27/4-26 | [rette linjer og vektorer](/f4_vektorer2d/del7_linjer.md)                      |                                                                 |                    |
 |     |         |                                                                                |                                                                 |                    |
-|     | 1/5-26  | [parameterfremstilling](/f4_vektorer2d/del8_parameterfremstilling.md)          |                                                                 |                    |
+|     | 1/5-26  | [parameterfremstilling](/f4_vektorer2d/del8_parameter.md)                      |                                                                 |                    |
 
 </details> 
 
