@@ -152,41 +152,12 @@ Lineær regression
 <details>
   <summary>Mundtlig årsprøve</summary>
 
-Årspørven ligner meget den mundtlige eksamen i 3G.
-Opgavetyper og beviser er kendt inden prøven.
+### Årspørven ligner den mundtlige eksamen i 3G.
+Projekter, opgavetyper og beviser ses nedenfor.
 
---
+-----
 
-Mulige spørgsmål:
-
-1 Beskriv problemstilling og løsningsmetode i projekt X
-
-2 Bevis sætning Y
-
-3 Løs opgave Z
-
---
-
-Mulige projekter: 
--Cykelstel
--Havelåge
--Victoriansk mand
-
-Mulige beviser: 
--cosinusrelationer
--sinusrelationer
--definition af cos, sin og tan, og relationer i en retvinklet trekant
--ortogonale linjer
--distanceformel punkt linje
--cirkelligning og distanceformel for punkter
--prikproduktet & vinkel imellem to vektorer
--projektion af vektor på vektor
--arealet af parallellogrammet udspændt af vektorerne
-
-Opgavetyper:
-- kommer...
-
---
+### Prøveforløb:
 
 1 først trækker man en "et sprøgsmål" se ovenfor
 
@@ -194,15 +165,78 @@ Opgavetyper:
 
 3 så er der 24 minutter til selve "eksamen", hvor første halvdel består af jeres præsentation og anden halvdel er en samtale
 
---
+-----
 
-uge 17 vektorer
+### Spørgsmål man kan trække:
 
-uge 18 vektorer og test
+Del 1 : Beskriv problemstilling og løsningsmetode i projekt X
 
-uge 19 træning til årsprøve
+Del 2 : Bevis sætning Y
 
-uge 20 træning til årsprøve
+Del 3 : Løs opgave Z
+
+------
+
+### Mulige projekter: 
+
+Cykelstel
+
+Havelåge
+
+Victoriansk mand / SO1b Du bliver hvad du spiser
+
+------
+
+### Mulige beviser: 
+
+cosinusrelationer
+
+sinusrelationer
+
+definition af cos, sin og tan, og relationer i en retvinklet trekant
+
+ortogonale linjer
+
+distanceformel punkt linje
+
+cirkelligning og distanceformel for punkter
+
+prikproduktet & vinkel imellem to vektorer
+
+projektion af vektor på vektor
+
+arealet af parallellogrammet udspændt af vektorerne
+
+----
+
+### Opgavetyper:
+
+
+vinkleberegninger i vilkårlig trekant sinusrelation
+
+vinkelberegninger i retvinklet trekant cosinusrelation
+
+vinkelberegninger i retvinklet trekant
+ 
+tangenter til cirkler 
+
+skæringer mellem cirkler og linjer og cirkler
+
+ciklens ligning bestemmes
+
+vinkler mellem vektorer
+
+projektion af vektor på vektor
+
+ortogonale og parallelle vektorer
+
+-----
+
+### Tidsplan for forløbet:
+
+uge 19 Test i vektorer - og træning til årsprøve
+
+uge 20 Aflevering i alle emner - og træning til årsprøve
 
 uge 21 
 
