@@ -17,11 +17,11 @@ Vi kan beskrive linjen vha. vektorer. Men inden da skal vi kende til følgende v
 
 **Normalvektor**: for ovenstående linje kunne det være $\vec{n} = \begin{pmatrix} a \\\ -1 \end{pmatrix}$.
 
-**Linjens hældning**: er $ v = arcTan(\frac{r_2}{r_1}) $
+**Linjens hældning**: er $ v = arcTan(\frac{r_2}{r_1}) $ hvor retningsvektoren $ \vec{r} = \begin{pmatrix} r_1 \\\ r_2 \end{pmatrix} $
 
 **Ortogonale linjer**: Med vektorer kan $ a \cdot c = -1 $ nu bevises nemt
 
-$ \text{(.1.) } \vec{r_1} \cdot \vec{r_2} = 0 $
+$ \text{(.1.) } \vec{r_1} \cdot \vec{r_2} = 0  $
 
 $ \text{(.2.) } \begin{pmatrix} 1 \\\ a \end{pmatrix} \cdot \begin{pmatrix} 1 \\\ c \end{pmatrix}= 1 \cdot 1 + a \cdot c = 0 $
 
