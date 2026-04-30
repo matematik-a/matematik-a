@@ -140,6 +140,8 @@ Lineær regression
 |     |         |                                                                                |                                                                 |                    |
 | 18  | 27/4-26 | [rette linjer og vektorer](/f4_vektorer2d/del7_linjer.md)                      |                                                                 |                    |
 |     | 27/4-26 | [parameterfremstilling](/f4_vektorer2d/del8_parameter.md)                      |                                                                 |                    |
+|     |         |                                                                                |                                                                 |                    |
+|     | 30/4-26 | [linjeligning, vikle, afstand, polære koordinater, cirkler](/f4_vektorer2d/del9.md)    |                                                                 |                    |
 
 </details> 
 
