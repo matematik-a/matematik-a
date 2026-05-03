@@ -38,7 +38,7 @@
 
 ---------------------------
 
-## Årskarakter gives d.8/5 
+## Årskarakter gives d.18/5 
 
 #### skriftlige karakter : 
 den sidste aflevering påvirker den skriftlige karakter 
