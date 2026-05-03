@@ -1,0 +1,168 @@
+<html lang="dk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>matrix-gruppe generator</title>
+</head>
+<body>
+    <style>
+        table, th, td {
+            border: 1px solid black;
+            border-collapse: collapse;
+        }
+        th, td {
+            padding: 5px;
+            text-align: left;
+        }
+    </style>
+
+    <button id="bt_shuffle_deltagere">shuffle deltagere</button>
+    <button id="bt_lav_tabel">lav tabel</button>
+    <button id="bt_load_navne">indlæs navne</button>
+    <button id="bt_indsaet_navn">Indsæt navn</button>
+
+    <h3>deltagere</h3>
+    <textarea id="name-list" rows="10" cols="30"></textarea>
+
+    <h3>emner</h3>
+    <textarea id="emne-list" rows="10" cols="30"></textarea>
+
+    <p id="antal_elever">antal elever: 0</p>
+
+    <p id="antal_emner">antal emner: 0</p>
+    <p id="antal_grupper">antal grupper: 0</p>
+
+    <script>
+        let nameList;
+        let emneList;
+
+        document.getElementById('bt_shuffle_deltagere').addEventListener('click', () => {
+            nameList = document.getElementById('name-list').value.split('\n');
+            for (let i = nameList.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [nameList[i], nameList[j]] = [nameList[j], nameList[i]];
+            }
+            document.getElementById('name-list').value = nameList.join('\n');
+        });
+    
+
+
+        document.getElementById("bt_load_navne").addEventListener('click', () => {
+            nameList = document.getElementById('name-list').value.split('\n');
+        });
+
+
+
+        document.getElementById('bt_indsaet_navn').addEventListener('click', () => {
+            navn = nameList[0];
+            nameList.shift();
+            let table = document.querySelector('table');
+            let rows = table.querySelectorAll('tr');
+            for (let i = 1; i < rows.length; i++) {
+                let cells = rows[i].querySelectorAll('td');
+                for (let j = 1; j < cells.length; j++) {
+                    if (cells[j].innerText === "") {
+                        cells[j].innerText = navn;
+                        //fjern navn fra name-list textarea
+                        document.getElementById('name-list').value = nameList.join('\n');
+
+                        return;
+                    }
+                }
+            }
+        });
+
+        /// lav en tabel med antal rækker = antal emner og antal kolonner = antal grupper, og tilføj emnerne i første kolonne og gruppenummer i første række
+        document.getElementById('bt_lav_tabel').addEventListener('click', () => {
+
+            nameList = document.getElementById('name-list').value.split('\n');
+            emneList = document.getElementById('emne-list').value.split('\n');
+
+            antalGrupper = parseInt(nameList.length / emneList.length);
+
+            antalEmner = emneList.length;
+
+            document.getElementById('antal_elever').innerText = `antal elever: ${nameList.length}`;
+            document.getElementById('antal_emner').innerText = `antal emner: ${emneList.length}`;
+            document.getElementById('antal_grupper').innerText = `antal grupper: ${antalGrupper}`;
+
+            //lav tabel med antal rækker = antal emner og antal kolonner = antal grupper
+            let table = document.createElement('table');
+            let headerRow = document.createElement('tr');
+
+            let pGruppe = 1;
+            let kolonner = 1 + antalGrupper + parseInt(antalGrupper/antalEmner);
+
+            let gruppeSize = emneList.length;
+
+            for (let i = 0; i < kolonner ; i++) {
+                  //  console.log(i, pGruppe, kolonner-i,i%(gruppeSize+1)==0, kolonner-i>2);
+
+                if(i==0){
+                    let th = document.createElement('th');
+                    th.innerText = ``;
+                    headerRow.appendChild(th);
+                    continue;
+                }if(i%(gruppeSize+1)==0){
+
+                    // hvis der er mindre end 2 kolonner tilbage, så lav ikke en ny gruppe, da det ikke vil være nok plads til at tilføje et emne i den nye gruppe
+                    if(i>=(kolonner-2)){ continue; }
+
+                    let th = document.createElement('th');
+                    th.innerText = `-`;
+                    headerRow.appendChild(th);
+                    continue;
+
+                }else{
+                
+                let th = document.createElement('th');
+                th.innerText = `Præsentation ${pGruppe}`;
+                headerRow.appendChild(th);
+                pGruppe++;
+                }
+            }
+
+            //let kolonner = 1+ antalGrupper + parseInt(antalGrupper/antalEmner);
+            let emneGruppe = 1;
+            table.appendChild(headerRow);   
+            for (let i = 0; i < antalEmner; i++) {
+                emneGruppe = 1;
+                let row = document.createElement('tr');
+                for (let j = 0; j < kolonner ; j++) {
+                    if(j==0){
+                        let td = document.createElement('td');
+                        //lav innertext "emneList[i]+emneGruppe" bold
+                        td.innerText = emneList[i]+emneGruppe;
+                        td.style.fontWeight = 'bold';
+                        row.appendChild(td);
+                        emneGruppe++;
+                        continue;
+                    }if(j%(gruppeSize+1)==0){
+                        // hvis der er mindre end 2 kolonner tilbage, så lav ikke en ny gruppe, da det ikke vil være nok plads til at tilføje et emne i den nye gruppe
+                        if(j>=(kolonner-2)){ continue; } 
+                        //if(kolonner-i>2){ i++; continue }
+
+                        let td = document.createElement('td');
+                        //lav innertext "emneList[i]+emneGruppe" bold
+                        td.innerText = emneList[i]+emneGruppe;
+                        td.style.fontWeight = 'bold';
+                        row.appendChild(td);
+                        emneGruppe++;
+                        continue;
+                    }else{
+                        let td = document.createElement('td');
+                        td.innerText = ""; //emneList[i];
+                        row.appendChild(td);
+                    }
+                }
+                table.appendChild(row);
+            }
+            document.body.appendChild(table);
+        });
+
+    </script>
+    
+
+
+</body>
+</html>
