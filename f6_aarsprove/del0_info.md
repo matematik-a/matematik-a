@@ -29,6 +29,7 @@ Del 2 : Bevis sætning Y
 Del 3 : Løs opgave Z
 
 ------
+------
 
 ### Mulige projekter, X: 
 
@@ -84,11 +85,3 @@ projektion af vektor på vektor
 ortogonale og parallelle vektorer
 
 -----
-
-### Tidsplan for forløbet:
-
-uge 20 Aflevering i alle emner - og træning til årsprøve
-
-uge 21 Aflevering i alle emner - og træning til årsprøve
-
-uge 22 ÅRSPRØVE  

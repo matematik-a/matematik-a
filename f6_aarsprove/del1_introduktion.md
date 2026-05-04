@@ -8,7 +8,7 @@
 
 ----------------------------
 
-## Vi træner tre ting til årsprøven:
+## Årspørven består af tre dele : 
 
 ### <font color="blue">1. Præsentation af projekt : 3 projekter </font> - ca. 4 minutter af prøven. 
 
@@ -18,30 +18,20 @@
  
 ---------------------------
 
-## Vi laver tre afleveringer løbende i forløbet - 
+## Afleveringer :
 
-### noter til projektpræsentation - 1 elev time
-- Ikke matematisk forklaring af projekt og emne
-- Forklaring af hvilke "matematikopgaver" der skal løses
-- Hvilke løsningsmetoder - altså formler der skal anvendes
+Bare rolig vi laver meget af afleveringerne i undervisningstiden
 
-### noter til bevispræsentation  - 1 elev time 
-- ikke nødvendigvis selve beviset - men noter til hvordan man kan præsentere det 
-- personlige ting som man måske plejer at tage fejl i 
-- fagord man skal huske at fomulere korrekt 
-- vigtige pointer 
-- evt. alternative beviser?
+### <font color="blue">Noter til projektpræsentation </font> - 1 elev time - aflevering d.10/5
 
-### afleverings - 15 opgaver i alle emner - 4 elev timer
-- må gerne laves i maple eller andet software ... MEN
-- alle mellemregninger skal vises og forklares - 
+### <font color="blue">Noter til bevispræsentation </font>   - 1 elev time - aflevering d. 10/5                                         
+
+### <font color="blue">Matematik aflevering III - opgaver i alle emner  </font>  - 4 elev timer - aflevering d. 13/5                   
 
 ---------------------------
 
-## Årskarakter gives d.18/5 
+## Årskarakter gives d.18/5 :
 
-#### skriftlige karakter : 
-den sidste aflevering påvirker den skriftlige karakter 
+**skriftlige karakter** : Sidste aflevering påvirker den skriftlige karakter 
 
-#### mundtlig karakter   : 
-man kan vælge at vise en præsentation for mig, som jeg kan bruge til den mundtlige karakter - hvis ikke man præsenterer give jeg et skønsmæssigt gæt ud fra tidligere karakter
+**mundtlig karakter** : man kan vælge at vise en præsentation for mig - hvis ikke man præsenterer give jeg et skønsmæssigt gæt ud fra tidligere karakter
