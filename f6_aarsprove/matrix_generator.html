@@ -20,6 +20,7 @@
     <button id="bt_lav_tabel">lav tabel</button>
     <button id="bt_load_navne">indlæs navne</button>
     <button id="bt_indsaet_navn">Indsæt navn</button>
+    <button id="slet tabel">slet tabel</button>
 
     <h3>deltagere</h3>
     <textarea id="name-list" rows="10" cols="30"></textarea>
@@ -35,6 +36,13 @@
     <script>
         let nameList;
         let emneList;
+
+        document.getElementById('slet tabel').addEventListener('click', () => {
+            let table = document.querySelector('table');
+            if (table) {
+                table.remove();
+            }
+        });
 
         document.getElementById('bt_shuffle_deltagere').addEventListener('click', () => {
             nameList = document.getElementById('name-list').value.split('\n');
