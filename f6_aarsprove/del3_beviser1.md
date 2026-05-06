@@ -24,7 +24,7 @@
 
 ### Kl. 10:40 til 11:30 : 
 **Lokale 0.75  : CosRel1 , SinRel1 , DefRet1 , OrtLin1, CosRel2, SinRel2** <br>
-**Lokale 0.77 : OrtLin2, CosRel3, SinRel3, DefRet3 , OrtLin3**
+**Lokale 0.77 : OrtLin2, DefRet2, CosRel3, SinRel3, DefRet3 , OrtLin3**
 
 1 - Træn først beviset i gruppen <br>
 2 - Udfylde herefter skabelonen "skabelon_beviser_noter", findes på afleveringen af samme navn<br>
