@@ -156,7 +156,7 @@ Lineær regression
 | Lektion | Dato     | Beskrivelse                                        |
 |---------|----------|----------------------------------------------------|
 | 1       |          | [introduktion](/f6_aarsprove/del1_introduktion.md) |
-| 2       |          | [projekt præsentationer](/f6_aarsprove/del2_projekt1.md) |
+| 2       |          | [projekt præsentationer](/f6_aarsprove/del2_projekt1_1a1.md) |
 |         |          |                                                    |                                                                 
 | 3       |          | bevis præsentationer trigonometri / plangeometri   |
 | 4       |          | bevis præsentationer trigonometri / plangeometri   |
