@@ -8,9 +8,8 @@ Jeres præsentation af projekterne bør overordnet indeholde:
 
 1 - overordnet forklaring af projekt og emne:
 
-2 - Forklar hvilke opgaver der skal løses 
-
-3 - Løsningsmetoder og formler
+2 - Forklar opgave/problemstillinger der skal løses &  løsningsmetode og formel<br>
+... gentag gerne for nogle af de vigtigste opgaver/problemstillinger
 
 ---------------------------
 
@@ -22,8 +21,8 @@ Jeres præsentation af projekterne bør overordnet indeholde:
 Alle cykel, låge og mand gruppe og udfylder projekt-skabelonen- så godt som det er muligt.<br> 
 Og øver præsentationer<br>
 
-**lokale 0.75: cykel1, låge1, mand1, cykel2, låge2 og mand2**</br>
-**lokale 2.03: cykel3, låge3 og mand3**</br>
+**lokale 0.75: cykel1, låge1, mand1, cykel2**</br>
+**lokale 1.59: låge2, mand2, cykel3, låge3, mand3**</br>
 
 ### pause
 
@@ -31,8 +30,8 @@ Og øver præsentationer<br>
 Alle præsenterer deres projekt for i præsentations gruppen<br>
 Husk giv konstruktiv feedback<br>
 
-**lokale 0.75: præsentation 7,8,9, og 10**</br>
-**lokale 2.03: præsentation 1,2,3,4,5 og 6**</br>
+**lokale 0.75: præsentation 1,2,3,4**</br>
+**lokale 1.59: præsentation 5,6,7,8**</br>
 
 ### Fra kl 15:00 til 15:30
 Ret jeres projekt skabelon til så godt i kan.<br>
