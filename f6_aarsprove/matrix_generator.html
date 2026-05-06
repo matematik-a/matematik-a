@@ -23,6 +23,9 @@
     <button id="bt_indsaet_navn">Indsæt navn</button>
     <button id="slet tabel">slet tabel</button>
 
+    <h3>emne-gruppe størrelse</h3>
+    <input type="number" id="in_gruppe_size" value="3">
+
     <h3>deltagere</h3>
     <textarea id="name-list" rows="10" cols="30"></textarea>
 
@@ -87,9 +90,14 @@
             nameList = document.getElementById('name-list').value.split('\n');
             emneList = document.getElementById('emne-list').value.split('\n');
 
-            antalGrupper = parseInt(nameList.length / emneList.length);
+            let emneGruppeSize = parseInt(document.getElementById('in_gruppe_size').value);
 
             antalEmner = emneList.length;
+
+            antalGrupper = Math.ceil(nameList.length / antalEmner);
+
+            console.log(nameList.length, emneGruppeSize, antalGrupper);
+
 
             document.getElementById('antal_elever').innerText = `antal elever: ${nameList.length}`;
             document.getElementById('antal_emner').innerText = `antal emner: ${emneList.length}`;
@@ -100,19 +108,18 @@
             let headerRow = document.createElement('tr');
 
             let pGruppe = 1;
-            let kolonner = 1 + antalGrupper + parseInt(antalGrupper/antalEmner);
+            let kolonner = 1 + antalGrupper + parseInt(antalGrupper/emneGruppeSize);
 
-            let gruppeSize = emneList.length;
 
             for (let i = 0; i < kolonner ; i++) {
-                  //  console.log(i, pGruppe, kolonner-i,i%(gruppeSize+1)==0, kolonner-i>2);
+                  //  console.log(i, pGruppe, kolonner-i,i%(emneGruppeSize+1)==0, kolonner-i>2);
 
                 if(i==0){
                     let th = document.createElement('th');
                     th.innerText = ``;
                     headerRow.appendChild(th);
                     continue;
-                }if(i%(gruppeSize+1)==0){
+                }if(i%(emneGruppeSize+1)==0){
 
                     // hvis der er mindre end 2 kolonner tilbage, så lav ikke en ny gruppe, da det ikke vil være nok plads til at tilføje et emne i den nye gruppe
                     if(i>=(kolonner-2)){ continue; }
@@ -146,7 +153,7 @@
                         row.appendChild(td);
                         emneGruppe++;
                         continue;
-                    }if(j%(gruppeSize+1)==0){
+                    }if(j%(emneGruppeSize+1)==0){
                         // hvis der er mindre end 2 kolonner tilbage, så lav ikke en ny gruppe, da det ikke vil være nok plads til at tilføje et emne i den nye gruppe
                         if(j>=(kolonner-2)){ continue; } 
                         //if(kolonner-i>2){ i++; continue }

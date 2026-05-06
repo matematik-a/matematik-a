@@ -159,8 +159,8 @@ Lineær regression
 | 1       |          | [introduktion](/f6_aarsprove/del1_introduktion.md) |
 | 2       |          | [projekt præsentationer](/f6_aarsprove/del2_projekt1.md) |
 |         |          |                                                    |                                                                 
-| 3       |          | bevis præsentationer trigonometri / plangeometri   |
-| 4       |          | bevis præsentationer trigonometri / plangeometri   |
+| 3       |          | [bevis1 - præsentationer trigonometri / plangeometri](/f6_aarsprove/del3_beviser1.md)   |
+| 4       |          | bevis1 - præsentationer trigonometri / plangeometri   |
 |         |          |                                                    |
 | 5       |          | bevis præsentationer vektorer /plangeometri        |
 | 6       |          | bevis præsentationer  vektorer /plangeometri       |
