@@ -162,7 +162,7 @@ Lineær regression
 | 3       |          | [bevis1 - præsentationer trigonometri / plangeometri](/f6_aarsprove/del3_beviser1.md)   |
 | 4       |          | bevis1 - præsentationer trigonometri / plangeometri   |
 |         |          |                                                    |
-| 5       |          | bevis præsentationer vektorer /plangeometri        |
+| 5       |          | [bevis2 - præsentationer vektorer /plangeometri](/f6_aarsprove/del4_beviser2.md)        |
 | 6       |          | bevis præsentationer  vektorer /plangeometri       |
 |         |          |                                                    |
 | 7       |          | opgave løsning og præsentationer                   |
