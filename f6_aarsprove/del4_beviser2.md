@@ -28,7 +28,7 @@
 
 ---
 
-### Kl. 9:20 til 10:20 :
+### Kl. 12:10 til 13:10 :
 
 **Lokale 0.77 : DisCir1, VekVin1, Proj1, Deter1** - og - **DisCir2** <br>
 **Lokale 2.30 : VekVin2, Proj2, Deter2** - og - **DisCir3, VekVin3, Proj3, Deter3**
@@ -36,7 +36,7 @@
 1 - Træn først beviset i gruppen <br>
 2 - Udfylde herefter skabelonen "skabelon\*beviser_noter", findes på afleveringen af samme navn<br>
 
-### Kl. 10:10 til 11:30
+### Kl. 13:20 til 14:20
 
 **Lokale 0.77 : Præsentation 5,6,7,8**<br>
 **Lokale 2.30 : Præsentation 1,2,3,4**
