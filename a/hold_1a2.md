@@ -1,175 +1,171 @@
 # 1a2 - MAT A
 
--------------------------------------------------
+---
 
 ### [samlet pensum for 1a2 - klik her ](/a/kernestof_1a2.md)
 
--------------------------------------------------
+---
 
 <details>
   <summary>Trigonometri forløb</summary>
 
-| Uge | Dato     | Emne                                                                                  | Aflevering - Projekt - Bevis - Test                             |  Ved tavlen        |
-| --- | -------- | ------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ------------------ |
-| 45  | 03/11-25 | [Grundlæggende om trekanter & Ensvinklede trekanter](/f1_trig/del1_trekanter/del1.md) |                                                                 |                    |
-|     | 07/11-25 | [Pythagoras & Cosinius, sinus og tangens](/f1_trig/del2_trekanter/del2.md)            | ***Bevis 1 : Pythagoras***                                      | Varish, Kayra      |  
-|     | 09/11-25 |                                                                                       | [Aflevering 1](/afleveringer/afl1.pdf)                          |                    |
-| 46  | 10/11-25 | [Maple træning](/f1_trig/del3_maple1/del3.md)                                         |                                                                 |                    |
-|     | 13/11-25 | [Retvinklede trekanter](/f1_trig/del4_trig_retvinkel/del4.md)                         | ***Bevis 2 : Trig. retvinklet trekant***                        | Carl, Mads, Martin |
-| 47  | 14/11-25 | Opgaveregning: kap 6.5                                                                |                                                                 |                    |  
-|     | 16/11-25 | [Opgaveregning: ekstra uden hjælpemidler](/f1_trig/del5_trig_ovelser/del5.md)         |                                                                 |                    |  
-| 48  | 24/11-25 | [Forskellige eksakte værdier for cos, sin og tan](/f1_trig/del6_sinusrel_eksakt/del61.md) |                                                             |                    |
-|     | 24/11-25 | [Sinusrelationer og opgaveregning](/f1_trig/del6_sinusrel_eksakt/del62.md)            |                                                                 |                    |
-| 49  | 1/12-25  | [Cosinusrelationer og bevis-oversigt](/f1_trig/del7_cosinusrelationer/del7.md)        |                                                                 |                    |
-|     | 1/12-25  | [Trigonometri opgaver i Maple](/f1_trig/del7_cosinusrelationer/del72.md)              |                                                                 |                    |
-|     | 5/12-25  | Træning af beviser                                                                    | ***Bevis 3 : Sinusrelation***              | Patrick,Kasper,Alexander, Sander, Filip |
-|     | 5/12-25  | Træning af beviser                                                                    | ***Bevis 4 : Cosinusrelation***                        | Alexander, Max, Mads, Martin|
-|     | 5/12-25  | TEST 1                                                                                | [Test 1 -Trigonometri](/afleveringer/test1/test1.md)            |                    |
-|     | 7/12-25  |                                                                                       | [Aflevering 2](/afleveringer/afl2.md)                           |                    |
-| 50  | 12/12-25 | [Fagliglæsning - Euklid's Elementerne](/f1_trig/del9_fagliglaes/del9.md)              |                                                                 |                    |
-|     | 12/12-25 | [Matematikprojekt II, maks 3 personer ](/f1_trig/projekter/trig_cykelstel.pdf)        |                                                                 |                    |
-|     | 15/12-25 | Matematikprojekt II, maks 3 personer                                                  |                                                                 |                    |
-|     | 11/1-26  |                                                                                       | [Aflever - Projekt 2](/projekter/trig_cykelstel.pdf)            |                    |
+| Uge | Dato     | Emne                                                                                      | Aflevering - Projekt - Bevis - Test                  | Ved tavlen                              |
+| --- | -------- | ----------------------------------------------------------------------------------------- | ---------------------------------------------------- | --------------------------------------- |
+| 45  | 03/11-25 | [Grundlæggende om trekanter & Ensvinklede trekanter](/f1_trig/del1_trekanter/del1.md)     |                                                      |                                         |
+|     | 07/11-25 | [Pythagoras & Cosinius, sinus og tangens](/f1_trig/del2_trekanter/del2.md)                | **_Bevis 1 : Pythagoras_**                           | Varish, Kayra                           |
+|     | 09/11-25 |                                                                                           | [Aflevering 1](/afleveringer/afl1.pdf)               |                                         |
+| 46  | 10/11-25 | [Maple træning](/f1_trig/del3_maple1/del3.md)                                             |                                                      |                                         |
+|     | 13/11-25 | [Retvinklede trekanter](/f1_trig/del4_trig_retvinkel/del4.md)                             | **_Bevis 2 : Trig. retvinklet trekant_**             | Carl, Mads, Martin                      |
+| 47  | 14/11-25 | Opgaveregning: kap 6.5                                                                    |                                                      |                                         |
+|     | 16/11-25 | [Opgaveregning: ekstra uden hjælpemidler](/f1_trig/del5_trig_ovelser/del5.md)             |                                                      |                                         |
+| 48  | 24/11-25 | [Forskellige eksakte værdier for cos, sin og tan](/f1_trig/del6_sinusrel_eksakt/del61.md) |                                                      |                                         |
+|     | 24/11-25 | [Sinusrelationer og opgaveregning](/f1_trig/del6_sinusrel_eksakt/del62.md)                |                                                      |                                         |
+| 49  | 1/12-25  | [Cosinusrelationer og bevis-oversigt](/f1_trig/del7_cosinusrelationer/del7.md)            |                                                      |                                         |
+|     | 1/12-25  | [Trigonometri opgaver i Maple](/f1_trig/del7_cosinusrelationer/del72.md)                  |                                                      |                                         |
+|     | 5/12-25  | Træning af beviser                                                                        | **_Bevis 3 : Sinusrelation_**                        | Patrick,Kasper,Alexander, Sander, Filip |
+|     | 5/12-25  | Træning af beviser                                                                        | **_Bevis 4 : Cosinusrelation_**                      | Alexander, Max, Mads, Martin            |
+|     | 5/12-25  | TEST 1                                                                                    | [Test 1 -Trigonometri](/afleveringer/test1/test1.md) |                                         |
+|     | 7/12-25  |                                                                                           | [Aflevering 2](/afleveringer/afl2.md)                |                                         |
+| 50  | 12/12-25 | [Fagliglæsning - Euklid's Elementerne](/f1_trig/del9_fagliglaes/del9.md)                  |                                                      |                                         |
+|     | 12/12-25 | [Matematikprojekt II, maks 3 personer ](/f1_trig/projekter/trig_cykelstel.pdf)            |                                                      |                                         |
+|     | 15/12-25 | Matematikprojekt II, maks 3 personer                                                      |                                                      |                                         |
+|     | 11/1-26  |                                                                                           | [Aflever - Projekt 2](/projekter/trig_cykelstel.pdf) |                                         |
 
 ### [Link til : formelsamling for trigonometriforløbet](/formelsamling/trigonometri/formler_trigonometri.md)
 
 </details>
 
-
--------------------------------------------------
+---
 
 <details>
   <summary>Ligninger og regneregler</summary>
 
-| Uge | Dato    | Emne                                                                           | Aflevering - Projekt - Bevis - Test                             |  Ved tavlen        |
-| --- | ------- | ------------------------------------------------------------------------------ | --------------------------------------------------------------- | ------------------ |
-| 2   | 9/1-26  | [Regneregler: Regneherarki, Brøker, Talmængder](/f2_basic/del1_regler/del1.md) |                                                                 |                    |
-|     | 9/1-26  | [Potenser & Rødder](/f2_basic/del2_potenser/del2.md)                           |                                                                 |                    |      
-|     | 11/1-26 |                                                                                | [Aflever - Projekt 2](/projekter/trig_cykelstel.pdf)            |                    |
-| 3   | 12/1-26 | [Andengradsligninger - kvadratkomplettering](/f2_basic/del4_andengrad/del4.md) |                                                                 |                    |  
-|     | -       |                                                                                |                                                                 |                    |
-| 4   | 19/1-26 | Bevis diskriminantformel - "frivillig vælges"                                  |                                                                 | Simon Torp         |
-|     | -       |                                                                                |                                                                 |                    |
-|     | 23/1-26 | [Diverse opgaver - lektion 1](/f2_basic/del5_opgaver2/del5.md)                 |                                                                 |                    |
-|     | 23/1-26 | [Diverse opgaver 2 - lektion 2](/f2_basic/del5_opgaver2/del5_2.md)             |                                                                 |                    |
-|     | -       |                                                                                |                                                                 |                    |
-| 5   | 26/1-26 | [Diverse opgaver 3 - lektion 1](/f2_basic/del5_opgaver2/del5_3.md)             |                                                                 |                    |
-|     | -       |                                                                                |                                                                 |                    |
-|     | 30/1-26 | ***TEST - LIGNINGER REGNEREGLER OG LIDT A.P.GEOMETRI***                        | TEST 2                                                          |                    |
+| Uge | Dato    | Emne                                                                           | Aflevering - Projekt - Bevis - Test                  | Ved tavlen |
+| --- | ------- | ------------------------------------------------------------------------------ | ---------------------------------------------------- | ---------- |
+| 2   | 9/1-26  | [Regneregler: Regneherarki, Brøker, Talmængder](/f2_basic/del1_regler/del1.md) |                                                      |            |
+|     | 9/1-26  | [Potenser & Rødder](/f2_basic/del2_potenser/del2.md)                           |                                                      |            |
+|     | 11/1-26 |                                                                                | [Aflever - Projekt 2](/projekter/trig_cykelstel.pdf) |            |
+| 3   | 12/1-26 | [Andengradsligninger - kvadratkomplettering](/f2_basic/del4_andengrad/del4.md) |                                                      |            |
+|     | -       |                                                                                |                                                      |            |
+| 4   | 19/1-26 | Bevis diskriminantformel - "frivillig vælges"                                  |                                                      | Simon Torp |
+|     | -       |                                                                                |                                                      |            |
+|     | 23/1-26 | [Diverse opgaver - lektion 1](/f2_basic/del5_opgaver2/del5.md)                 |                                                      |            |
+|     | 23/1-26 | [Diverse opgaver 2 - lektion 2](/f2_basic/del5_opgaver2/del5_2.md)             |                                                      |            |
+|     | -       |                                                                                |                                                      |            |
+| 5   | 26/1-26 | [Diverse opgaver 3 - lektion 1](/f2_basic/del5_opgaver2/del5_3.md)             |                                                      |            |
+|     | -       |                                                                                |                                                      |            |
+|     | 30/1-26 | **_TEST - LIGNINGER REGNEREGLER OG LIDT A.P.GEOMETRI_**                        | TEST 2                                               |            |
 
 </details>
 
--------------------------------------------------
+---
 
 <details>
   <summary>Analytisk plangeometri</summary>
 
-| Uge | Dato    | Emne                                                                           | Aflevering - Projekt - Bevis - Test                             |  Ved tavlen        |
-| --- | ------- | ------------------------------------------------------------------------------ | --------------------------------------------------------------- | ------------------ |
-|  5  | 26/1-26 | [Opstart - rette linjer kap 7.1](/f3_aplan/del1.md)                            |                                                                 |                    |
-|     |         |                                                                                |                                                                 |                    |
-|     | 28/1-26 | Bevis formel for ortogonale linjer, se øvelse 7.1.6                            |                                                                 | Rasmus             |
-|     | 28/1-26 | Bevis formel for afstand imellem to punkter , brug pythagoras                  |                                                                 | Johan              |
-|     | 28/1-26 | Bevis formel for afstand imellem linje og punkt, se kap 7.2 -"bevis sætning 2" |                                                                 | Norma              |
-|     | 28/1-26 | Øvelse 7.2.1 til 7.2.4                                                         |                                                                 |                    | 
-|     |         |                                                                                |                                                                 |                    |
-|     | 30/1-26 | TEST - LIGNINGER REGNEREGLER OG LIDT A.P.GEOMETRI                              | TEST 2                                                          |                    |
-|     |         |                                                                                |                                                                 |                    |
-| 6   | 6/2-26  | [Cirklens ligning kap 7.3](/f3_aplan/del3.md)                                  |                                                                 |                    |  
-|     |         |                                                                                |                                                                 |                    |
-| 9   | 23/2-26 | [Cirklens ligning repetition](/f3_aplan/del4_cirkel2.md)                       |                                                                 |                    |
-|     | 23/2-26 | [Cirklens tangenter](/f3_aplan/del5_tangenter.md)                              |                                                                 |                    |
-|     |         |                                                                                |                                                                 |                    |
-|     | 25/2-26 | [Cirklers skæringspunkter](/f3_aplan/del6_skaering.md)                         |                                                                 |                    |
-|     |         |                                                                                |                                                                 |                    |
-| 10  | 2/3-26  | [Opgaver med to cirkler](/f3_aplan/del7_cirkler.md)                            |                                                                 |                    |
-|     | 2/3-26  | Projektarbejde                                                                 |                                                                 |                    |
-|     |         |                                                                                |                                                                 |                    |
-|     | 6/3-26  | [Maple træning 1- lignings løsning](/f3_aplan/del8_maple.md)                   |                                                                 |                    | 
-|     |         |                                                                                |                                                                 |                    |
-| 11  |         | Mapletræning & Projekt & Testtræning - hele ugen                               |                                                                 |                    | 
-|     | 11/3-26 |                                                                                | [Aflever - Projekt 3](/projekter/aPlanGeo_laage.pdf)            |                    |
-|     | 13/3-26 | [Maple træning 2](/f3_aplan/del8B_maple.md)                                    |                                                                 |                    |
-|     |         |                                                                                |                                                                 |                    |
-| 12  | 16/3-26 | ***TEST - I ANALYTISK PLANGEOMETRI***                                          | TEST 3                                                          |                    |
+| Uge | Dato    | Emne                                                                           | Aflevering - Projekt - Bevis - Test                  | Ved tavlen |
+| --- | ------- | ------------------------------------------------------------------------------ | ---------------------------------------------------- | ---------- |
+| 5   | 26/1-26 | [Opstart - rette linjer kap 7.1](/f3_aplan/del1.md)                            |                                                      |            |
+|     |         |                                                                                |                                                      |            |
+|     | 28/1-26 | Bevis formel for ortogonale linjer, se øvelse 7.1.6                            |                                                      | Rasmus     |
+|     | 28/1-26 | Bevis formel for afstand imellem to punkter , brug pythagoras                  |                                                      | Johan      |
+|     | 28/1-26 | Bevis formel for afstand imellem linje og punkt, se kap 7.2 -"bevis sætning 2" |                                                      | Norma      |
+|     | 28/1-26 | Øvelse 7.2.1 til 7.2.4                                                         |                                                      |            |
+|     |         |                                                                                |                                                      |            |
+|     | 30/1-26 | TEST - LIGNINGER REGNEREGLER OG LIDT A.P.GEOMETRI                              | TEST 2                                               |            |
+|     |         |                                                                                |                                                      |            |
+| 6   | 6/2-26  | [Cirklens ligning kap 7.3](/f3_aplan/del3.md)                                  |                                                      |            |
+|     |         |                                                                                |                                                      |            |
+| 9   | 23/2-26 | [Cirklens ligning repetition](/f3_aplan/del4_cirkel2.md)                       |                                                      |            |
+|     | 23/2-26 | [Cirklens tangenter](/f3_aplan/del5_tangenter.md)                              |                                                      |            |
+|     |         |                                                                                |                                                      |            |
+|     | 25/2-26 | [Cirklers skæringspunkter](/f3_aplan/del6_skaering.md)                         |                                                      |            |
+|     |         |                                                                                |                                                      |            |
+| 10  | 2/3-26  | [Opgaver med to cirkler](/f3_aplan/del7_cirkler.md)                            |                                                      |            |
+|     | 2/3-26  | Projektarbejde                                                                 |                                                      |            |
+|     |         |                                                                                |                                                      |            |
+|     | 6/3-26  | [Maple træning 1- lignings løsning](/f3_aplan/del8_maple.md)                   |                                                      |            |
+|     |         |                                                                                |                                                      |            |
+| 11  |         | Mapletræning & Projekt & Testtræning - hele ugen                               |                                                      |            |
+|     | 11/3-26 |                                                                                | [Aflever - Projekt 3](/projekter/aPlanGeo_laage.pdf) |            |
+|     | 13/3-26 | [Maple træning 2](/f3_aplan/del8B_maple.md)                                    |                                                      |            |
+|     |         |                                                                                |                                                      |            |
+| 12  | 16/3-26 | **_TEST - I ANALYTISK PLANGEOMETRI_**                                          | TEST 3                                               |            |
 
 </details>
 
--------------------------------------------------
-
+---
 
 <details>
   <summary>Studie Område SO1b : Du bliver hvad du spiser </summary>
 
 Lineær regression
 
-| Uge | Dato    | timer ca.| Emne                               | 
-| --- | ------- | -------- | ---------------------------------- | 
-|  16 | 14/4-26 | 1.0      | [lineær regression & maple](/f5_so1b/del1_linReg.md) |                             
-|     |         |          |                                    |                  
-|     | 16/4-26 | 1.0      | [bevis](/f5_so1b/del2_bevisLinReg2.pdf)  |                                    
-|     |         |          |                                    |                   
-|     | 16/4-26 | 1.0      | [forklaringsgrad og residualer](/f5_so1b/del3_forklaringsGrad.md)   |                                  
-|     |         | 2.0      | projektarbejde / poster            |                                   
-|     |         |          |                                    |                    
-|     | 17/4-26 | 0.5      | [ret-selv-test](/f5_so1b/TestLinReg.pdf)                      |                                  
-|     |         | 1.5      | projektarbejde / poster             |             
+| Uge | Dato    | timer ca. | Emne                                                              |
+| --- | ------- | --------- | ----------------------------------------------------------------- |
+| 16  | 14/4-26 | 1.0       | [lineær regression & maple](/f5_so1b/del1_linReg.md)              |
+|     |         |           |                                                                   |
+|     | 16/4-26 | 1.0       | [bevis](/f5_so1b/del2_bevisLinReg2.pdf)                           |
+|     |         |           |                                                                   |
+|     | 16/4-26 | 1.0       | [forklaringsgrad og residualer](/f5_so1b/del3_forklaringsGrad.md) |
+|     |         | 2.0       | projektarbejde / poster                                           |
+|     |         |           |                                                                   |
+|     | 17/4-26 | 0.5       | [ret-selv-test](/f5_so1b/TestLinReg.pdf)                          |
+|     |         | 1.5       | projektarbejde / poster                                           |
+
 </details>
 
+---
 
-
-
--------------------------------------------------
 <details>
   <summary>Vektorer i planen</summary>
 
-| Uge | Dato    | Emne                                                                           | Aflevering - Projekt - Bevis - Test                             |  Ved tavlen        |
-| --- | ------- | ------------------------------------------------------------------------------ | --------------------------------------------------------------- | ------------------ |
-|  12 |         | [svære opgaver - test 3](/f3_aplan/test3fejl.md)                               |                                                                 |                    |
-|     | 20/3-26 | [opstart - kap 12 (intro) - Øvelse.12.1+12.1.2+12.1.3 & GeoGebra](/f4_vektorer2d/del1.md) |                                                      |                    |
-|     |         |                                                                                |                                                                 |                    |
-|  13 | 25/3-26 | [vektorer regneregler ](/f4_vektorer2d/del2.md)                                |                                                                 |                    | 
-|     |         |                                                                                |                                                                 |                    |
-|     | 27/3-26 | [bevis regneregler, tværvektor-formel og længde-formel](/f4_vektorer2d/del3.md)|                                                                 |                    |
-|     |         |                                                                                |                                                                 |                    |
-| 15  | 8/4-26  | [skalarprodukt og videobeviser](/f4_vektorer2d/del4.md)                        |                                                                 |                    |
-|     |         |                                                                                |                                                                 |                    |
-| 16  | 13/4-26 | [prikprodukt, projektion og determinant](/f4_vektorer2d/del5.md)               |                                                                 |                    |
-|     |         |                                                                                |                                                                 |                    |
-| 17  | 21/4-26 | [vektorregning i maple](/f4_vektorer2d/del6VektorMaple.md)                     |                                                                 |                    |
-|     | 21/4-26 | [vektoropgaver - laves i maple ](/f4_vektorer2d/del6Opgaver.md)                |                                                                 |                    |
-|     |         | sig til når i er færdige med opgaverne                                         |                                                                 |                    |
-|     | 23/4-26 | [vektor-opgaver 2](/f4_vektorer2d/del6_2Opgaver.md)                            |                                                                 |                    |
-|     |         |                                                                                |                                                                 |                    |
-| 18  | 27/4-26 | [rette linjer og vektorer](/f4_vektorer2d/del7_linjer.md)                      |                                                                 |                    |
-|     |         |                                                                                |                                                                 |                    |
-|     | 1/5-26  | [parameterfremstilling](/f4_vektorer2d/del8_parameter.md)                      |                                                                 |                    |
+| Uge | Dato    | Emne                                                                                      | Aflevering - Projekt - Bevis - Test | Ved tavlen |
+| --- | ------- | ----------------------------------------------------------------------------------------- | ----------------------------------- | ---------- |
+| 12  |         | [svære opgaver - test 3](/f3_aplan/test3fejl.md)                                          |                                     |            |
+|     | 20/3-26 | [opstart - kap 12 (intro) - Øvelse.12.1+12.1.2+12.1.3 & GeoGebra](/f4_vektorer2d/del1.md) |                                     |            |
+|     |         |                                                                                           |                                     |            |
+| 13  | 25/3-26 | [vektorer regneregler ](/f4_vektorer2d/del2.md)                                           |                                     |            |
+|     |         |                                                                                           |                                     |            |
+|     | 27/3-26 | [bevis regneregler, tværvektor-formel og længde-formel](/f4_vektorer2d/del3.md)           |                                     |            |
+|     |         |                                                                                           |                                     |            |
+| 15  | 8/4-26  | [skalarprodukt og videobeviser](/f4_vektorer2d/del4.md)                                   |                                     |            |
+|     |         |                                                                                           |                                     |            |
+| 16  | 13/4-26 | [prikprodukt, projektion og determinant](/f4_vektorer2d/del5.md)                          |                                     |            |
+|     |         |                                                                                           |                                     |            |
+| 17  | 21/4-26 | [vektorregning i maple](/f4_vektorer2d/del6VektorMaple.md)                                |                                     |            |
+|     | 21/4-26 | [vektoropgaver - laves i maple ](/f4_vektorer2d/del6Opgaver.md)                           |                                     |            |
+|     |         | sig til når i er færdige med opgaverne                                                    |                                     |            |
+|     | 23/4-26 | [vektor-opgaver 2](/f4_vektorer2d/del6_2Opgaver.md)                                       |                                     |            |
+|     |         |                                                                                           |                                     |            |
+| 18  | 27/4-26 | [rette linjer og vektorer](/f4_vektorer2d/del7_linjer.md)                                 |                                     |            |
+|     |         |                                                                                           |                                     |            |
+|     | 1/5-26  | [parameterfremstilling](/f4_vektorer2d/del8_parameter.md)                                 |                                     |            |
 
-</details> 
+</details>
 
--------------------------------------------------
+---
 
 <details open>
   <summary>Mundtlig årsprøve</summary>
 
 ## [ Link : Generel information om årsprøven](/f6_aarsprove/del0_info.md)
 
-| Lektion | Dato     | Beskrivelse                                        |
-|---------|----------|----------------------------------------------------|
-| 1       |          | [introduktion](/f6_aarsprove/del1_introduktion.md) |
-| 2       |          | [projekt præsentationer](/f6_aarsprove/del2_projekt1.md) |
-|         |          |                                                    |                                                                 
-| 3       |          | [bevis1 - præsentationer trigonometri / plangeometri](/f6_aarsprove/del3_beviser1.md)   |
-| 4       |          | bevis1 - præsentationer trigonometri / plangeometri   |
-|         |          |                                                    |
-| 5       |          | [bevis2 - præsentationer vektorer /plangeometri](/f6_aarsprove/del4_beviser2.md)        |
-| 6       |          | bevis præsentationer  vektorer /plangeometri       |
-|         |          |                                                    |
-| 7       |          | opgave løsning og præsentationer                   |
-| 8       |          | opgave præsentationer                              |
-|         |          |                                                    |
-| 9       |          | opgave løsning og præsentationer                   |
-| 10      |          | opgave præsentationer                              |
-
+| Lektion | Dato | Beskrivelse                                                                           |
+| ------- | ---- | ------------------------------------------------------------------------------------- |
+| 1       |      | [introduktion](/f6_aarsprove/del1_introduktion.md)                                    |
+| 2       |      | [projekt præsentationer](/f6_aarsprove/del2_projekt1.md)                              |
+|         |      |                                                                                       |
+| 3       |      | [bevis1 - præsentationer trigonometri / plangeometri](/f6_aarsprove/del3_beviser1.md) |
+| 4       |      | bevis1 - præsentationer trigonometri / plangeometri                                   |
+|         |      |                                                                                       |
+| 5       |      | [bevis2 - præsentationer vektorer /plangeometri](/f6_aarsprove/del4_beviser2.md)      |
+| 6       |      | bevis præsentationer vektorer /plangeometri                                           |
+|         |      |                                                                                       |
+| 7       |      | [opgave1 - løsning og præsentationer](/f6_aarsprove/del5_opgaver.md)                  |
+| 8       |      | opgave præsentationer                                                                 |
+|         |      |                                                                                       |
+| 9       |      | opgave løsning og præsentationer                                                      |
+| 10      |      | opgave præsentationer                                                                 |
 
 </details>
