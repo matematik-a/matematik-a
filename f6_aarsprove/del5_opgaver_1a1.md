@@ -8,7 +8,7 @@
 
 ### Sinusfælden
 
-To løsninger hvis de kendt **side-side-vinkel** og **vinklen< 90 grader** <br>
+To løsninger hvis man kun kender **side-side-vinkel** og **vinklen< 90 grader** <br>
 [https://www.geogebra.org/m/TKXZrRHE](https://www.geogebra.org/m/TKXZrRHE)
 
 ---
