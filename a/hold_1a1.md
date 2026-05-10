@@ -161,7 +161,7 @@ Lineær regression
 | 5       |      | [bevis2 præsentationer vektorer /plangeometri](/f6_aarsprove/del4_beviser2_1a1.md)      |
 | 6       |      | bevis præsentationer vektorer /plangeometri                                             |
 |         |      |                                                                                         |
-| 7       |      | opgave løsning og præsentationer                                                        |
+| 7       |      | [opgave1 - løsning og præsentationer](/f6_aarsprove/del5_opgaver_1a1.md)                |
 | 8       |      | opgave præsentationer                                                                   |
 |         |      |                                                                                         |
 | 9       |      | opgave løsning og præsentationer                                                        |
