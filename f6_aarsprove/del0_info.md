@@ -24,17 +24,17 @@ Projekter, opgavetyper og beviser ses nedenfor.
 
 ### TILLADTE HJÆLPEMIDLER - TIL ÅRSPRØVEN MAT
 
-bogen, plus A, stx, læreplan 2024 ( online )
+online : bogen, plus A, stx, læreplan 2024
 
-matematik-a.deno.dev - ( offline - download fra https://github.com/matematik-a/matematik-a)
+offline : matematik-a.deno.dev - download fra https://github.com/matematik-a/matematik-a)
 
-maple ( offline )
+offline : maple
 
-geogebra ( offline )
+offline : geogebra
 
-wordmat (offline )
+offline : wordmat
 
-egne noter ( offline )
+offline : egne noter
 
 ---
 
