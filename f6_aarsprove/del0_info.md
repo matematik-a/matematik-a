@@ -2,13 +2,15 @@
 
 ### Del 0 : Generel information om årsprøven
 
------------------
------------------
+---
+
+---
 
 ### Årspørven ligner den mundtlige eksamen i 3G.
+
 Projekter, opgavetyper og beviser ses nedenfor.
 
------
+---
 
 ### Prøveforløb:
 
@@ -18,7 +20,23 @@ Projekter, opgavetyper og beviser ses nedenfor.
 
 3 så er der 24 minutter til selve "eksamen", hvor første halvdel består af jeres præsentation og anden halvdel er en samtale
 
------
+---
+
+### TILLADTE HJÆLPEMIDLER - TIL ÅRSPRØVEN MAT
+
+bogen, plus A, stx, læreplan 2024 ( online )
+
+matematik-a.deno.dev - ( offline - download fra https://github.com/matematik-a/matematik-a)
+
+maple ( offline )
+
+geogebra ( offline )
+
+wordmat (offline )
+
+egne noter ( offline )
+
+---
 
 ### Spørgsmål man kan trække:
 
@@ -28,10 +46,11 @@ Del 2 : Bevis sætning Y
 
 Del 3 : Løs opgave Z
 
-------
-------
+---
 
-### Mulige projekter, X: 
+---
+
+### Mulige projekter, X:
 
 Cykelstel
 
@@ -39,9 +58,9 @@ Havelåge
 
 Victoriansk mand / SO1b Du bliver hvad du spiser
 
-------
+---
 
-### Mulige beviser, Y: 
+### Mulige beviser, Y:
 
 cosinusrelationer
 
@@ -61,18 +80,17 @@ projektion af vektor på vektor
 
 arealet af parallellogrammet udspændt af vektorerne
 
-----
+---
 
 ### Opgavetyper, Z:
-
 
 vinkleberegninger i vilkårlig trekant sinusrelation
 
 vinkelberegninger i retvinklet trekant cosinusrelation
 
 vinkelberegninger i retvinklet trekant
- 
-tangenter til cirkler 
+
+tangenter til cirkler
 
 skæringer mellem cirkler og linjer og cirkler
 
@@ -84,4 +102,4 @@ projektion af vektor på vektor
 
 ortogonale og parallelle vektorer
 
------
+---
