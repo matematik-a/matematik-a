@@ -22,7 +22,7 @@ Projekter, opgavetyper og beviser ses nedenfor.
 
 ---
 
-### TILLADTE HJÆLPEMIDLER - TIL ÅRSPRØVEN MAT
+### Tilladte hjælpemidler til forberedelse
 
 online : bogen, plus A, stx, læreplan 2024
 
