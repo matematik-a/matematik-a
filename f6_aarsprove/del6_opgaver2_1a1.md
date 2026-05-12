@@ -23,7 +23,7 @@ Orienteringen af vektorene afgør om determinanten er positiv eller negativ.
 
 > ### Tegn og forklar hvornår : $ det(\vec{a} , \vec{b}) = 0 $
 
-> ### Bevis formlen : $ det(\vec{a} , \vec{b}) = |\vec{a} | \cdot |\vec{b}| \cdot sin(v) , \text{ "v" målt positiv mod uret} $
+> ### Bevis evt. formlen : $ det(\vec{a} , \vec{b}) = |\vec{a} | \cdot |\vec{b}| \cdot sin(v_b - v_a) $
 
 <details>
   <summary>ekstra-opgaver i determinanter</summary>
