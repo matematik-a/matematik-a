@@ -8,7 +8,12 @@
 
 ### Sinusfælden
 
-To løsninger kender side-side-vinkel og vinklen < 90 grader<br>
+To løsninger kan opstå, hvis man kun kender **side-side-vinkel** og **vinklen< 90 grader** og **"den hosliggende side"** er større end **"den modstående side"**<br>
+
+Det kaldes sinusfælden når man anvender sinusrelationen, fordi:
+
+**$sin(v)$ = $sin(180-v)$**
+
 [https://www.geogebra.org/m/TKXZrRHE](https://www.geogebra.org/m/TKXZrRHE)
 
 ---
