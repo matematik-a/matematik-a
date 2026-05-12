@@ -164,7 +164,7 @@ Lineær regression
 | 7       |      | [opgave1 - løsning og præsentationer](/f6_aarsprove/del5_opgaver_1a1.md)                |
 | 8       |      | opgave præsentationer                                                                   |
 |         |      |                                                                                         |
-| 9       |      | opgave løsning og præsentationer                                                        |
+| 9       |      | [opgave2 - løsning og præsentationer](/f6_aarsprove/del6_opgaver2_1a1.md)               |
 | 10      |      | opgave præsentationer                                                                   |
 
 </details>

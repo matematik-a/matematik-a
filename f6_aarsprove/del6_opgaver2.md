@@ -14,17 +14,16 @@ $ \Large | det(\vec{a} , \vec{b}) | = \text{Areal Parallelogram}$
 
 <img style="display: block; margin-left: 0;" src="/f6_aarsprove/detArealBevisBog.png">
 <br>
-$ det(\vec{a} , \vec{b}) = \hat{\vec{a}} \cdot \vec{b} $ <br>
-$ | \hat{\vec{a}} | $ kan fortolkes som parallelogrammets "grundlinje"<br>
-$ | \vec{c} | $ kan fortolkes som "højden".<br>
-Så hvis de to vektorer er parallelle er $ |det(\vec{a},\vec{b})| = \text{Areal parallelogram}$ <br>
-Men hvornår svarer er determinanten negativ og positiv
 
-> ### \* Redegør for hvornår : $ - det(\vec{a} , \vec{b}) = \text{Areal Parallelogram}$
+Orienteringen af vektorene afgør om determinanten er positiv eller negativ.
 
-> ### \* Redegør for hvornår : $ + det(\vec{a} , \vec{b}) = \text{Areal Parallelogram}$
+> ### Tegn og forklar hvornår : $ det(\vec{a} , \vec{b}) > 0 $
 
-### Tegn i begge tilfælde en passende figur/skitse med dertilhørende forrklaringer - og vis for klassen
+> ### Tegn og forklar hvornår : $ det(\vec{a} , \vec{b}) < 0 $
+
+> ### Tegn og forklar hvornår : $ det(\vec{a} , \vec{b}) = 0 $
+
+> ### Bevis formlen : $ det(\vec{a} , \vec{b}) = |\vec{a} | \cdot |\vec{b}| \cdot sin(v) , \text{ "v" målt positiv mod uret} $
 
 <details>
   <summary>ekstra-opgaver i determinanter</summary>
