@@ -168,3 +168,7 @@ Lineær regression
 | 10      |      | opgave præsentationer                                                                   |
 
 </details>
+
+---
+
+
