@@ -1,14 +1,14 @@
 # matematikgf
 
-Hvis du vil køre dette website offline, gør da følgende:
+hvis du vil køre dette website offline, gør da følgende:
 
-1.) Tryk på knappe "code" og vælg download zip
+1.) tryk på knappen "code" og vælg "download zip"
 
-2.) Udpak zip-filen på din computer
+2.) udpak zip-filen på din computer
 
-3.) Start websitet-offline
-Mac: start programmet "startFromMac"
-Windows : start programmet "startFromWin"
-Linux: 
+3.) start websitet-offline
+mac: start programmet "startFromMac"
+windows : start programmet "startFromWin"
+linux: 
 
 Websitet burde nu åbne i din browser på adressen : "http://localhost:8000/"
