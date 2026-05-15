@@ -146,7 +146,7 @@ Lineær regression
 
 ---
 
-<details open>
+<details>
   <summary>Mundtlig årsprøve</summary>
 
 ## [ Link : Generel information om årsprøven](/f6_aarsprove/del0_info.md)
@@ -167,5 +167,25 @@ Lineær regression
 |         |      |                                                                                       |
 | 9       |      | [opgave2 - løsning og præsentationer](/f6_aarsprove/del6_opgaver2.md)                 |
 | 10      |      | opgave præsentationer                                                                 |
+
+</details>
+
+---
+
+<details open>
+  <summary>Repetition & Ekstra</summary>
+
+## [ Link : Generel information om årsprøven](/f6_aarsprove/del0_info.md)
+
+| Lektion | Dato | Beskrivelse                     |
+| ------- | ---- | ------------------------------- |
+| 1       |      | [del1](/f7_ekstra/del7_del1.md) |
+| 2       |      |                                 |
+|         |      |                                 |
+| 3       |      |                                 |
+| 4       |      |                                 |
+|         |      |                                 |
+| 5       |      |                                 |
+| 6       |      |                                 |
 
 </details>
