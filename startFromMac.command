@@ -1,13 +1,13 @@
-#!/bin/bash
+# først lukker jeg eventuelle forbindelser på port 8000
+kill -9 $(lsof -t -i:8000) 2>/dev/null
 
+#!/bin/bash
 cd "$(dirname "$0")"
 
 # 1. Åbn dit program i baggrunden (&)
-# Erstat 'firefox' med 'code', 'chromium', eller stien til dit program
 ./compileDenoApple &
 
 # 2. Vent et par sekunder for at sikre at webserveren er startet
-# Du kan justere '2' til flere sekunder, hvis det er nødvendigt
 sleep 2
 
 # 3. Åbn default browser på localhost:8000
