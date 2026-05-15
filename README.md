@@ -21,7 +21,7 @@ windows : start programmet "startFromWin"<br>
 
 ------
 
-linux: ... <br>
+linux: .. fungerer ikke endnu ..
 
 -------
 
