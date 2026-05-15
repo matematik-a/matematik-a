@@ -8,8 +8,21 @@ hvis du vil køre dette website offline, gør da følgende:
 
 3.) start websitet-offline
 
+----
+
 mac: start programmet "startFromMac"<br>
+
+- hvis programmet ikke starter - gå da til "anonymitet&sikkerhed" og vælg "åben program alligevel"
+- skal gøres både for "startFormMac.command" og "compileDenoApple"
+
+------
+
 windows : start programmet "startFromWin"<br>
+
+------
+
 linux: ... <br>
+
+-------
 
 Websitet burde nu åbne i din browser på adressen : "http://localhost:8000/"
