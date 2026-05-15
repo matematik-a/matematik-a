@@ -179,13 +179,10 @@ Lineær regression
 
 | Lektion | Beskrivelse                                             |
 | ------- | ------------------------------------------------------- |
-| 1       | [del1 - trigonemetri træning ](/f7_ekstra/del7_del1.md) |
-| 2       |                                                         |
+| 1 + 2   | [del1 - trigonemetri træning ](/f7_ekstra/del7_del1.md) |
 |         |                                                         |
-| 3       |                                                         |
-| 4       |                                                         |
+| 3 + 4   |                                                         |
 |         |                                                         |
-| 5       |                                                         |
-| 6       |                                                         |
+| 5 + 6   |                                                         |
 
 </details>
