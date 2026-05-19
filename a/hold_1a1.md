@@ -166,6 +166,8 @@ Lineær regression
 |         |      |                                                                                         |
 | 9       |      | [opgave2 - løsning og præsentationer](/f6_aarsprove/del6_opgaver2_1a1.md)               |
 | 10      |      | opgave præsentationer                                                                   |
+|         |      |                                                                                         |
+|         |      | [eksempel på spørgsmål til årsprøven](/f6_aarsprove/del7.md)                            |
 
 </details>
 
@@ -174,14 +176,12 @@ Lineær regression
 <details open>
   <summary>Repetition & Ekstra</summary>
 
-## [ Link : Generel information om årsprøven](/f6_aarsprove/del0_info.md)
-
-| Lektion | Beskrivelse                                                             |
-| ------- | ----------------------------------------------------------------------- |
-| 1 + 2   | [Enkelt opgaver fra Aflevering 3](/f7_ekstra/gennemgang_aflevering3.md) |
-|         | [del1 - trigonemetri træning ](/f7_ekstra/del7_del1.md)                 |
-|         |                                                                         |
-| 3 + 4   |                                                                         |
-|         |                                                                         |
+| Lektion | Beskrivelse                                                                          |
+| ------- | ------------------------------------------------------------------------------------ |
+| 1 + 2   | [enkelt gode råd til opgaver fra aflevering 3](/f7_ekstra/gennemgang_aflevering3.md) |
+|         | [del1 - trigonemetri træning ](/f7_ekstra/del1.md)                                   |
+|         |                                                                                      |
+| 3 + 4   | [del2 - eksempel på eksamenspørgsmål](/f7_ekstra/del2.md)                            |
+|         |                                                                                      |
 
 </details>

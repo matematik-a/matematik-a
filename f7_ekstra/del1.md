@@ -1,6 +1,4 @@
-# Forløb 7 - vigtige trigonometriske sammenhænge
-
-## Del 1 : ...
+# Forløb 7 - lidt mere trigonometri
 
 ---
 
