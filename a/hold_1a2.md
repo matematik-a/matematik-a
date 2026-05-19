@@ -177,12 +177,13 @@ Lineær regression
 
 ## [ Link : Generel information om årsprøven](/f6_aarsprove/del0_info.md)
 
-| Lektion | Beskrivelse                                             |
-| ------- | ------------------------------------------------------- |
-| 1 + 2   | [del1 - trigonemetri træning ](/f7_ekstra/del7_del1.md) |
-|         |                                                         |
-| 3 + 4   |                                                         |
-|         |                                                         |
-| 5 + 6   |                                                         |
+| Lektion | Beskrivelse                                                             |
+| ------- | ----------------------------------------------------------------------- |
+| 1 + 2   | [Enkelt opgaver fra Aflevering 3](/f7_ekstra/gennemgang_aflevering3.md) |
+|         | [del1 - trigonemetri træning ](/f7_ekstra/del7_del1.md)                 |
+|         |                                                                         |
+| 3 + 4   |                                                                         |
+|         |                                                                         |
+| 5 + 6   |                                                                         |
 
 </details>
