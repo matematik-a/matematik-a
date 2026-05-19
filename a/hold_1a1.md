@@ -145,7 +145,7 @@ Lineær regression
 
 ---
 
-<details open>
+<details>
   <summary>Mundtlig årsprøve</summary>
 
 ## [ Link : Generel information om årsprøven](/f6_aarsprove/del0_info.md)
@@ -171,4 +171,17 @@ Lineær regression
 
 ---
 
+<details open>
+  <summary>Repetition & Ekstra</summary>
 
+## [ Link : Generel information om årsprøven](/f6_aarsprove/del0_info.md)
+
+| Lektion | Beskrivelse                                                             |
+| ------- | ----------------------------------------------------------------------- |
+| 1 + 2   | [Enkelt opgaver fra Aflevering 3](/f7_ekstra/gennemgang_aflevering3.md) |
+|         | [del1 - trigonemetri træning ](/f7_ekstra/del7_del1.md)                 |
+|         |                                                                         |
+| 3 + 4   |                                                                         |
+|         |                                                                         |
+
+</details>
