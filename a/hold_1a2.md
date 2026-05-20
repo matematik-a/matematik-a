@@ -181,7 +181,6 @@ Lineær regression
 | ------- | ------------------------------------------------------------------------------ |
 | 1 + 2   | [aflevering3 - tips til enkelte opgaver](/f7_ekstra/gennemgang_aflevering3.md) |
 | .       | [eksamenspørgsmål - eksempel](/f7_ekstra/del2.md)                              |
-|         |                                                                                |
 |         | [del1 - trigonemetri træning ](/f7_ekstra/del1.md)                             |
 |         |                                                                                |
 | 3 + 4   | Frivillig træning til årsprøve                                                 |

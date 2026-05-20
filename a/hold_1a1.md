@@ -175,8 +175,6 @@ Lineær regression
 
 <details open>
   <summary>Repetition & Ekstra</summary>
-<details open>
-  <summary>Repetition & Ekstra</summary>
 
 | Lektion | Beskrivelse                                                                    |
 | ------- | ------------------------------------------------------------------------------ |
@@ -185,7 +183,5 @@ Lineær regression
 |         | [del1 - trigonemetri træning ](/f7_ekstra/del1.md)                             |
 |         |                                                                                |
 | 3 + 4   | Frivillig træning til årsprøve                                                 |
-
-</details>
 
 </details>
