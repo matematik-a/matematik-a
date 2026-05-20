@@ -175,13 +175,17 @@ Lineær regression
 
 <details open>
   <summary>Repetition & Ekstra</summary>
+<details open>
+  <summary>Repetition & Ekstra</summary>
 
-| Lektion | Beskrivelse                                                                          |
-| ------- | ------------------------------------------------------------------------------------ |
-| 1 + 2   | [enkelt gode råd til opgaver fra aflevering 3](/f7_ekstra/gennemgang_aflevering3.md) |
-|         | [del1 - trigonemetri træning ](/f7_ekstra/del1.md)                                   |
-|         |                                                                                      |
-| 3 + 4   | [del2 - eksempel på eksamenspørgsmål](/f7_ekstra/del2.md)                            |
-|         |                                                                                      |
+| Lektion | Beskrivelse                                                                    |
+| ------- | ------------------------------------------------------------------------------ |
+| 1 + 2   | [aflevering3 - tips til enkelte opgaver](/f7_ekstra/gennemgang_aflevering3.md) |
+| .       | [eksamenspørgsmål - eksempel](/f7_ekstra/del2.md)                              |
+|         | [del1 - trigonemetri træning ](/f7_ekstra/del1.md)                             |
+|         |                                                                                |
+| 3 + 4   | Frivillig træning til årsprøve                                                 |
+
+</details>
 
 </details>
