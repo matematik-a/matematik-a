@@ -26,7 +26,7 @@ Projekter, opgavetyper og beviser ses nedenfor.
 
 online : bogen, plus A, stx, læreplan 2024
 
-offline : matematik-a.deno.dev - download fra https://github.com/matematik-a/matematik-a
+offline/online : matematik-a.deno.dev - download fra https://github.com/matematik-a/matematik-a
 
 offline : maple
 
@@ -56,7 +56,7 @@ Cykelstel
 
 Havelåge
 
-Victoriansk mand / SO1b Du bliver hvad du spiser
+Vitruviansk mand 
 
 ---
 
