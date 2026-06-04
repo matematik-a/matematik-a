@@ -184,5 +184,7 @@ Lineær regression
 |         | [del1 - trigonemetri træning ](/f7_ekstra/del1.md)                             |
 |         |                                                                                |
 | 3 + 4   | Frivillig træning til årsprøve                                                 |
+|         |                                                                                |
+| -       | [Spørgetime og gode råd](/f6_aarsprove/del8_gode_raad.md)                                                                                |
 
 </details>
