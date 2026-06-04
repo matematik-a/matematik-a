@@ -19,8 +19,10 @@ Og lad være med at sige ting som "Det er et lorteprojekt..", det er ikke sikker
 
 ## Hvordan står I ved tavlen ?
 
-Vi har tre tavler - så I skal ikke viske noget ud. Censor og jeg skal også have mulighed for at kigge på det I har skrevet efter I ghar forladt rummet.
+Vi har tre tavler - så I skal ikke viske noget ud. Censor og jeg skal også have mulighed for at kigge på det I har skrevet efter I har forladt rummet.
 
 ## Karakter
 
-Vi giver jeg
+Dette bliver en helhedsvurdering. 
+
+Og huske mundtlige eksamener er lidt som sports præstationer, så det kan være I har en dårlig dag, og uheldigvis trækker et emne I ikke er super gode til.
