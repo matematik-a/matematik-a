@@ -1,0 +1,76 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Random elev picker</title>
+</head>
+<body>
+
+    <h1>Random elev picker</h1>
+
+    <button onclick="pickRandomStudent()">Pick a random elev</button>
+ <ul>
+    <li>1 Alexander Ørsted</li>
+    <li>2 Albert Sol Palvig</li>
+    <li>3 Alexander Xavier</li>
+    <li>4 Anna-Franceska</li>     
+    <li>5 Anton Johannes</li>
+    <li>6 Anton Siyu</li>
+    <li>7 Arushi</li>
+    <li>8 Augusta Kirkedal</li>
+    <li>9 Bertram Kofoed</li>
+    <li>10 Christian Richard Fredborg</li>
+    <li>11 Frederik Borregaard</li>
+    <li>12 Frederik Eiby</li>
+    <li>13 George</li>
+    <li>14 Hannibal</li>
+    <li>15 Jakob Østergaard</li>
+    <li>16 Konrad Falkenberg</li>
+    <li>17 Konrad Willum</li>
+    <li>18 Laurits Frisenette</li>
+    <li>19 Liv Hørup Kiil</li>
+    <li>20 Mads Schou</li>
+    <li>21 Marius Johannes</li>
+    <li>22 Marius Aafalk</li>
+    <li>23 Mikkel Lemvard</li>
+    <li>24 Sif Rau</li>
+    <li>25 Thor Sander Falkesgaard</li>
+    <li>26 Tobias William Thirstrup</li>
+    <li>27 Veronika Kirsten Frøsig</li>
+    <li>28 Yusef Fawsi</li>
+    </ul>
+
+
+    <h2 id="result"></h2>
+    <script>
+        /*
+        const elever = Array.from(document.querySelectorAll("ul li")).map(li => li.innerText);
+
+
+        function pickRandomStudent() {
+            const randomIndex = Math.floor(Math.random() * elever.length);
+            const randomStudent = elever[randomIndex];
+            document.getElementById("result").innerText = `Valgt elev: ${randomStudent}`;
+        }
+        */
+       //lav spænden animation når der vælges elev
+       const elever = Array.from(document.querySelectorAll("ul li")).map(li => li.innerText);
+         let intervalId;
+        function pickRandomStudent() {
+            clearInterval(intervalId);
+            let count = 0;
+            intervalId = setInterval(() => {
+                const randomIndex = Math.floor(Math.random() * elever.length);
+                const randomStudent = elever[randomIndex];
+                document.getElementById("result").innerText = `Valgt elev: ${randomStudent}`;
+                count++;
+                if (count >= 20) { // stop efter 20 iterationer
+                    clearInterval(intervalId);
+                }
+            }, 100); // opdater hvert 100 ms
+        }
+            
+    </script>
+    
+</body>
+</html>

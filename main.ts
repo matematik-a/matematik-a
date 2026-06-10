@@ -1,192 +1,134 @@
-import MarkdownIt from "https://esm.sh/markdown-it";
+import MarkdownIt from "npm:markdown-it";
 
-Deno.serve({port: 8000}, async (req) => {
+// Liste over alle de undermapper, dine billeder og PDF'er kan ligge i inde i /indhold/
+const UNDER_MAPPER = [
+  "f1_trig", 
+  "f2_basic", 
+  "f3_aplan", 
+  "f4_vektorer2d", 
+  "f5_so1b", 
+  "f6_aarspove", 
+  "f7_ekstra", 
+  "formelsamling", 
+  "projekter",
+  "a"
+];
 
-    const url = new URL(req.url);
+const baseDir = import.meta.dirname || ".";
 
-    //skal huske prikken i filnavnet - da den viser at det er en fil i den nuværende mappe
+export function buildMarkdownHtml(markdown: string): string {
+  const md = new MarkdownIt({ html: true });
+  const content = md.render(markdown);
 
-    if (url.pathname.endsWith(".pdf")) return await readPdfFile("." + url.pathname);
+  return `
+    <!DOCTYPE html>
+    <html lang="da">
+    <head>
+      <meta charset="UTF-8">
+      <title>MAT A</title>
+      <link rel="stylesheet" href="/style.css">
+    </head>
+    <script>
+    window.MathJax = {
+      tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] },
+      svg: { fontCache: 'global' }
+    };
+    </script>
+    <script id="MathJax-script" async src="https://jsdelivr.net"></script>
+    <body>
+      <main class="markdown-body">
+        ${content}
+      </main>
+    </body>
+    </html>
+  `;
+}
 
-    if (url.pathname.endsWith(".css")) return await readCSSfile("."+url.pathname);
+Deno.serve({ port: 8080, hostname: "127.0.0.1" }, async (req) => {
+  const url = new URL(req.url);
+  const pathname = url.pathname;
 
-    if (url.pathname.endsWith(".md")) return await readMarkdownFile("."+url.pathname);
-
-    if (url.pathname.endsWith(".png") || url.pathname.endsWith(".jpg") || url.pathname.endsWith(".jpeg")) {
-        return await readImageFile("." + url.pathname);
-    }
-
-    if (url.pathname.endsWith(".html")) return await readHtmlFile("."+url.pathname);
-
-  if (url.pathname === "/download") return await downloadFile(url);
-
-
-
-    //hvis ingen specifik sti er angivet, returner hovedoversigten
-    return await readMarkdownFile("./a/forside.md");
-
-});
-
-async function downloadFile(url: URL): Promise<Response> {
+  // 1. HÅNDTER GENEREL DOWNLOAD STAG (fx /download?file=/afleveringer/afl1.pdf)
+  if (pathname === "/download") {
     const fileUrl = url.searchParams.get("file");
-    if (!fileUrl) {
-      return new Response("File parameter is missing", { status: 400 });
-    }
-  
+    if (!fileUrl) return new Response("File parameter is missing", { status: 400 });
+    
+    const fileName = fileUrl.split("/").pop() || "downloaded_file";
+    const cleanPath = fileUrl.startsWith("/") ? fileUrl.slice(1) : fileUrl;
+
+    // Prøv først i roden af indhold/
     try {
-      const filePath = "." + fileUrl;
-      const file = await Deno.readFile(filePath);
-      const fileName = fileUrl.split("/").pop() || "downloaded_file";
-  
+      const file = await Deno.readFile(`${baseDir}/indhold/${cleanPath}`);
       return new Response(file, {
         headers: {
           "Content-Type": "application/octet-stream",
           "Content-Disposition": `attachment; filename="${fileName}"`,
         },
       });
-    } catch (error) {
-      console.error("Error downloading file:", error);
-      return new Response("File not found", { status: 404 });
+    } catch (_err) {
+      // Hvis ikke fundet, søg igennem alle undermapperne inde i indhold/
+      for (const mappe of UNDER_MAPPER) {
+        try {
+          const file = await Deno.readFile(`${baseDir}/indhold/${mappe}/${cleanPath}`);
+          return new Response(file, {
+            headers: {
+              "Content-Type": "application/octet-stream",
+              "Content-Disposition": `attachment; filename="${fileName}"`,
+            },
+          });
+        } catch (_e) {
+          // Prøv næste mappe
+        }
+      }
     }
-}
+    return new Response("Download-filen blev ikke fundet i appen.", { status: 404 });
+  }
 
+  // 2. HÅNDTER FORSIDEN
+  let targetPathname = pathname === "/" ? "/a/forside.md" : pathname;
+  const fuldSti = `${baseDir}/indhold` + targetPathname;
 
-// lav en funktion der kan sortere en array af n tal i stigende orden
-function sortArray(arr: number[]): number[] {
-    arr.sort((a, b) => a - b);
-    return arr;
-    
-}
-
-async function readHtmlFile(filePath: string): Promise<Response> {
-    try {
-      const html = await Deno.readTextFile(filePath);
-      return new Response(html, {
-        headers: { "Content-Type": "text/html" },
+  try {
+    // 3. HÅNDTER MARKDOWN FILER
+    if (fuldSti.endsWith(".md")) {
+      const txt = await Deno.readTextFile(fuldSti);
+      return new Response(buildMarkdownHtml(txt), {
+        headers: { "Content-Type": "text/html; charset=utf-8" }
       });
-    } catch (error) {
-      console.error("Error reading HTML file:", error);
-      return new Response("HTML file not found", { status: 404 });
     }
-}
 
-async function readMarkdownFile(filePath: string): Promise<Response> {
+    // 4. HÅNDTER STILE (CSS og PDF-visning direkte)
+    if (fuldSti.endsWith(".css") || fuldSti.endsWith(".pdf")) {
+      const file = await Deno.readFile(fuldSti);
+      const mime = fuldSti.endsWith(".css") ? "text/css; charset=utf-8" : "application/pdf";
+      return new Response(file, { headers: { "Content-Type": mime } });
+    }
 
-    try {
-      const markdown = await Deno.readTextFile(filePath);
-      const md = new MarkdownIt({ html: true });
-      const content = md.render(markdown);
-  
-      const html = `
-      <!DOCTYPE html>
-      <html lang="da">
-      <head>
-        <meta charset="UTF-8">
-        <title>MAT A</title>
-        <link rel="stylesheet" href="/style.css">
-      </head>
-      <script>
-      window.MathJax = {
-        tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] },
-        svg: { fontCache: 'global' }
-      };
-      </script>
-      <script id="MathJax-script" async
-        src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
-      </script>
-
-
-      <body>
-        <main class="markdown-body">
-          ${content}
-        </main>
-      </body>
-
-      <!---- lav js der farver baggrunden på rækker der indeholder datoer der er passeret ---->
-      <script>
-        const today = new Date();
-        const rows = document.querySelectorAll("table tr");
-        rows.forEach(row => {
-          const dateCell = row.querySelector("td:nth-child(2)");
-          if (dateCell) {
-              
-              const dateText = dateCell.textContent.trim();
-            const [day, month] = dateText.split('/').map(Number);
-            const rowDate = new Date(today.getFullYear(), month - 1, day);
-            if (rowDate < today) {
-              dateCell.style.color = "#ffffffc5"; // lys blå for fremtidige datoer
-              console.log("Future date found:", dateText);
-              
-            }
+    // 5. INTELLIGENT SØGNING EFTER BILLEDER (Fikser fejlene med del1_trekanter)
+    if (pathname.match(/\.(png|jpg|jpeg)$/i)) {
+      try {
+        // Prøv først den direkte sti
+        const file = await Deno.readFile(fuldSti);
+        return new Response(file, { headers: { "Content-Type": "image/png" } });
+      } catch (_err) {
+        // Hvis billedet ikke lå direkte, søger vi igennem undermapperne
+        const cleanImgPath = pathname.startsWith("/") ? pathname.slice(1) : pathname;
+        for (const mappe of UNDER_MAPPER) {
+          try {
+            const file = await Deno.readFile(`${baseDir}/indhold/${mappe}/${cleanImgPath}`);
+            return new Response(file, { headers: { "Content-Type": "image/png" } });
+          } catch (_e) {
+            // Prøv næste undermappe
           }
-        });
-      </script>
-
-      </html>
-    `;
-  
-  
-      return new Response(html, {
-        headers: { "Content-Type": "text/html" },
-      });
-    } catch (error) {
-      console.error("Error reading markdown file:", error);
-      return new Response("Markdown file not found", { status: 404 });
+        }
+      }
     }
 
+    // Hvis filtypen er ukendt, men findes, så send den afsted
+    const file = await Deno.readFile(fuldSti);
+    return new Response(file, { headers: { "Content-Type": "application/octet-stream" } });
 
-}
-
-async function readCSSfile(filePath: string): Promise<Response> {
-  try {
-    const css = await Deno.readTextFile(filePath);
-    return new Response(css, {
-      headers: { "Content-Type": "text/css" },
-    });
-  } catch (error) {
-    console.error("Error reading CSS file:", error);
-    return new Response("CSS file not found", { status: 404 });
+  } catch (_err) {
+    return new Response("Filen blev ikke fundet i offline-appen.", { status: 404 });
   }
-}
-
-async function readImageFile(filePath: string): Promise<Response> {
-  try {
-    const image = await Deno.readFile(filePath);
-    const contentType = filePath.endsWith(".png")
-      ? "image/png"
-      : filePath.endsWith(".jpg") || filePath.endsWith(".jpeg")
-      ? "image/jpeg"
-      : "application/octet-stream"; 
-    return new Response(image, {
-      headers: { "Content-Type": contentType },
-    });
-  } catch (error) {
-    console.error("Error reading image file:", error);
-    return new Response("Image not found", { status: 404 });
-  }
-}
-
-async function readPdfFile(filePath: string): Promise<Response> {
-  try {
-    const pdf = await Deno.readFile(filePath);
-    return new Response(pdf, {
-      headers: { "Content-Type": "application/pdf" },
-    });
-  } catch (error) {
-    console.error("Error reading PDF file:", error);
-    return new Response("PDF file not found", { status: 404 });
-  }
-}
-
-
-async function readTextFile(filePath: string): Promise<Response> {
-  try {
-    const text = await Deno.readTextFile(filePath);
-    return new Response(text, {
-      headers: { "Content-Type": "text/plain" },
-    });
-  } catch (error) {
-    console.error("Error reading text file:", error);
-    return new Response("Text file not found", { status: 404 });
-  }
-}
+});

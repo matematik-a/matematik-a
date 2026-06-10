@@ -1,0 +1,56 @@
+# Forløb 2 - Tal og Ligninger 
+
+## Del 2 :  Potenser og rødder
+
+### Materiale fra plus A, systime:  2.2 Potenser og rødder
+
+------------------------------
+
+En potens er en måde at skrive gentagen multiplikation på. En potens består af en base og en eksponent, hvor basen er det tal, der skal ganges, og eksponenten angiver, hvor mange gange basen skal ganges med sig selv. For eksempel er \( a^n \) en potens med base \( a \) og eksponent \( n \), hvilket betyder, at \( a \) skal ganges med sig selv \( n \) gange:
+
+***Definition af potens:***
+
+<div style="text-align: center;">$ \Large a^n = \underbrace{a \cdot a \cdot a \cdots a}_{n \text{ gange}}  , \text{ hvor det gælder } n \in \mathbb{N} $</div>
+
+------------------------------
+
+ ### Potensregneregler  
+
+| **Regel**               | **Formel**        |
+| ----------------------- | ----------------- |
+| 1 Produktregel          | $ \large a^m \cdot a^n = a^{m+n} $ |
+| 2 Nulpotens             | $ \large  a^0 = 1 $ for $ a \neq 0 $ |
+| 3 Potens af en potens   | $ \large  (a^m)^n = a^{m \cdot n} $ |
+| 4 Potens af et produkt  | $ \large  (a \cdot b)^n = a^n \cdot b^n $ |
+| 5 Potens af en kvotient | $ \large  \left( \frac{a}{b} \right)^ n = \frac{a^n}{b^n} $ for $ b \neq 0 $ |
+| 6 Kvotientregel         | $ \large \frac{a^m}{a^n} = a^{m-n} $ for $ a \neq 0 $        |
+| 7 Negativ eksponent     | $ \large a^{-n} = \frac{1}{a^n} $ for $ a \neq 0 $ |
+| 8 Stambrøk som potens   | $ \large a^{\frac{1}{n}} = \sqrt[n]{a} $ for $ a \geq 0 $ og $ n \in \mathbb{N} $ |
+| 9 Rationel eksponent    | $ \large a^{\frac{m}{n}} = \sqrt[n]{a^m} $ for $ a \geq 0 $, $ n \in \mathbb{N} $ og  $ m \in \mathbb{Z} $ |
+
+ ------------------------------
+
+### Regler for kvadratrødder, udledt fra ovenstående
+
+| **Regel**               | **Formel**        |
+| ----------------------- | ----------------- |
+| 10 Kvadratrodsreglen for potenser: | $ \sqrt{a^2} = \| a \| $ |
+| 11 Produktregel for rødder:        | $ \sqrt{a \cdot b} = \sqrt{a} \cdot \sqrt{b} $ for $ a \geq 0 $ og $ b \geq 0 $  |
+| 12 Kvotientregel for rødder:       | $ \sqrt{\frac{a}{b}} = \frac{\sqrt{a}}{\sqrt{b}} $ for $ a \geq 0 $ og $ b > 0 $ |
+
+------------------------------
+
+## Øvelse 
+
+Gå sammen og prøv at bevise og overvej hvilke regler der kan "bevises" og hvilke der måske ikke kan bevises, men kun "retfærdiggøres". <br>
+Diskuter jeres beviser med hinanden og sørg for, at I forstår hver enkelt regel.
+Her er et par hints til, hvordan I msåke kan gribe det an:
+- Produktreglen : Brug definitionen af potenser til at omskrive udtryk.
+- nulpotensreglen  : kan "retflediggøres" / "ikke direkte bevises" ved at bruge produktreglen.
+- Kvotientreglen : Brug definitionen af potenser til at omskrive udtryk. Ovevej m>n , m=n og m<n.
+- Negativ eksponent : følger direkte af kvotientreglen.
+- Stambrøk som potens : udvidelse af potenser til brøker som eksponent. Overvej feks. $ (a^{1/n})^n $ og anvendelsen af "potens af en potens".
+
+
+
+
