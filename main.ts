@@ -31,7 +31,7 @@ Deno.serve({port: 8000},async (_req) => {
 });
 
 /////// korrekt sti - til filer...
-function fixWrongFilePath(url:URL, _req:Request): string {
+/*function fixWrongFilePath(url:URL, _req:Request): string {
      let  urlref = _req.headers.get("referer");
     //fejrn den sidtse del af urlref efter det sidste "/" så vi kun har stien tilbage, og ikke hele urlen
         if(urlref) urlref = urlref.substring(0, urlref.lastIndexOf('/')); 
@@ -45,6 +45,26 @@ function fixWrongFilePath(url:URL, _req:Request): string {
         }
       
       return urlref;
+}*/
+/////// korrekt sti - til filer... fra Gemini
+function fixWrongFilePath(url: URL, _req: Request): string {
+  const urlref = _req.headers.get("referer");
+  const filename = url.pathname.split("/").pop();
+
+  if (urlref) {
+    // Lav referer om til et rigtigt URL-objekt. 
+    // Så trækker den automatisk stien ud uden domænet/origin!
+    const refererUrl = new URL(decodeURIComponent(urlref));
+    let path = refererUrl.pathname;
+    
+    // Fjern filnavnet på den .md side vi stod på
+    path = path.substring(0, path.lastIndexOf('/'));
+    
+    // Sæt billedets filnavn på mappen
+    return `${path}/${filename}`;
+  }
+  
+  return decodeURIComponent(url.pathname);
 }
 
 
