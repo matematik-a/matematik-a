@@ -1,0 +1,80 @@
+/* fed style til makupfilerne som er alm html og lister overskrifter osv. */
+
+/* alt skal midtestilles og have en god farve og font */
+
+/* class markdown-body  skal fylde 80%  */
+.markdown-body
+ {
+
+   min-width: 80%;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #aaad83;
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+h1, h2, h3 {
+    color: #333;
+
+
+}
+
+summary{
+    font-size: 20px;
+    font-weight: bold;
+        margin-bottom: 15px;
+    line-height: 20px;
+}
+
+details {
+    background-color: #9a9e79;
+}
+
+details, ul, ol, table, td, th {
+    font-size: 14px;
+    color: #144914;
+    /* background-color: lightblue; */
+    background-color: #aaac98;
+
+}
+
+table, td, th {
+    margin: 20px 0;
+    padding: 10px;
+    border: 1px solid #144914;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 20px 0;
+}
+
+/*
+details {
+  margin-bottom: 1em;
+  padding: 0.5em;
+  border: 1px solid #aaad83;
+  border-radius: 8px;
+  background: #aaad83;
+}
+
+summary {
+  font-weight: bold;
+  cursor: pointer;
+}
+*/
+
+/* billeder skal centreres horisontalt*/ 
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+}
