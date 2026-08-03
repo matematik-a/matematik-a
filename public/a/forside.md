@@ -1,6 +1,8 @@
 # Matematik A
 
-## Grundforløb
+## Grundforløb : GF9 og GF1
+
+### [hold GF9 og GF1](https://matematikgf.hcotec.deno.net/)
 
 ---
 
