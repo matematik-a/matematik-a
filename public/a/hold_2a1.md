@@ -2,7 +2,7 @@
 
 ---
 
-<details open>
+<details>
   <summary>Intro</summary>
 
 ---
@@ -57,7 +57,7 @@ Bevis og opgave præsentationer : ca. 4 stk., fordybelsestid 2 timer</br>
 
 ---
 
-<details>
+<details open>
   <summary>Vektorer: Rettelinjers parameterfremstilling 12.4, Cirklens parameterfremstilling 12.5</summary>
 
 | Lektion | Beskrivelse                                                                                                  |
