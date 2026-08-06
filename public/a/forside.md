@@ -2,7 +2,7 @@
 
 ## Grundforløb : GF9 og GF1
 
-### [hold GF9 og GF1](https://matematikgf.hcotec.deno.net/)
+### [hold GF9 og GF1](https://github.com/matematikgf/matematikgf/blob/main/a/forside.md)
 
 ---
 
