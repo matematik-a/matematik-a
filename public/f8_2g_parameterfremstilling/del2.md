@@ -4,6 +4,6 @@
 
 Når I laver aflevering i Maple, skal I huske at selvom Maple kan løse ligninger, får I kun "point" for hvis I skriver forklarende tekst der viser at I ved hvilke ligninger, der skal løse og hvordan de løses.
 
-Afleveringen skal afleveres i pdf-format!
+Afleveringen skal afleveres i pdf-format! Se aflevering nedenfor:
 
-![Aflevering 1 - Vektorer og Parameterfremstilling for linjer i planet](/f8_2g_parameterfremstilling/afl1.png)
+[Aflevering 1 - Parameterfremstilling og vektorfunktioner](/afleveringer2G/aflevering1/aflevering1.md)
