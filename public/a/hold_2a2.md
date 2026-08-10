@@ -60,12 +60,13 @@ Bevis og opgave præsentationer : ca. 4 stk., fordybelsestid 2 timer</br>
 <details open>
   <summary>Vektorer: Rettelinjers parameterfremstilling 12.4, Cirklens parameterfremstilling 12.5</summary>
 
-| Lektion | Beskrivelse                                                                                                      |
-| ------- | ---------------------------------------------------------------------------------------------------------------- |
-| d.6/8   | [Repetition - Rettelinjers parameterfremstilling 12.4 1 til og med 12.4.3](/f8_2g_parameterfremstilling/del1.md) |
-|         | [Aflevering - Vektorer og Parameterfremstilling for linjer i planet](/f8_2g_parameterfremstilling/del2.md)       |
-|         |                                                                                                                  |
-|         |                                                                                                                  |
+| Lektion | Beskrivelse                                                                                                        |
+| ------- | ------------------------------------------------------------------------------------------------------------------ |
+| d.6/8   | [Del 1 : Rettelinjers parameterfremstilling 12.4 1 til og med 12.4.3](/f8_2g_parameterfremstilling/del1.md)        |
+|         | [Del 2 : Aflevering - Vektorer og Parameterfremstilling for linjer i planet](/f8_2g_parameterfremstilling/del2.md) |
+|         |                                                                                                                    |
+| d.11/8  | [Del 3 : Afstandsformel fra linje til punkt - generel form ](/f8_2g_parameterfremstilling/del3.md)                 |
+|         | [Del 4 : Aflevering - emne parameterfremstilling og vektorfunktioner](/f8_2g_parameterfremstilling/del4.md)        |
 
 </details>
 
