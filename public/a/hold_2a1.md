@@ -68,7 +68,7 @@ Bevis og opgave præsentationer : ca. 4 stk., fordybelsestid 2 timer</br>
 | d.11/8  | [Del 3 : Afstandsformel fra linje til punkt - generel form ](/f8_2g_parameterfremstilling/del3.md)          |
 |         | [Del 4 : Aflevering - emne parameterfremstilling og vektorfunktioner](/f8_2g_parameterfremstilling/del4.md) |
 |         |                                                                                                             |
-| d.12/8  | [Del 5 : Skæringer af linjer, Træning til Test1, Aflevering ](/f8_2g_parameterfremstilling/del5.md)         |
+| d.14/8  | [Del 5 : Skæringer af linjer, Træning til Test1, Aflevering ](/f8_2g_parameterfremstilling/del5.md)         |
 |         |                                                                                                             |
 | d.18/8  | [Test 1 - alle emner]                                                                                       |
 
