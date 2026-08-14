@@ -76,7 +76,7 @@ Parameterfremstilling:
 
 14. en linje har normalvektor $\vec{n}=\begin{pmatrix} 1 \\\ 2 \end{pmatrix} $ og skærer x-aksen i x=2, find en funktion $f(x)$ fo linjen
 
-15. to linjer skærer hinanden i punktet (k,g) og har hældeningskoefficenterne a og b, beskriv begge linjer på selvvalgt form
+15. to linjer skærer hinanden i punktet (k,g) og har hældeningskoefficenterne a og b, beskriv begge linjer som parameterfremstillinger
 
 </details>
 
