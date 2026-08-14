@@ -70,7 +70,7 @@ Bevis og opgave præsentationer : ca. 4 stk., fordybelsestid 2 timer</br>
 |         |                                                                                                             |
 | d.14/8  | [Del 5 : Skæringer af linjer, Træning til Test1, Aflevering ](/f8_2g_parameterfremstilling/del5.md)         |
 |         |                                                                                                             |
-| d.18/8  | [Test 1 - alle emner]                                                                                       |
+| d.20/8  | [Test 1 - alle emner]                                                                                       |
 
 </details>
 
