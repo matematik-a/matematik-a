@@ -43,7 +43,14 @@ $ \begin{pmatrix} x \\\ y \end{pmatrix} = \begin{pmatrix} x_0 \\\ y_0 \end{pmatr
   [online geogebra : linjens parameterfremstilling](https://www.geogebra.org/classic/vrbeqREK)
 
 </details>
- 
+
+---------
+
+<details>
+  <summary>Lav øvelserne : 12.5.1, 12.5.2 , 12.5.3</summary>
+
+</details>
+
 
 -------
 -------
