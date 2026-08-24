@@ -72,7 +72,7 @@ Bevis og opgave præsentationer : ca. 4 stk., fordybelsestid 2 timer</br>
 |         |                                                                                                             |
 | d.17/8  | [Del 6 : Polærekoordinater, cirklens parameterfremstilling, Træning til Test1](/f8_2g_parameterfremstilling/del6.md) |
 |         |                                                                                                             |
-| d.21/8  | [Test 1 - alle emner]                                                                         |
+| d.25/8  | [Test 1 - alle emner]                                                                         |
 
 </details>
 
