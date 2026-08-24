@@ -93,7 +93,7 @@ Bevis og opgave præsentationer : ca. 4 stk., fordybelsestid 2 timer</br>
 ---
 
 <details>
-  <summary>Funtioner : bla. eksponentialfunktioner, potensfunktioner, logaritmefunktioner, polynomier</summary>
+  <summary>Flere funktioner : bla.  potensfunktioner, logaritmefunktioner, polynomier</summary>
 
 | Lektion | Beskrivelse |
 | ------- | ----------- |

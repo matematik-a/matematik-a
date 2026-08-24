@@ -79,20 +79,6 @@ Bevis og opgave præsentationer : ca. 4 stk., fordybelsestid 2 timer</br>
 ---
 
 <details>
-  <summary>Eventuel Repetition : f.eks. ligninger, brøker og potens-regneregler</summary>
-
-| Lektion | Beskrivelse |
-| ------- | ----------- |
-|         |             |
-|         |             |
-|         |             |
-|         |             |
-
-</details>
-
----
-
-<details>
   <summary>Funtioner : bla. eksponentialfunktioner, potensfunktioner, logaritmefunktioner, polynomier</summary>
 
 | Lektion | Beskrivelse |
