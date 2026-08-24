@@ -57,8 +57,8 @@ Bevis og opgave præsentationer : ca. 4 stk., fordybelsestid 2 timer</br>
 
 ---
 
-<details open>
-  <summary>Vektorer: Rettelinjers parameterfremstilling 12.4, Cirklens parameterfremstilling 12.5</summary>
+<details>
+  <summary>Vektorer: Rettelinjers parameterfremstilling kap. 12.4, Cirklens parameterfremstilling kap. 12.5, Test21</summary>
 
 | Lektion | Beskrivelse                                                                                                 |
 | ------- | ----------------------------------------------------------------------------------------------------------- |
@@ -72,18 +72,18 @@ Bevis og opgave præsentationer : ca. 4 stk., fordybelsestid 2 timer</br>
 |         |                                                                                                             |
 | d.18/8  | [Del 6 : Polærekoordinater, cirklens parameterfremstilling, Træning til Test1](/f8_2g_parameterfremstilling/del6.md) |
 |         |                                                                                                             |
-| d.20/8  | [Test 1 - alle emner]                                                                                       |
+| d.20/8  | [Test 21 - alle emner](/afleveringer2G/test21/test21.md)                                                    |
 
 </details>
 
 ---
 
-<details>
-  <summary>Eventuel Repetition : f.eks. ligninger, brøker og potens-regneregler</summary>
+<details open>
+  <summary>Eksponentiel funtioner, kap. 3 </summary>
 
 | Lektion | Beskrivelse |
-| ------- | ----------- |
-|         |             |
+| ------- | ------------------------------------------------------------------------------------------------------------------------ |
+| d.25/8  | [ Del 1 : Opfølgning på Test 21 , Præsentationsplan, Intro Eksp. funkioner](/f9_2g_eksponentielfunktion/del1.md)         |
 |         |             |
 |         |             |
 |         |             |
