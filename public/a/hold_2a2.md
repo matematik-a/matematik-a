@@ -57,7 +57,7 @@ Bevis og opgave præsentationer : ca. 4 stk., fordybelsestid 2 timer</br>
 
 ---
 
-<details open>
+<details>
   <summary>Vektorer: Rettelinjers parameterfremstilling 12.4, Cirklens parameterfremstilling 12.5</summary>
 
 | Lektion | Beskrivelse                                                                                                 |
@@ -77,6 +77,22 @@ Bevis og opgave præsentationer : ca. 4 stk., fordybelsestid 2 timer</br>
 </details>
 
 ---
+
+<details open>
+  <summary>Eksponentiel funtioner, kap. 3 </summary>
+
+| Lektion | Beskrivelse |
+| ------- | ------------------------------------------------------------------------------------------------------------------------ |
+| d.26/8  | [ Del 1 : Opfølgning på Test 21 , Præsentationsplan, Intro Eksp. funkioner](/f9_2g_eksponentielfunktion/del1_2a2.md)         |
+|         |             |
+|         |             |
+|         |             |
+
+</details>
+
+---
+
+
 
 <details>
   <summary>Funtioner : bla. eksponentialfunktioner, potensfunktioner, logaritmefunktioner, polynomier</summary>
