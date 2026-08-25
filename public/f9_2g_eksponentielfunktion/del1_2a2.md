@@ -56,3 +56,7 @@ hvor r er den eksponentielle funktions vækstrate.
 #### Lav : øvelse 3.1.1 + 3.1.2 + 3.1.3 + 3.1.4 + 3.1.5 + 3.1.6 + 3.1.7 + 3.1.8 + 3.1.9
 
 </details>
+
+------------------------------------------------
+
+### Præsentationer opstart : For klassen eller for mig
