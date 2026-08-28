@@ -22,7 +22,7 @@ Deno.serve({port: 8000},async (_req) => {
   if (url.pathname === "/download"){
     return await downloadFile(url, _req);
   } 
-  if (url.pathname.endsWith(".png") || url.pathname.endsWith(".jpg") || url.pathname.endsWith(".jpeg")) {
+  if (url.pathname.endsWith(".png") || url.pathname.endsWith(".jpg") || url.pathname.endsWith(".jpeg") || url.pathname.endsWith(".svg")) {
     const urlref : string = fixWrongFilePath(url, _req);
     return await readImageFile(`${baseDir}/public${urlref}`);
   }
@@ -123,6 +123,8 @@ async function readImageFile(filePath: string): Promise<Response> {
       ? "image/png"
       : filePath.endsWith(".jpg") || filePath.endsWith(".jpeg")
       ? "image/jpeg"
+      : filePath.endsWith(".svg")
+      ? "image/svg"
       : "application/octet-stream"; 
     return new Response(image, {
       headers: { "Content-Type": contentType },
