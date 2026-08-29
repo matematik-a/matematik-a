@@ -72,7 +72,7 @@ Bevis og opgave præsentationer : ca. 4 stk., fordybelsestid 2 timer</br>
 |         |                                                                                                             |
 | d.17/8  | [Del 6 : Polærekoordinater, cirklens parameterfremstilling, Træning til Test1](/f8_2g_parameterfremstilling/del6.md) |
 |         |                                                                                                             |
-| d.25/8  | [Test 1 - alle emner]                                                                         |
+| d.25/8  | [Test 21 - alle emner](/afleveringer2G/test21/test21.md)                                                    |
 
 </details>
 
@@ -85,7 +85,7 @@ Bevis og opgave præsentationer : ca. 4 stk., fordybelsestid 2 timer</br>
 | ------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 | d.26/8  | [ Del 1 : Præsentationsplan, Intro Eksp. funkioner kap 3.0 + 3.1](/f9_2g_eksponentielfunktion/del1_2a2.md)                                          |
 |         |                                                                                                                                                     |
-| d.31/8  | [ Del 2 : Opfølgning på test 21, Ligninger med eksponentiel funktioner kap.3.2](/f9_2g_eksponentielfunktion/del2.md) |
+| d.31/8  | [ Del 2 : Opfølgning på test 21, Ligninger med eksponentiel funktioner kap.3.2](/f9_2g_eksponentielfunktion/del2_2a2.md) |
 |         |                                                                                                                                                     |
 
 </details>

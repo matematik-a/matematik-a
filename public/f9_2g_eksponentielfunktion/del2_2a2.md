@@ -10,6 +10,19 @@
 
 <details>
 <summary>Opfølgning på test.2.1</summary>
+
+Testen gik ikke særlig godt - gennemsnittet var 5.3 rigtige ud af 10. Så jeg tror ikke jeg lader den vægte særlig højt i karakter gennemsnittet </br>
+Men på den anden side er dette den første test i år. Så hvis vi får øvet godt op inden den næste er der stadig håb ;-) </br>
+De tre dårligst besvarede opgaver, er følgende: </br>
+
+- opg 1 "tangenter til cirklen" : 35 % rigtige
+- opg 2 "vinkler i trekant - med potensregning" : 41 % rigtige
+- opg 3 "skæringer imellem linjer - givet ved normalvektorer og punkter" : 30 % rigtige
+
+Hvis I har mindre end 5.5 rigtige bør I lave hele testen forfra hjemme!
+
+Se test21 og løsning her : [Test21](/afleveringer2G/test21/test21.md)
+
 </details>
 
 --------
