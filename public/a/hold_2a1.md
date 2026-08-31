@@ -84,9 +84,9 @@ Bevis og opgave præsentationer : ca. 4 stk., fordybelsestid 2 timer</br>
 | Lektion | Beskrivelse |
 | ------- | ------------------------------------------------------------------------------------------------------------------------ |
 | d.25/8  | [ Del 1 : Opfølgning på Test 21 , Præsentationsplan, Intro Eksp. funkioner kap 3.0 + 3.1](/f9_2g_eksponentielfunktion/del1.md)         |
-|         |             |
-|         |             |
-|         |             |
+|         |                                                                                                                                                     |
+| d.1/9  | [ Del 2 : Ligninger med eksponentiel funktioner kap.3.2](/f9_2g_eksponentielfunktion/del2.md) |
+|         |                                                                                                                                                     |
 
 </details>
 
