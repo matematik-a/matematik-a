@@ -87,7 +87,7 @@ Bevis og opgave præsentationer : ca. 4 stk., fordybelsestid 2 timer</br>
 |         |                                                                                                                                                 |
 | d.31/8  | [ Del 2 : Opfølgning på test 21, Ligninger med eksponentiel funktioner kap.3.2](/f9_2g_eksponentielfunktion/del2_2a2.md)                        |
 |         |                                                                                                                                                 |
-| d.3/9   | [ Del 3 : Forskrift med eulers konstant, fordobling/halverings-konstant, vækstegenskab kap.3.3 + 3.4 +3.5](/f9_2g_eksponentielfunktion/del3.md) |
+| d.8/9   | [ Del 3 : Forskrift med eulers konstant, fordobling/halverings-konstant, vækstegenskab kap.3.3 + 3.4 +3.5](/f9_2g_eksponentielfunktion/del3.md) |
 |         |                                                                                                                                                 | 
 </details>
 
