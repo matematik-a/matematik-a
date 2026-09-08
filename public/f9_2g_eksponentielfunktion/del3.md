@@ -38,14 +38,14 @@ Fordobling og halverings-konstanten er den x-tilvækst det kræver for at fordob
 
 $ T_2 =\large \frac{log(2)}{log(a)}$, 
 
-fåes ved at løse ligningsystemet  $ b \cdot a^{x_0} = 2 \cdot b \cdot a^{x_0 + T2} $ mht. $T_2$
+fåes ved at løse ligningsystemet  $ b \cdot a^{x_0 + T_2} = 2 \cdot b \cdot a^{x_0} $ mht. $T_2$
 </div>
 </br>
 <div style="border: 1px solid black; padding: 10px;">
 
 $ T_½ =\large \frac{log(½)}{log(a)}$, 
 
-fåes ved at løse ligningsystemet  $ b \cdot a^{x_0} = \frac{1}{2} \cdot b \cdot a^{x_0 + T_½} $ mht. $T_{½}$
+fåes ved at løse ligningsystemet  $ b \cdot a^{x_0 + T_½} = \frac{1}{2} \cdot b \cdot a^{x_0} $ mht. $T_{½}$
 </div>
 
 ### 3.5 Vækst-egenskab
