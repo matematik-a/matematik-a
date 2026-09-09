@@ -8,7 +8,7 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-### 10.1 Logaritmen er eksponentielfunktionens omvendte funktion
+## 10.1 Logaritmen er eksponentielfunktionens omvendte funktion
 
 <img src="/f9_2g_eksponentielfunktion/log_eks.png" alt="Description" style="float: left; margin-right: 15px; max-width: 100%;">
 <div style="clear: both;"></div>
@@ -35,7 +35,7 @@ $ Dm(a^x) = Vm(log_a(x)) = \mathbb{R} $
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-### 10.2 Logaritme regneregler
+## 10.2 Logaritme regneregler
 
 <div style="border: 1px solid black; padding: 10px;">
 
@@ -51,7 +51,7 @@ $ log(a^x) = x \cdot log(a) $
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-### 10.3 Logaritme sammenhænge
+## 10.3 Logaritme sammenhænge
 
 Der er forskellige sammenhænge, der med fordel kan beskrives logaritmisk, hvis ændringen sker procentvis og væksten derved ændrer sig for hurtigt eller så langsomt, at det besværliggør sammenligning; f.eks. pH-værdier, jordskælvs-måling, radiaktivt-henfald eller bakterie-vækst.
 
