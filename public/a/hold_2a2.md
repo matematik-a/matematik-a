@@ -79,7 +79,7 @@ Bevis og opgave præsentationer : ca. 4 stk., fordybelsestid 2 timer</br>
 ---
 
 <details open>
-  <summary>Eksponentiel funtioner, kap. 3.1 til 3.9  </summary>
+  <summary>Eksponentiel funtioner kap.3 og Logaritmer kap.10   </summary>
 
 | Lektion | Beskrivelse |
 | ------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -89,6 +89,7 @@ Bevis og opgave præsentationer : ca. 4 stk., fordybelsestid 2 timer</br>
 |         |                                                                                                                                                 |
 | d.8/9   | [ Del 3 : Forskrift med eulers konstant, fordobling/halverings-konstant, vækstegenskab kap.3.3 + 3.4 +3.5](/f9_2g_eksponentielfunktion/del3.md) |
 |         |                                                                                                                                                 | 
+| d.9/9   | [ Del 4 : Logaritmer, regneregler og sammenhænge kap.10.0 + 10.1 + 10.2 + 10.3 ](/f9_2g_eksponentielfunktion/del4.md)                           |
 </details>
 
 ---
