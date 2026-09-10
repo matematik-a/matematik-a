@@ -79,7 +79,7 @@ Bevis og opgave præsentationer : ca. 4 stk., fordybelsestid 2 timer</br>
 ---
 
 <details open>
-  <summary>Eksponentiel funtioner, kap. 3.1 til 3.9 </summary>
+  <summary>Eksponentiel funtioner kap.3 og Logaritmer kap.10</summary>
 
 | Lektion | Beskrivelse |
 | ------- | ------------------------------------------------------------------------------------------------------------------------ |
