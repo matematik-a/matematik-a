@@ -49,6 +49,21 @@ $ log(a^x) = x \cdot log(a) $
 
 </div>
 
+Af disse regneregler følger til interessante egenskaber ved logaritmefunktioner:
+
+<div style="border: 1px solid black; padding: 10px;">
+Hvis x multipliceres med k, svarer det til at funktionsværdien adderes med en konstant. Følger af regneregel-2: 
+
+$ log_b(k \cdot x) = log_b(k) + log_b(x) $ 
+
+To logaritmer med forskellig base er altid propertionelle med en faktor, for alle x indefor Dm. Følger af regneregel-3:
+
+$ x = b^{log_b(x)} \Leftrightarrow log_a(x) = log_a(b) \cdot log_b(x) \Leftrightarrow \Large log_a(b) = \LARGE \frac{log_a(x)}{log_b(x)} $
+
+</div>
+
+
+
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 10.3 Logaritme sammenhænge
