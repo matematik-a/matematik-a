@@ -89,6 +89,10 @@ Bevis og opgave præsentationer : ca. 4 stk., fordybelsestid 2 timer</br>
 |         |                                                                                                                                                 |
 | d.8/9   | [ Del 3 : Forskrift med eulers konstant, fordobling/halverings-konstant, vækstegenskab kap.3.3 + 3.4 +3.5](/f9_2g_eksponentielfunktion/del3.md) |
 |         |                                                                                                                                                 | 
+| d.11/9  | [ Del 4 : Logaritmer, regneregler og sammenhænge kap.10.0 + 10.1 + 10.2 + 10.3 ](/f9_2g_eksponentielfunktion/del4.md)                           |
+|         |                                                                                                                                                 | 
+|         | [ Projekt: Radioaktivt henfald & Eksponentielle sammenhænge og logaritmisk transformation](/projekter/LogEks2g.md)  
+</details>
 
 </details>
 

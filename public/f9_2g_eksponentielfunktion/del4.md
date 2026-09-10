@@ -83,7 +83,7 @@ $I$ er målt lyd og $I_0$ er lyd der netop kan høres, måles i $watt/m^2$
 
 **10.3.3** øvelse med logaritmiske-sammenhænge
 
-#### Lav derefter disse opgaver
+#### Lav derefter disse opgaver, hvis I kan nå det
 
 10.1.4  10.1.5 10.1.6  10.1.7  10.2.1  10.2.2  
 
