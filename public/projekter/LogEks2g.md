@@ -50,7 +50,7 @@ Processen sker tilfældigt og kan derfor simuleres vha. terningkast.
 Vælg et radiaktivt atom, også kaldet nuklid evt. fra nuklid-tabellen i fysikbogen : Orbit A HTX, kapitel 7.3:
 [https://orbithtxa.systime.dk/?id=177](https://orbithtxa.systime.dk/?id=177)
 
-Udtænk derefter et simuleret-henfalds-forsøg, hvor der enten anvender rigtige eller simulerede terninger, brug evt. programmet nedenfor, og skaber et passende og realistisk datasæt med mindst 10 data-punkter. 
+Udtænk derefter et simuleret-henfalds-forsøg, hvor der enten anvendes rigtige eller simulerede terninger, brug evt. programmet nedenfor. Sskab et passende og realistisk datasæt med mindst 10 data-punkter. 
 
 Agrumenter og vis matematisk hvorfor jeres simulering er en god matematisk model af det virklige fænomen.
 
