@@ -16,7 +16,7 @@ Eftersom de eksponentiel-funktioner vi kigger på er på formen $ b \cdot a^x $ 
 
 Dette ligningssyetem skal løses :
 
-$  y_0 = b \cdot a^x_0 \wedge \large y_1 = b \cdot a^x_1 $
+$  y_0 = b \cdot a^{x_0} \wedge \large y_1 = b \cdot a^{x_1} $
 
 </div>
 
