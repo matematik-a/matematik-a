@@ -4,7 +4,7 @@
 
 ------
 
-## Logaritmer
+## To-punkts bestemmelse af eksponentiel fkt., eksponentiel-regression og log-koordinatsystem.
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
