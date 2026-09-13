@@ -67,7 +67,11 @@ Til venstre på billedet ses den "logaritmiske akse" hvor alle tal er $ y=10^x$,
 
 ### Hvorfor er den smart ?
 
-Hvis man plotter en eksponentielfunktion ind i et enkelt-logaritmisk koordinatsystem, vil alle punkterne ligge på en ret linje.Dette ses tydeligt nedenfor. Når man tager logaritmen på den logaritmiske akse, bliver eksponenten \(x\) til en faktor. Det betyder, at \(\log(a)\) bliver linjens hældning, og \(\log(b)\) bliver skæringen med y-aksen:
+Hvis man plotter en eksponentielfunktion ind i et enkelt-logaritmisk koordinatsystem, vil alle punkterne ligge på en ret linje. Dette ses tydeligt nedenfor. 
+
+Når man tager logaritmen på den logaritmiske akse, bliver eksponenten \(x\) til en faktor, \(\log(a)\) bliver linjens hældning, og \(\log(b)\) bliver skæringen med y-aksen.
+
+Så ved at omregne eller transformere værdierne for a, b og y med logaritmen, kan man nu behandle eksponentielfunktionen som om den var en ret linje.
 
 <div style="border: 1px solid black; padding: 10px;">
 
