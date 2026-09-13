@@ -79,7 +79,7 @@ Bevis og opgave præsentationer : ca. 4 stk., fordybelsestid 2 timer</br>
 ---
 
 <details open>
-  <summary>Eksponentiel funtioner kap.3 og Logaritmer kap.10   </summary>
+  <summary>Eksponentiel funtioner kap.3 og Logaritmer kap.10</summary>
 
 | Lektion | Beskrivelse |
 | ------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -91,6 +91,8 @@ Bevis og opgave præsentationer : ca. 4 stk., fordybelsestid 2 timer</br>
 |         |                                                                                                                                                 | 
 | d.9/9   | [ Del 4 : Logaritmer, regneregler og sammenhænge kap.10.0 + 10.1 + 10.2 + 10.3 ](/f9_2g_eksponentielfunktion/del4.md)                           |
 |         |                                                                                                                                                 | 
+| d.14/9  | [ Del 5 : To-punkts bestemmelse eksponentiel fkt., eksponentiel-regression og log-koordinatsystem. kap.3.6 , 3.7 og 10.4 ](/f9_2g_eksponentielfunktion/del5.md) |
+|         |                                                                                                                                                 |                                                                                                                                                             | 
 |         | [ Projekt:  Eksponentielle sammenhænge og logaritmisk transformation](/projekter/LogEks2g.md)  
 </details>
 
