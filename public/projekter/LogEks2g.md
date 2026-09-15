@@ -44,7 +44,7 @@ I denne opgave lægger vi særligt vægt på:
 ------------------------------------------------------------------------------
 
 ## Øvelse 0: 
-## Simulering af radiaktivt henfald
+## Simulering af radioaktivt henfald
 Radioaktivt henfald er et fænomen hvor radiaktive atomkerne under udsendelse af radiaktiv stråling omdannes, dvs. henfalder, til nyt atom.
 Processen sker tilfældigt og kan derfor simuleres vha. terningkast.
 Vælg et radiaktivt atom, også kaldet nuklid evt. fra nuklid-tabellen i fysikbogen : Orbit A HTX, kapitel 7.3:
@@ -85,6 +85,12 @@ function kastTerninger() {
 I skal nu lave de øvelser der er beskrevet i nedenstående projekt, med den undtagelse at i anvender jeres egen data fra "øvelse 0" istedet for den gives i øvelse 2  :
 
 [Hvad er matematik? 1 |Projekter: Kapitel 8. Projekt 8.5 Linearisering og anvendelsen af logaritmiske koordinatsystemer](https://lru.praxis.dk/Lru/microsites/hvadermatematik/hem1download/kap8_Projekt_8.5_Linearisering_og_anvendelsen_af_logaritmiske_koordinatsystemer.pdf)
+
+
+## Ekstra spørgsmål - d
+
+ I skal desuden afslutningsvis svare på hvordan formlerne for eksponentiel regression ser ud.
+Dvs. hvad er den $\hat{a}$  og  $\hat{b}$ for den tilnærmede eskponentielfunktion $ \hat{b} \cdot \hat{a}^x  $
 
 ------------------------------------------------------------------------------
 ------------------------------------------------------------------------------

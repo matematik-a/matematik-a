@@ -91,6 +91,8 @@ Bevis og opgave præsentationer : ca. 4 stk., fordybelsestid 2 timer</br>
 |         |                                                                                                                                                 | 
 | d.11/9  | [ Del 4 : Logaritmer, regneregler og sammenhænge kap.10.0 + 10.1 + 10.2 + 10.3 ](/f9_2g_eksponentielfunktion/del4.md)                           |
 |         |                                                                                                                                                 | 
+| d.15/9  | [ Del 5 : To-punkts bestemmelse eksponentiel fkt., eksponentiel-regression og log-koordinatsystem. kap.3.6 , 3.7 og 10.4 ](/f9_2g_eksponentielfunktion/del5.md) |
+|         |                                                                                                                                                 |                                                                                                                                                             | 
 |         | [ Projekt: Radioaktivt henfald & Eksponentielle sammenhænge og logaritmisk transformation](/projekter/LogEks2g.md)  
 </details>
 
