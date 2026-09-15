@@ -39,7 +39,9 @@ L1 := [1, 2, 3, 4]:
 
 L2 := [2.5, 5.1, 10.2, 20.4]:
 
-ExpReg(L1,L2)
+ExpReg(L1,L2)           # hvis man ønsker et plot
+
+f(x) := ExpReg(L1,L2,x) # hvis man ønsker at gemme resultatet i en funktion
 ```
 
 </div>
