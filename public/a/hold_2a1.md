@@ -93,7 +93,7 @@ Bevis og opgave præsentationer : ca. 4 stk., fordybelsestid 2 timer</br>
 |         |                                                                                                                                                 | 
 | d.15/9  | [ Del 5 : To-punkts bestemmelse eksponentiel fkt., eksponentiel-regression og log-koordinatsystem. kap.3.6 , 3.7 og 10.4 ](/f9_2g_eksponentielfunktion/del5.md) |
 |         |                                                                                                                                                 |                                                                                                                                                             | 
-| d.15+16+18/9 | [ Projekt: Radioaktivt henfald & Eksponentielle sammenhænge og logaritmisk transformation](/projekter/LogEks2g.md)  
+| d.15+17+18/9 | [ Projekt: Radioaktivt henfald & Eksponentielle sammenhænge og logaritmisk transformation](/projekter/LogEks2g.md)  
 </details>
 
 </details>
