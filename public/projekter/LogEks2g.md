@@ -90,7 +90,28 @@ I skal nu lave de øvelser der er beskrevet i nedenstående projekt, med den und
 ## Ekstra spørgsmål - d
 
  I skal desuden afslutningsvis svare på hvordan formlerne for eksponentiel regression ser ud.
-Dvs. hvad er den $\hat{a}$  og  $\hat{b}$ for den tilnærmede eskponentielfunktion $ \hat{b} \cdot \hat{a}^x  $
+Dvs. formlen for $\hat{a}$  og  $\hat{b}$ for den tilnærmede eskponentielfunktion $ \hat{b} \cdot \hat{a}^x  $
+
+I skal også beregne værdierne af $\hat{a}$  og  $\hat{b}$.
+
+Her er eksempel på Maple-beregning af a med lineær-regressions formlen:
+
+```
+restart;
+
+X := [10, 20, 30, 40, 50, 60];
+Y := [3, 6, 9, 12, 18, 21];
+N := nops(X);                               # nops : giver antallet af elementer i X
+X_mean := add(X)/N;                         # add  : er summen af elementerne i X   
+Y_mean := add(Y)/N;
+
+#sum : er ækvivalent til Sigma eller sum-tegnet, og "i" er tæller variablen
+
+a_est := sum((X[i] - X_mean)*(Y[i] - Y_mean), i = 1 .. N)/sum((X[i] - X_mean)^2, i = 1 .. N);
+
+```
+
+
 
 ------------------------------------------------------------------------------
 ------------------------------------------------------------------------------
