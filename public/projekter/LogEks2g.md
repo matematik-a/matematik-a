@@ -89,12 +89,11 @@ I skal nu lave de øvelser der er beskrevet i nedenstående projekt, med den und
 
 ## Ekstra spørgsmål - d
 
- I skal desuden afslutningsvis svare på hvordan formlerne for eksponentiel regression ser ud.
-Dvs. formlen for $\hat{a}$  og  $\hat{b}$ for den tilnærmede eskponentielfunktion $ \hat{b} \cdot \hat{a}^x  $
+Udled formlerne for eksponentiel regression, dvs. $\hat{a}$ og $\hat{b}$ for den tilnærmede eskponentielfunktion $ \hat{b} \cdot \hat{a}^x  $
 
-I skal også beregne værdierne af $\hat{a}$  og  $\hat{b}$.
+I skal også beregne værdierne af $\hat{a}$  og  $\hat{b}$,- og tjek at det passer med hvad I har fundet tidligere.
 
-Her er eksempel på Maple-beregning af a med lineær-regressions formlen:
+Hvis I ønsker at anvende Maple, er her et eksempel på en Maple-beregning af a med lineær-regressions formlen:
 
 ```
 restart;
@@ -107,7 +106,7 @@ Y_mean := add(Y)/N;
 
 #sum : er ækvivalent til Sigma eller sum-tegnet, og "i" er tæller variablen
 
-a_est := sum((X[i] - X_mean)*(Y[i] - Y_mean), i = 1 .. N)/sum((X[i] - X_mean)^2, i = 1 .. N);
+a_hat := sum((X[i] - X_mean)*(Y[i] - Y_mean), i = 1 .. N)/sum((X[i] - X_mean)^2, i = 1 .. N);
 
 ```
 
