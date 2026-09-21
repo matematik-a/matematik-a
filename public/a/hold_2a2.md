@@ -94,6 +94,9 @@ Bevis og opgave præsentationer : ca. 4 stk., fordybelsestid 2 timer</br>
 | d.14/9  | [ Del 5 : To-punkts bestemmelse eksponentiel fkt., eksponentiel-regression og log-koordinatsystem. kap.3.6 , 3.7 og 10.4 ](/f9_2g_eksponentielfunktion/del5.md) |
 |         |                                                                                                                                                 |                                                                                                                                                             | 
 | d.15+16+18/9  | [ Projekt:  Eksponentielle sammenhænge og logaritmisk transformation](/projekter/LogEks2g.md)  
+|         |                                                                                                                                                 |                                                                                                                                                             | 
+| d.21/9  | [Del 6 : Træning til  test & Test i eksponentialfunktioner og logaritmer](/f9_2g_eksponentielfunktion/del6.md)                                                                                                                                                 |                                                                                    | 
+
 </details>
 
 ---

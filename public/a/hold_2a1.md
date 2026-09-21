@@ -85,7 +85,7 @@ Bevis og opgave præsentationer : ca. 4 stk., fordybelsestid 2 timer</br>
 | ------- | ------------------------------------------------------------------------------------------------------------------------ |
 | d.25/8  | [ Del 1 : Opfølgning på Test 21 , Præsentationsplan, Intro Eksp. funkioner kap 3.0 + 3.1](/f9_2g_eksponentielfunktion/del1.md)         |
 |         |                                                                                                          |
-| d.1/9   | [ Del 2 : Ligninger med eksponentiel funktioner kap.3.2](/f9_2g_eksponentielfunktion/del2.md)            |
+| d.1/9   | [ Del 2 : Ligninger med eksponentialfunktioner kap.3.2](/f9_2g_eksponentielfunktion/del2.md)            |
 |         |                                                                                                                                                 |
 | d.8/9   | [ Del 3 : Forskrift med eulers konstant, fordobling/halverings-konstant, vækstegenskab kap.3.3 + 3.4 +3.5](/f9_2g_eksponentielfunktion/del3.md) |
 |         |                                                                                                                                                 | 
@@ -94,6 +94,9 @@ Bevis og opgave præsentationer : ca. 4 stk., fordybelsestid 2 timer</br>
 | d.15/9  | [ Del 5 : To-punkts bestemmelse eksponentiel fkt., eksponentiel-regression og log-koordinatsystem. kap.3.6 , 3.7 og 10.4 ](/f9_2g_eksponentielfunktion/del5.md) |
 |         |                                                                                                                                                 |                                                                                                                                                             | 
 | d.15+17+18/9 | [ Projekt: Radioaktivt henfald & Eksponentielle sammenhænge og logaritmisk transformation](/projekter/LogEks2g.md)  
+|         |                                                                                                                                                 |                                                                                                                                                             | 
+| d.21/9  | [Del 6 : Træning til  test & Test i eksponentialfunktioner og logaritmer](/f9_2g_eksponentielfunktion/del6.md)                                                                                                                                                 |                                                                                    | 
+
 </details>
 
 </details>
