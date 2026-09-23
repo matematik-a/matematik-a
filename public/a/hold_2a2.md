@@ -111,6 +111,8 @@ Bevis og opgave præsentationer : ca. 4 stk., fordybelsestid 2 timer</br>
 |         |                                                                       |
 |         |                                                                       |
 
+</details>
+
 ---
 
 <details>
