@@ -95,7 +95,7 @@ Bevis og opgave præsentationer : ca. 4 stk., fordybelsestid 2 timer</br>
 |         |                                                                                                                                                 |                                                                                                                                                             | 
 | d.15+17+18/9 | [ Projekt: Radioaktivt henfald & Eksponentielle sammenhænge og logaritmisk transformation](/projekter/LogEks2g.md)  
 |         |                                                                                                                                                 |                                                                                                                                                             | 
-| d.21/9  | [Del 6 : Træning til  test & Test i eksponentialfunktioner og logaritmer](/f9_2g_eksponentielfunktion/del6.md)                                                                                                                                                 |                                                                                    | 
+| d.22/9  | [Del 6 : Træning til  test & Test i eksponentialfunktioner og logaritmer](/f9_2g_eksponentielfunktion/del6.md)                                                                                                                                                 |                                                                                    | 
 
 </details>
 
@@ -104,7 +104,7 @@ Bevis og opgave præsentationer : ca. 4 stk., fordybelsestid 2 timer</br>
 ---
 
 <details>
-  <summary>Flere funktioner : bla.  potensfunktioner, logaritmefunktioner, polynomier</summary>
+  <summary>Potensfunktioner kap.4 og Polynomier kap.5</summary>
 
 | Lektion | Beskrivelse |
 | ------- | ----------- |

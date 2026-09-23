@@ -78,7 +78,7 @@ Bevis og opgave præsentationer : ca. 4 stk., fordybelsestid 2 timer</br>
 
 ---
 
-<details open>
+<details>
   <summary>Eksponentiel funtioner kap.3 og Logaritmer kap.10</summary>
 
 | Lektion | Beskrivelse |
@@ -95,23 +95,21 @@ Bevis og opgave præsentationer : ca. 4 stk., fordybelsestid 2 timer</br>
 |         |                                                                                                                                                 |                                                                                                                                                             | 
 | d.15+16+18/9  | [ Projekt:  Eksponentielle sammenhænge og logaritmisk transformation](/projekter/LogEks2g.md)  
 |         |                                                                                                                                                 |                                                                                                                                                             | 
-| d.21/9  | [Del 6 : Træning til  test & Test i eksponentialfunktioner og logaritmer](/f9_2g_eksponentielfunktion/del6.md)                                                                                                                                                 |                                                                                    | 
+| d.22/9  | [Del 6 : Træning til  test & Test i eksponentialfunktioner og logaritmer](/f9_2g_eksponentielfunktion/del6.md)                                                                                                                                                 |                                                                                    | 
 
 </details>
 
 ---
 
-<details>
-  <summary>Funtioner : bla. eksponentialfunktioner, potensfunktioner, logaritmefunktioner, polynomier</summary>
+<details open>
+  <summary>Potensfunktioner kap.4 og Polynomier kap.5</summary>
 
-| Lektion | Beskrivelse |
-| ------- | ----------- |
-|         |             |
-|         |             |
-|         |             |
-|         |             |
-
-</details>
+| Lektion | Beskrivelse                                                                                                      |
+| ------- | ---------------------------------------------------------------------------------------------------------------- |
+| d.23/9  | [Del 1 - Potensfunktioner kap.4.0 til 4.3](/f10_2g_potenspolynomier/del1.md)  |
+|         |                                                                           |
+|         |                                                                       |
+|         |                                                                       |
 
 ---
 
