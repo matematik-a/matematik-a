@@ -21,7 +21,7 @@ Læs artiklen på linket ovenfor. Fokusér særligt på historien om **Jacob Ber
 #### Opgave 2: Find logikken og tilnærm Eulers tal
 I artiklen beskrives et historisk tankeeksperiment med penge og renter, der tilskrives hyppigere og hyppigere.
 
-1. **Fang idéen:** Beskriv med egne ord, hvad der sker med rentetilskrivningen i artiklens eksempel. Hvad er det for en logik (eller ekstrem situation), der pludselig får tallet *e* til at dukke op?
+1. **Fang idéen:** Beskriv med egne ord, hvad der sker med rentetilskrivningen i artiklens eksempel. Hvad er det for en logik - eller ekstrem situation , der pludselig får tallet *e* til at dukke op?
 2. **Vis tilnærmelsen:** Omsæt denne logik til virkelighed i enten **GeoGebra** - grafisk/værktøjer - eller et **regneark** - numerisk i en tabel -. Vis, hvad der sker med resultatet, når man tager denne proces til det ekstreme.
 
 *Husk at gemme jeres produkt - skærmbillede eller fil -, så I kan vise og forklare jeres tankegang næste gang!*
