@@ -96,6 +96,8 @@ Bevis og opgave præsentationer : ca. 4 stk., fordybelsestid 2 timer</br>
 | d.15+16+18/9  | [ Projekt:  Eksponentielle sammenhænge og logaritmisk transformation](/projekter/LogEks2g.md)  
 |         |                                                                                                                                                 |                                                                                                                                                             | 
 | d.22/9  | [Del 6 : Træning til  test & Test i eksponentialfunktioner og logaritmer](/f9_2g_eksponentielfunktion/del6.md)                                                                                                                                                 |                                                                                    | 
+|         |    |
+| d.28/9  | [Del 7 : Arbejd-selv - øvelse i eulers tal](/f9_2g_eksponentielfunktion/del7.md) |
 
 </details>
 
