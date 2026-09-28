@@ -9,7 +9,7 @@ Vi har allerede **stødt på den berømte konstant *e*** -Eulers tal- et par gan
 
 Konstanten *e* spiller en enorm rolle i mange matematiske emner – herunder **differentialregning** og **kompleks talteori**, som I vil møde senere. Derfor skal I i dag læse en artikel, der introducerer historien og logikken bag *e* lidt bedre, og derefter løse en undersøgende opgave.
 
-Jeg er desværre ikke på skolen i dag, så I skal arbejde selvstændigt eller i mindre grupper. Vi samler op på det i fællesskab næste gang.
+Jeg har desværre ikke mulighed for at undervise i dag, så I skal arbejde selvstændigt eller i mindre grupper. Vi samler op på det i fællesskab næste gang.
 
 -------------------------------------------------------------------------------------------
 
