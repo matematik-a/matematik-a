@@ -49,11 +49,11 @@ Når I er færdige med opgaver skal I lige sige det til mig, så jeg kan sætte 
 
 [Matematik eksamenssæt 2010 maj](/f10_2g_potenspolynomier/EksamenMat2010_5.pdf) 
 
-Se hvilke opgaver I kan løse nedenfor:
+Se hvilke opgaver I skal løse nedenfor:
 
 De opgaver der er overstreget kræver matematik som I ikke har haft endnu, men I må gerne forsøge at løse dem alligevel
 
-De opgaver der er markeret med fed skrift er de opgaver I skal løse.
+De opgaver der er markeret med fed skrift er de opgaver I SKAL løse.
 
 Opg 1 : **A**,~~B~~ ,~~C~~
 
