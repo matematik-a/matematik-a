@@ -110,6 +110,7 @@ Bevis og opgave præsentationer : ca. 4 stk., fordybelsestid 2 timer</br>
 | ------- | ---------------------------------------------------------------------------------------------------------------- |
 | d.23/9  | [Del 1 - Potensfunktioner kap.4.0 til 4.3](/f10_2g_potenspolynomier/del1.md)  |
 |         |                                                                           |
+| d.30/9  | [Del 2 - Potensfunktioner kap.4.4 til 4.6](/f10_2g_potenspolynomier/del2.md)  |
 |         |                                                                       |
 |         |                                                                       |
 
