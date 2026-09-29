@@ -45,7 +45,7 @@ Når I er færdige med opgaver skal I lige sige det til mig, så jeg kan sætte 
 ---------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------
 
-## Lektion 2: Eksamensættet maj 2010
+## Lektion 2: Eksamensættet maj 2010 - Bliver til aflevering nr. 2
 
 [Matematik eksamenssæt 2010 maj](/f10_2g_potenspolynomier/EksamenMat2010_5.pdf) 
 
