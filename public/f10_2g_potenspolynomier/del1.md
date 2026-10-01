@@ -64,7 +64,6 @@ Undervisningen er slut når i har **lavet alle opgaver** & **præsenteret to opg
 
 - 4.1.2
 
-
 - 4.2.3
 
 - 4.3.1
