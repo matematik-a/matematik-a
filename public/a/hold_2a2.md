@@ -112,7 +112,7 @@ Bevis og opgave præsentationer : ca. 4 stk., fordybelsestid 2 timer</br>
 |         |                                                                           |
 | d.30/9  | [Del 2 - Potensfunktioner kap.4.4 til 4.6](/f10_2g_potenspolynomier/del2.md)  |
 |         |                                                                       |
-| d.1/10  | [Del 3 - Eksamensættet maj 2010 - aflevering 2](/f10_2g_potenspolynomier/del3.md)  |
+| d.2/10  | [Del 3 - Eksamensættet maj 2010 - aflevering 2](/f10_2g_potenspolynomier/del3.md)  |
 |         |                                                                       |
 
 </details>
