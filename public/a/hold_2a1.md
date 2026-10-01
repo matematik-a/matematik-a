@@ -78,7 +78,7 @@ Bevis og opgave præsentationer : ca. 4 stk., fordybelsestid 2 timer</br>
 
 ---
 
-<details open>
+<details>
   <summary>Eksponentiel funtioner kap.3 og Logaritmer kap.10</summary>
 
 | Lektion | Beskrivelse |
@@ -106,7 +106,7 @@ Bevis og opgave præsentationer : ca. 4 stk., fordybelsestid 2 timer</br>
 
 ---
 
-<details>
+<details open>
   <summary>Potensfunktioner kap.4 og Polynomier kap.5</summary>
 
 | Lektion | Beskrivelse                                                                                                      |
