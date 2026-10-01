@@ -11,7 +11,7 @@
 
 Forberedelsesmateriale : hvis I ønsker at lave opg 4 og opg 7 skal I anvende forberedelsesmaterialet, som I finder her : 
 
-[Forberedelsesmateriale til eksamen maj 2010](/public/f10_2g_potenspolynomier/ForberedelsesMateriale2010_5.pdf)
+[Forberedelsesmateriale til eksamen maj 2010](/f10_2g_potenspolynomier/ForberedelsesMateriale2010_5.pdf)
 
 Se hvilke opgaver I skal løse nedenfor:
 
