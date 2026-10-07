@@ -116,6 +116,9 @@ Bevis og opgave præsentationer : ca. 4 stk., fordybelsestid 2 timer</br>
 |         |                                                                       |
 | d.6/10  | Test 22B - eksponentielle funktioner, logaritmer |
 | d.6/10  | [Del 4 - Polynomier kap.5.0 til 5.3](/f10_2g_potenspolynomier/del4.md)  |
+|         |                                                                       |
+| d.6/10  | [Del 5 - Polynomier kap.5.4 til 5.6](/f10_2g_potenspolynomier/del5.md)  |
+|         |                                                                       |
 
 
 </details>

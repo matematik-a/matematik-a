@@ -40,7 +40,7 @@ details, ul, ol, table, td, th {
     /*font-size: 14px;*/
     color: #144914;
     /* background-color: lightblue; */
-    background-color: #aaac98;
+  /*  background-color: #aaac98;*/
 
 }
 
@@ -48,6 +48,8 @@ table, td, th {
     margin: 20px 0;
     padding: 10px;
     border: 1px solid #144914;
+    background-color: #aaac98;
+
 }
 
 table {
