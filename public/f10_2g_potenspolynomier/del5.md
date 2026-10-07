@@ -23,7 +23,7 @@
 | ---------------------------- | ----------------------------------- |
 | **monotoniforhold**          |  hvor funktionen er voksende og aftagende |
 | **voksende**                 |  hvis x er voksende er y voksende   |
-| **aftagende**                |  hvis x er aftagende er y aftagende |
+| **aftagende**                |  hvis x er voksende er y aftagende |
 | **konstant**                 |  hvis x ændres er y konstant       |
 | **ekstremum**                |  et maksimum eller minimum          |
 | **lokalt ekstremum/minimum/maksimum** |  et maksimum eller minimum, der kun gælder i et interval |
@@ -48,7 +48,7 @@ Monotoniforhold og funktionsanalyse er et særdelses vigtigt når man arbejder m
 | Parallelforskydning af et polynomium | forklaring                          |
 | ----------------------------------- | ----------------------------------- |
 | Forskydning i y-retningen             |  $f(x) + k$ forskyder grafen opad med k enheder |
-| Forskydning i x-retningen             |  $f(x + k)$ forskyder grafen mod venstre med k enheder |
+| Forskydning i x-retningen             |  $f(x - k)$ forskyder grafen mod højre med k enheder |
 
 
 </details>
