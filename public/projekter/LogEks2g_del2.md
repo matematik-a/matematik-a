@@ -1,7 +1,7 @@
 
 # UDVIDELSE eller MINIRAPPORT :
 ### Projekt: Simulering af henfald, eksponentielle sammenhænge og logaritmisk transformation PLUS lidt om potensfunktioner og polynomier
-### Aflever på : "Projekt: Simulering af henfald, eksponentielle sam" inden d.25/10-26
+### Aflever på : "Projekt: Simulering af henfald, eksponentielle sam" inden d.1/11-26
 -------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------- 
 
@@ -19,15 +19,15 @@ Se opgavebeskrivelsen her [Hvad er matematik? 1 |Projekter: Kapitel 8. Projekt 8
 
 ----------------------------------------------------------------------
 
-## Øvelse 4 : Logaritmisk transformation af potensfunktioner
+## Øvelse 4 : Logaritmisk transformation af polynomier
 
 I har nu lavet logaritmisk transformation af eksponentialfunktioner og potensfunktioner , og forhåbentligt fundet ud af at de kan afbildes som rette linjer i enkeltlogaritmiske og dobbeltlogaritmiske koordinatsystemer.
 
-Men hvad med poynomier ? 
+Men hvad med polynomier ? 
 
-1. ) Undersøg hvor mange led et poynomium kan have inden det er umuligt at genkende i et dobbelt-logaritmisk koordinatsystem 
+1. ) Undersøg hvor mange led et poynomium kan have inden det er umuligt at "genkende" i et dobbelt-logaritmisk koordinatsystem 
 
-2. ) Redegør For hvordan man kan bestemme polynomiet ud fra grafen - brug "grænseværdier" i din redegørelse
+2. ) Redegør for hvordan man kan bestemme polynomiet ud fra grafen - brug "grænseværdier" i din redegørelse
 
 
 ----------------------------------------------------------------------

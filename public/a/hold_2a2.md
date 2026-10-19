@@ -133,7 +133,8 @@ Bevis og opgave præsentationer : ca. 4 stk., fordybelsestid 2 timer</br>
 | d.19/10 | [***Differentialregning opstart - Grænseværdier***](/f11_2g_diff/del1.md)                         |
 |         | [***Udvidels af sidste projekt*** : øvelse 3 - logaritmisk transformation af potensfunktioner / øvelse 4 - logaritmisk transformation af polynomier](/projekter/LogEks2g_del2.md)  |
 |         | Abacus træning                    ...                                                             |
-|         |                                                                                                   |
+|         |                                                                       |
+| d.20/10 | [Arbejd-selv : Projekt udvidelse og Abacus Opgaver](/f11_2g_diff/arbejdselv1.md)   |
 
 </details>
 

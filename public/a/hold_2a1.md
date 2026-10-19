@@ -115,7 +115,9 @@ Bevis og opgave præsentationer : ca. 4 stk., fordybelsestid 2 timer</br>
 |         |                                                                           |
 | d.6/10  | [Del 2 - Potensfunktioner kap.4.4 til 4.6](/f10_2g_potenspolynomier/del2.md) og [Del 3 - Eksamensættet maj 2010 - aflevering 2](/f10_2g_potenspolynomier/del3.md)  |
 |         |                                                                       |
-| d.20/10 | [Del 4 - Polynomier kap.5.0 til 5.3](/f10_2g_potenspolynomier/del4.md) og [Del 5 - Polynomier kap.5.4 til 5.6](/f10_2g_potenspolynomier/del5.md)   |
+| d.20/10 | [Arbejd-selv : Projekt udvidelse og Abacus Opgaver](/f11_2g_diff/arbejdselv1.md)   |
+|         |
+| d.23/10 | [Del 4 - Polynomier kap.5.0 til 5.3](/f10_2g_potenspolynomier/del4.md) og [Del 5 - Polynomier kap.5.4 til 5.6](/f10_2g_potenspolynomier/del5.md)   |
 
 </details>
 
