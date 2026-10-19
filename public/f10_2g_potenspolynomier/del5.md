@@ -1,6 +1,6 @@
 # 2G - Forløb 10 del.5
 ## Emne : Polynomier, monotoniforhold, parallelforskyding, polynomiel regression
-### Materiale : PlusA Systime kap 5.0 til 5.3
+### Materiale : PlusA Systime kap 5.4 til 5.6
 
 ---------------------------------------------------
 ----------------------------------
@@ -117,8 +117,5 @@ $ \hat{\beta} = ( \mathbf{X}^T \cdot \mathbf{X} )^{-1} \cdot \mathbf{X}^T \cdot 
 ## opgave 5.6.1
 
 -------------------------------------------
-
-## Lav eksamenssættet - og aflever - når eksamensættet er afleveret kan du holde fri!!
-
 
 <detals>
