@@ -2,8 +2,8 @@
 
 --------------------------------------------
 
-I disse moduler må skal I arbejde selv, I bestemmer selv om I gør det hjemmefra eller på skolen.
-En del af arbejdet er dog projektarbejde,- men måske I kan snakke med hinanden over discord eller lignende?
+I disse moduler skal I arbejde selv, I bestemmer selv om I gør det hjemmefra eller på skolen.
+En del af arbejdet er dog projektarbejde, i jeres projektgrupper,- men måske I kan snakke med hinanden over discord eller lignende?
 
 Hvis I møder op på skolen kan I snakke med mig,- hvis ikke må I klare jer selv ;-)
 
@@ -12,10 +12,10 @@ Hvis I møder op på skolen kan I snakke med mig,- hvis ikke må I klare jer sel
 ## Projekt udvidelse eller Miniprojekt?
 ### Afleveringsfrist søndag d.1/11
 
-Vi skal også lave et projekt, der omhandler polynomier og potensfunktioner. Dette har jeg valgt at gøre ved at "udvide" det sidste projekt... 
-I må derfor selv om I skriver et nyt tillæg til det oprindlige projekt eller skriver videre I det dokument I allerede har lavet?
+Vi mangler at lave et projekt, der omhandler polynomier og potensfunktioner. Dette har jeg valgt at gøre ved at "udvide" det sidste projekt... 
+I må derfor enten skrive et nyt tillæg til det oprindlige projekt eller skrive videre I det dokument I allerede har lavet?
 
-Projektbeskrivelses kan læses her : ["projekt-udvidelse med potensfunktioner og polynomier"](/projekter/LogEks2g_del2.md)
+Projektbeskrivelsen kan læses her : ["projekt-udvidelse med potensfunktioner og polynomier"](/projekter/LogEks2g_del2.md)
 
 ---------------------------------------------
 
