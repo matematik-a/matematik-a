@@ -103,7 +103,7 @@ Bevis og opgave præsentationer : ca. 4 stk., fordybelsestid 2 timer</br>
 
 ---
 
-<details open>
+<details>
   <summary>Potensfunktioner kap.4 og Polynomier kap.5</summary>
 
 | Lektion | Beskrivelse                                                                                                      |
@@ -125,15 +125,15 @@ Bevis og opgave præsentationer : ca. 4 stk., fordybelsestid 2 timer</br>
 
 ---
 
-<details>
+<details open>
   <summary>Differentialregning : bla. grænseværdier, differentialkvotient, aflededet funktion, monotoniforhold</summary>
 
-| Lektion | Beskrivelse |
-| ------- | ----------- |
-|         |             |
-|         |             |
-|         |             |
-|         |             |
+| Lektion | Beskrivelse                                                                                       |
+| ------- | ------------------------------------------------------------------------------------------------- |
+| d.19/10 | [***Differentialregning opstart - Grænseværdier***](/f11_2g_diff/del1.md)                         |
+|         | [***Udvidels af sidste projekt*** : øvelse 3 - logaritmisk transformation af potensfunktioner / øvelse 4 - logaritmisk transformation af polynomier](/projekter/LogEks2g_del2.md)  |
+|         | Abacus træning                    ...                                                             |
+|         |                                                                                                   |
 
 </details>
 
