@@ -65,6 +65,8 @@ Eksempel-1 fra bogen - grænseværdien eksisterer : [https://plusastx.systime.dk
 
 Eksempel-2 fra bogen - ingen grænseværdien : [https://plusastx.systime.dk/?id=1958#c23645](https://plusastx.systime.dk/?id=1958#c23645)
 
+Yderligere info ,- der eksisterer selvfølgelig regler for hvordan man regner med grænseværdier, de kan f.eks. ses her: [https://matbhtx.systime.dk/?id=1449](https://matbhtx.systime.dk/?id=1449)
+
 
 </details>
 
