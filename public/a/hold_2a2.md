@@ -135,6 +135,8 @@ Bevis og opgave præsentationer : ca. 4 stk., fordybelsestid 2 timer</br>
 |         | Abacus træning                    ...                                                             |
 |         |                                                                       |
 | d.20/10 | [Arbejd-selv : Projekt udvidelse og Abacus Opgaver](/f11_2g_diff/arbejdselv1.md)   |
+|         |                                                                       |
+| d.21/10 | [Grænseværdier fortsat & Projekt-udvidelsen ](/f11_2g_diff/del3.md)                                                                      |
 
 </details>
 
