@@ -1,10 +1,12 @@
 # 2G - Forløb 11 del.3
-## Emne : Grænseværdier fortsat
+## Emne : Grænseværdier fortsat & Projektudvidelse med grænseværdier
 ### Materiale : PlusA Systime kap 13.0 til 13.1
 
 ----------------------------------
 
 ----------------------------------
+
+## Grænseværdier fortsat
 
 Sidst fik vi defineret grænseværdier og regnede på simple opgaver. Men hvilke overordnede regler gælder der for omskrivninger, før man kan konkludere, at der er tale om en grænseværdi?
 
@@ -40,6 +42,8 @@ DETTE ER OK : $ \Large \lim_{x \to \infty } \frac{x + 5}{ x}  =  \lim_{x \to \in
 -------------------------------------------
 -------------------------------------------
 
+## Projektudvidelse med grænseværdier
 
+[Projektudvidelse hjælpeark maple](/f11_2g_diff/Prjektudvidelse2.pdf)
 
 
