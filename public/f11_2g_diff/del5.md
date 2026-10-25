@@ -12,9 +12,11 @@ Differenskvotienten : $\frac{\Delta y}{\Delta x} = \frac{f(x_0 + h) - f(x_0)}{h}
 
 Differentialkvotienten : $f'(x_0) = \lim_{h \rightarrow 0} \frac{f(x_0 + h) - f(x_0)}{h}$
 
-Den grafiske betragtning: "Tangenten" er linjen, hvor sekantens skæringspunkter har bevæget sig uendeligt tæt på hinanden.
+Den grafiske betragtning: "Tangenten" er linjen, hvor sekantens skæringspunkter har bevæget sig uendeligt tæt på hinanden - ses nedenfor.
+Lad os afprøve fænomenet igen i [https://www.geogebra.org/m/qhfsrwxj](https://www.geogebra.org/m/qhfsrwxj)
 
-![](/f11_2g_diff/sekantTangent.png)
+![](/public/f11_2g_diff/sekantTangent.png)
+
 
 Vi skal nu definere differentialkvotienten:
 
@@ -26,9 +28,8 @@ Læg mærke til tegningen af sekant og tangent er lidt misvisende, da :
 
 Differentiable og Kontinuerte funktioner:
 - Hvis funktionen er differentiabel for alle x i Dm kaldes den differentiabel!
-- Da det ses at definitionen af differentialkvotienten i $x_0$ også indeholder grænseværdier for alle $f(x_0+ h)$ for h gående mod 0,  er en "differentiabel funktion" dermed altid en "kontinuert funktion"
-
-### Forståelses-spørgsmål : Er en kontinuert funktion altid differentiabel ?
+- ***En "differentiabel funktion" er altid en "kontinuert funktion"*** - Da det ses at definitionen af differentialkvotienten i $x_0$ også indeholder grænseværdier for alle $f(x_0+ h)$ for h gående mod 0...
+- Forståelses-spørgsmål : ***Er en kontinuert funktion altid differentiabel ?***
 
 ![](/f11_2g_diff/konVsdif.png)
 
