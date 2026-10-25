@@ -178,14 +178,20 @@ async function readCSSfile(filePath: string): Promise<Response> {
       <body>
         <main class="markdown-body">
 
-          <a href="/a/forside.md">Forside</a>
-          <a href="/a/hold_2a1.md">Oversigt-2a1</a>
-          <a href="/a/hold_2a2.md">Oversigt-2a2</a>
-          <a href="/a/hold_1a1.md">Oversigt-1a1</a>
-          <a href="/a/hold_1a2.md">Oversigt-1a2</a>
-          <a href="https://matj.dk/formelsamling.php">Formelsamling</a>
+<table border="1" style="text-align: center;">
+  <tbody>
+    <tr>
+      <td><a href="/a/forside.md">forside</a></td>
+      <td><a href="/a/hold_2a1.md">lektioner 2a1</a></td>
+      <td><a href="/a/hold_2a2.md">lektioner 2a2</a></td>
+      <td><a href="/a/hold_1a1.md">lektioner 1a1</a></td>
+      <td><a href="/a/hold_1a2.md">lektioner 1a2</a></td>
+      <td><a href="https://matj.dk">formelsamling</a></td>
+    </tr>
+  </tbody>
+</table>
 
-          ${content}
+${content}
         </main>
       </body>
 
