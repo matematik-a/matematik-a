@@ -106,7 +106,7 @@ Bevis og opgave præsentationer : ca. 4 stk., fordybelsestid 2 timer</br>
 
 ---
 
-<details open>
+<details>
   <summary>Potensfunktioner kap.4 og Polynomier kap.5</summary>
 
 | Lektion | Beskrivelse                                                                                                      |
@@ -123,18 +123,16 @@ Bevis og opgave præsentationer : ca. 4 stk., fordybelsestid 2 timer</br>
 
 ---
 
-<details>
+
+<details open>
   <summary>Differentialregning : bla. grænseværdier, differentialkvotient, aflededet funktion, monotoniforhold</summary>
 
-| Lektion | Beskrivelse |
-| ------- | ----------- |
-|         |             |
-|         |             |
-|         |             |
-|         |             |
+| Lektion | Beskrivelse                                                                                       |
+| ------- | ------------------------------------------------------------------------------------------------- |
+| d.27/10 | [***Differentialregning opstart - Grænseværdier***](/f11_2g_diff/del1.md)                         |
+|         |                                                                                                   |
 
 </details>
-
 ---
 
 <details>
