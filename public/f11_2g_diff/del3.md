@@ -47,7 +47,7 @@ DETTE ER OK : $ \Large \lim_{x \to \infty } \frac{x + 5}{ x}  =  \lim_{x \to \in
 
 ---------------------------------------
 
-
+## OPGAVER
 
 | Opgave (Find grænseværdien)                             | 🔴 Farlig zone - Før omskrivning | Matematisk trick / Hint |
 | :---                                                    | :---                             | :--- |
