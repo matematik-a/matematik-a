@@ -33,12 +33,12 @@ DETTE ER FORBUDT : $ \Large \lim_{x \to \infty } \frac{x + 5}{ x}  =  \frac{\inf
 
 Se følgende tabel, som indeholder de udtryk, der SKAL omskrives (venstre kolonne), og de udtryk, I gerne må bruge til at finde en logisk grænseværdi (højre kolonne):
 
-| ikke gyldige "grænse-udtryk" - omskriv!                |  gyldige "grænse-udtryk"           |
-| --------------------------------------------------------------- | ---------------------------------- |
+| ikke gyldige "grænse-udtryk" - omskriv!                                           |  gyldige "grænse-udtryk"           |
+| --------------------------------------------------------------------------------- | ---------------------------------- |
 | $ \lim_{x \to x_0 } \frac{f(x)}{g(x)} \rightarrow \frac{\pm 0}{ \pm 0}$           | $ \lim_{x \to x_0 } \frac{f(x)}{g(x)} \rightarrow  \frac{konstant}{\pm \infty}   \rightarrow 0 $  |
-| $ \lim_{x \to x_0 } \frac{f(x)}{g(x)} \rightarrow \frac{\pm \infty}{\pm \infty}$ | $ \lim_{x \to x_0 } \frac{f(x)}{g(x)} \rightarrow  \frac{\pm \infty}{konstant} \rightarrow \pm \infty $     |
-| $ \lim_{x \to x_0 } \frac{f(x)}{g(x)} \rightarrow \infty - \infty$               | $ \lim_{x \to x_0 } \frac{f(x)}{g(x)} \rightarrow  \frac{konstant}{\pm \text{"gående mod 0"}} \rightarrow \pm \infty$ | 
-|                                                                 | $ \lim_{x \to x_0 } \frac{f(x)}{g(x)} \rightarrow  konstant $                        |
+| $ \lim_{x \to x_0 } \frac{f(x)}{g(x)} \rightarrow \frac{\pm \infty}{\pm \infty}$  | $ \lim_{x \to x_0 } \frac{f(x)}{g(x)} \rightarrow  \frac{\pm \infty}{konstant} \rightarrow \pm \infty $     |
+| $ \lim_{x \to x_0 } f(x) - g(x) \rightarrow \infty - \infty$                      | $ \lim_{x \to x_0 } \frac{f(x)}{g(x)} \rightarrow  \frac{konstant}{\pm \text{"gående mod 0"}} \rightarrow \pm \infty$ | 
+|                                                                                   | $ \lim_{x \to x_0 } \frac{f(x)}{g(x)} \rightarrow  konstant $                        |
 
 Da vores udtryk fra før (uden omskrivning) lander i den ulovlige røde zone, skal vi først omskrive det, indtil det ligner en af de sikre grønne situationer fra højre kolonne:
 
@@ -51,7 +51,7 @@ DETTE ER OK : $ \Large \lim_{x \to \infty } \frac{x + 5}{ x}  =  \lim_{x \to \in
 
 | Opgave (Find grænseværdien)                             | 🔴 Farlig zone - Før omskrivning | Matematisk trick / Hint |
 | :---                                                    | :---                             | :--- |
-| $\lim_{x \to \infty} \left( \sqrt{x^2 + x} - x \right)$ | $ \lim_{x \to x_0 } \frac{f(x)}{g(x)} \rightarrow \infty - \infty$                | Omform til brøk ,- og fjern kvadratrod |
+| $\lim_{x \to \infty} \left( \sqrt{x^2 + x} - x \right)$ | $ \lim_{x \to x_0 } f(x) - g(x) \rightarrow \infty - \infty$                | Omform til brøk ,- og fjern kvadratrod |
 | $\lim_{x \to 1} \frac{\frac{1}{x} - 1}{x - 1}$          | $ \lim_{x \to x_0 } \frac{f(x)}{g(x)} \rightarrow \frac{\pm 0}{ \pm 0}$                   | Prøv at reducere $(x-1)$ væk. |
 | $\lim_{x \to 0} \frac{\sqrt{x + 4} - 2}{x}$             | $ \lim_{x \to x_0 } \frac{f(x)}{g(x)} \rightarrow \frac{\pm 0}{ \pm 0}$                   | Gang med det modsat-tegnede udtryk i tæller og nævner for at fjerne kvadratrod. |
 | $\lim_{x \to 3} \frac{x^2 - 9}{x^2 - 5x + 6}$           | $ \lim_{x \to x_0 } \frac{f(x)}{g(x)} \rightarrow \frac{\pm 0}{ \pm 0}$                   | Faktoriser tæller (3. kvadratsetning) og nævner for reducere brøk |
