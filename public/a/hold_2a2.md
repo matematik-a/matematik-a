@@ -138,7 +138,9 @@ Bevis og opgave præsentationer : ca. 4 stk., fordybelsestid 2 timer</br>
 |         |                                                                                                   |
 | d.21/10 | [Grænseværdier fortsat & Projekt-udvidelsen ](/f11_2g_diff/del3.md)                               |
 |         |                                                                                                   |
-| d.26/10 | [Kontinuerte funktioner](/f11_2g_diff/del4.md) og [Differentialkvotient](/f11_2g_diff/del5.md)                               |
+| d.26/10 | [Kontinuerte funktioner](/f11_2g_diff/del4.md) og [Differentiable funktioner](/f11_2g_diff/del5.md)    |
+|         |                                                                                                   |
+| d.29/10 | [Differentialkvotient](/f11_2g_diff/del6.md)                                                      |
 
 </details>
 
