@@ -10,7 +10,7 @@ Hint ; forlæng brøken og reducer, indtil du får en gyldig grænseværdi
 
 ## OPGAVE 2 : Bestem differentialkvotient for den naturlige eksponentialfunktion : $e^x$
 
-Hint ; omskriv differenskvotienten, indtil du får noget med $\frac{e^h-1}{h}$ som jo er det samme som $\frac{e^{0+h}-e^{0}}{h}$ og altså differentialkvotienten for x=0 som svarer til "e"
+Hint ; omskriv differenskvotienten, indtil du får noget med $\frac{e^h-1}{h}$ som jo er det samme som $\frac{e^{0+h}-e^{0}}{h}$ og altså differentialkvotienten for x=0 som svarer til "1"
 
 ## OPGAVE 4 : Bestem differentialkvotienten for den naturlige logaritme : $ln(x)$
 
