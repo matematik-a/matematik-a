@@ -140,7 +140,7 @@ Bevis og opgave præsentationer : ca. 4 stk., fordybelsestid 2 timer</br>
 |         |                                                                                                   |
 | d.26/10 | [Kontinuerte funktioner](/f11_2g_diff/del4.md) og [Differentiable funktioner](/f11_2g_diff/del5.md)    |
 |         |                                                                                                   |
-| d.30/10 | [Differentialkvotient](/f11_2g_diff/del6.md) og [Bevis disse differentialkvotienter 1](/public/f11_2g_diff/del7.md)  |
+| d.30/10 | [Differentialkvotient](/f11_2g_diff/del6.md) og [Bevis disse differentialkvotienter 1](/f11_2g_diff/del7.md)  |
 
 </details>
 
