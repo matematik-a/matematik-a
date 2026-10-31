@@ -129,9 +129,12 @@ Bevis og opgave præsentationer : ca. 4 stk., fordybelsestid 2 timer</br>
 
 | Lektion | Beskrivelse                                                                                       |
 | ------- | ------------------------------------------------------------------------------------------------- |
-| d.27/10 | [***Differentialregning opstart - Grænseværdier***](/f11_2g_diff/del1.md)                         |
+| d.27/10 | [Differentialregning opstart - Grænseværdier](/f11_2g_diff/del1.md)                         |
 |         |                                                                                                   |
-| d.28/10 | [***Grænseværdier fortsat***](/f11_2g_diff/del3.md)                         |
+| d.28/10 | [Grænseværdier fortsat](/f11_2g_diff/del3.md)                         |
+|         |                                                                                                   |
+| d.2/11 | [Kontinuerte funktioner](/f11_2g_diff/del4.md) og [Differentiable funktioner](/f11_2g_diff/del5.md)    |
+|         |                                                                                                   |
 
 </details>
 ---

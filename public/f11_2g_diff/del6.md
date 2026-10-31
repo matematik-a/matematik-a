@@ -1,6 +1,6 @@
 # 2G - Forløb 11 del.5
 ## Emne : Differentianlkvotienten
-### Materiale : PlusA Systime kap 13.2
+### Materiale : PlusA Systime kap 13.3
 
 ----------------------------------
 ----------------------------------
