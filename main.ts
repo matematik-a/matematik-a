@@ -186,6 +186,27 @@ async function readCSSfile(filePath: string): Promise<Response> {
       <td><a href="/a/hold_1a2.md">lektioner 1a2</a></br><a href="/a/hold_2a2.md">lektioner 2a2</a></td>
       <td><a href="/a/hold_1d.md">lektioner 1d</a></td>
       <td><a href="https://matj.dk">formelsamling</a></br><a href="/a/kernestof.md">kernestof/pensum</a></td>
+      <td>
+<div style="display: inline-block; user-select: none; margin: 10px 0;">      
+  <button id="toggle-details-btn" onclick="toggleAllDetails()" style="background: transparent; border: 1px solid currentColor; padding: 6px 12px; border-radius: 4px; cursor: pointer; opacity: 0.8;">Åbn alle</button>
+</div>
+<script>
+  function toggleAllDetails() {
+    const detailsElements = document.querySelectorAll('details');
+    const btn = document.getElementById('toggle-details-btn');
+    
+    // Tjek om mindst én details-blok i øjeblikket er lukket
+    const hasClosed = Array.from(detailsElements).some(d => !d.open);
+
+    // Hvis der er lukkede blokke, åbnes alle. Ellers lukkes alle.
+    detailsElements.forEach(d => d.open = hasClosed);
+
+    // Opdater knappens tekst
+    btn.textContent = hasClosed ? 'Luk alle' : 'Åbn alle';
+  }
+</script>
+</td>
+
     </tr>
   </tbody>
 </table>
