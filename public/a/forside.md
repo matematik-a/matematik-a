@@ -2,11 +2,15 @@
 
 ## Grundforløb : GF9 og GF1
 
+### [hold GF7](https://grundforlob.matematik.deno.net/)
+
 ### [hold GF9 og GF1](https://github.com/matematikgf/matematikgf/blob/matematikgf_25_26/a/forside.md)
 
 ---
 
 ## Oversigt og materialer 1G
+
+### [hold 1d](/a/hold_1d.md)
 
 ### [hold 1a2 - klik her](/a/hold_1a2.md)
 
