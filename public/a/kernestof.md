@@ -1,22 +1,21 @@
 
  
-## 1a1 samlet pensumsoversigt (( kernestof )) for matematik A
+## Samlet pensumsoversigt (( kernestof )) for matematik A
 #### Fra afsnit 2.2 fra undervisningsministeriets bekendtgørelse - matematik A - htx,august 2024
-##### Gennemgået stof markeres med gult
 
 ---------------------------------
 
 ***grundlæggende regnefærdigheder;*** regningsarternes hierarki, reduktion, faktorisering, regler for regning med potenser og
 rødder, logaritmer og numerisk værdi, forholds- og procentregning, overslagsregning, ligefrem og omvendt proportionalitet
 
-***funktionsbegrebet;*** repræsentationsformer, <mark>definitions- og værdimængde</mark>, fortegnsvariation, monotoniforhold, beskrivelse
+***funktionsbegrebet;*** repræsentationsformer, definitions- og værdimængde, fortegnsvariation, monotoniforhold, beskrivelse
 ud fra en grafisk repræsentation
 
 ***karakteristiske egenskaber ved funktioner;*** lineære funktioner, polynomier, eksponentielle udviklinger- og logaritmefunktioner, potensfunktioner og trigonometriske funktioner samt sammensatte og stykkevist definerede funktioner
 
 ***ligningsløsning;*** analytisk, grafisk og ved hjælp af it
 
-***regression;*** <mark>xy-plot af datamateriale samt karakteristiske egenskaber ved lineære</mark>, eksponentielle, potens og polynomielle sammenhænge samt lineær, eksponentiel, potens og polynomiel regression
+***regression;*** xy-plot af datamateriale samt karakteristiske egenskaber ved lineære, eksponentielle, potens og polynomielle sammenhænge samt lineær, eksponentiel, potens og polynomiel regression
 
 ***differentialregning;*** begreberne grænseværdi, kontinuitet og differentiabilitet samt definition og fortolkning af differentialkvotient, tangentligning, væksthastighed, differentialkvotientens sammenhæng med monotoniforhold, ekstrema og optimering samt bestemmelse af den afledede funktion for lineære funktioner, polynomier, eksponentielle udviklinger og logaritmefunktioner, potensfunktioner og trigonometriske funktioner, regneregler for differentiation af sum, differens og produkt af to funktioner samt funktion multipliceret med konstant og sammensætning af to funktioner
 
@@ -24,7 +23,7 @@ ud fra en grafisk repræsentation
 
 ***differentialligningsbegrebet;*** eftervisning af løsning ved indsættelse, fuldstændig og partikulær løsning, Eulers metode, løsningskurver og linjeelementernes sammenhæng med disse
 
-***grundlæggende klassisk geometri og trigonometri;*** <mark>forholdsberegninger i ligedannede trekanter, beregninger i retvinklede og vilkårlige trekanter</mark>, bestemmelse af areal af plane figurer samt volumen og overfladeareal af rumlige figurer
+***grundlæggende klassisk geometri og trigonometri;*** forholdsberegninger i ligedannede trekanter, beregninger i retvinklede og vilkårlige trekanter, bestemmelse af areal af plane figurer samt volumen og overfladeareal af rumlige figurer
 
 ***analytisk plangeometri;*** punkt, linje, parabel og cirkel, skæringer og afstande
 

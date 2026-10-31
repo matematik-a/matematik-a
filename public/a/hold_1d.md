@@ -6,9 +6,9 @@
 <details open>
   <summary>Trigonometri forløb</summary>
 
-| Uge | Dato    | Emne                                                                                   | Aflevering - Projekt - Bevis - Test                              |
+| Uge | Dato     | Emne                                                                                   | Aflevering - Projekt - Bevis - Test                              |
 | --- | -------- | ------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
-|     |          | [Grundlæggende om trekanter & Ensvinklede trekanter](/f1_trig/del1_trekanter/del1.md) |                                                                  |
+| 45  | 2/11     | [Grundlæggende om trekanter & Ensvinklede trekanter](/f1_trig/del1_trekanter/del1.md) |                                                                  |
 |     |          | Pythagoras <!--(/f1_trig/del2_trekanter/del21_1a1.md)-->                              | Bevis 1 : Pythagoras                                             |
 |     |          | Maple træning 1.del<!--(/f1_trig/del3_maple1/del3.md)-->                              |                                                                  |
 |     |          |                                                                                       | Aflevering 1<!--(/afleveringer/afl1.pdf)-->                       |

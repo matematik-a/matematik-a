@@ -185,7 +185,7 @@ async function readCSSfile(filePath: string): Promise<Response> {
       <td><a href="/a/hold_1a1.md">lektioner 1a1</a></br><a href="/a/hold_2a1.md">lektioner 2a1</a></td>
       <td><a href="/a/hold_1a2.md">lektioner 1a2</a></br><a href="/a/hold_2a2.md">lektioner 2a2</a></td>
       <td><a href="/a/hold_1d.md">lektioner 1d</a></td>
-      <td><a href="https://matj.dk">formelsamling</a></td>
+      <td><a href="https://matj.dk">formelsamling</a></br><a href="/a/kernestof.md">kernestof/pensum</a></td>
     </tr>
   </tbody>
 </table>

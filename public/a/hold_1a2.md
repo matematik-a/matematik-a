@@ -1,9 +1,6 @@
 # 1a2 - MAT A
 
 ---
-
-### [samlet pensum for 1a2 - klik her ](/a/kernestof_1a2.md)
-
 ---
 
 <details>
@@ -174,7 +171,7 @@ Lineær regression
 
 ---
 
-<details open>
+<details>
   <summary>Repetition & Ekstra</summary>
 
 | Lektion | Beskrivelse                                                                    |
