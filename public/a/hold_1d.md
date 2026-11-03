@@ -8,8 +8,8 @@
 
 | Uge | Dato     | Emne                                                                                   | Aflevering - Projekt - Bevis - Test                              |
 | --- | -------- | ------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| 45  | 2/11     | [Grundlæggende om trekanter & Ensvinklede trekanter](/f1_trig/del1_trekanter/del1.md) |                                                                  |
-|     |          | Pythagoras <!--(/f1_trig/del2_trekanter/del21_1a1.md)-->                              | Bevis 1 : Pythagoras                                             |
+| 45  | 2/11-26  | [Grundlæggende om trekanter & Ensvinklede trekanter](/f1_trig/del1_trekanter/del1.md) |                                                                  |
+|     | 3/11-26  | [Pythagoras & Cosinius, sinus og tangens](/f1_trig/del2_trekanter/del2.md)            | Bevis 1 : Pythagoras                                             |
 |     |          | Maple træning 1.del<!--(/f1_trig/del3_maple1/del3.md)-->                              |                                                                  |
 |     |          |                                                                                       | Aflevering 1<!--(/afleveringer/afl1.pdf)-->                       |
 |     |          | Cosinus, Sinus og Tangens<!--(/f1_trig/del2_trekanter/del22_1a1.md)-->                |                                                                  |
