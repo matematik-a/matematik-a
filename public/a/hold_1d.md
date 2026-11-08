@@ -11,7 +11,7 @@
 | 45  | 2/11-26  | [Grundlæggende om trekanter & Ensvinklede trekanter](/f1_trig/del1_trekanter/del1.md) |                                                                  |
 |     | 3/11-26  | [Pythagoras & Cosinius, sinus og tangens](/f1_trig/del2_trekanter/del2.md)            | Bevis 1 : Pythagoras                                             |
 |     | 8/11-26  |                                                                                       | [Aflevering 1](/afleveringer/afl1.pdf)                           |
-|     |          | Maple træning 1.del<!--(/f1_trig/del3_maple1/del3.md)-->                              |                                                                  |
+|     |          | [Maple træning 1.del](/f1_trig/del3_maple1/del3.md)                                     |                                                                  |
 |     |          | Cosinus, Sinus og Tangens<!--(/f1_trig/del2_trekanter/del22_1a1.md)-->                |                                                                  |
 |     |          | Retvinklede trekanter<!--(/f1_trig/del4_trig_retvinkel/del4.md)-->                    | Bevis 2 : Trig. relationer i retvinklet trekant                  |
 |     |          | Træning af beviser                                                                    | Bevis 3 : Sinusrelationer højde inde                             |

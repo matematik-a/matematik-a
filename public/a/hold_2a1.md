@@ -75,12 +75,14 @@
 
 | Lektion | Beskrivelse                                                                                       |
 | ------- | ------------------------------------------------------------------------------------------------- |
-| d.27/10 | [Differentialregning opstart - Grænseværdier](/f11_2g_diff/del1.md)                         |
+| d.27/10 | [Differentialregning opstart - Grænseværdier, kap 13.1](/f11_2g_diff/del1.md)                     |
 |         |                                                                                                   |
-| d.28/10 | [Grænseværdier fortsat](/f11_2g_diff/del3.md)                         |
+| d.28/10 | [Grænseværdier fortsat, kap 13.1](/f11_2g_diff/del3.md)                                           |
 |         |                                                                                                   |
-| d.2/11 | [Kontinuerte funktioner](/f11_2g_diff/del4.md) og [Differentiable funktioner](/f11_2g_diff/del5.md)    |
+| d.2/11  | [Kontinuerte funktioner, kap 13.1](/f11_2g_diff/del4.md) og [Differentiable funktioner, kap 13.2](/f11_2g_diff/del5.md) |
 |         |                                                                                                   |
+| d.9/11  | [Differentialkvotient 13.3](/f11_2g_diff/del6.md) og  [Regneregler for differentiation 13.4](/f11_2g_diff/del8.md)  | 
+
 
 </details>
 
