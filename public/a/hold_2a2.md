@@ -88,7 +88,7 @@
 |         |                                                                                                   |
 | d.30/10 | [Differentialkvotient, kap 13.3](/f11_2g_diff/del6.md) og [Bevis disse differentialkvotienter](/f11_2g_diff/del7.md)  |
 |         |                                                                                                   |
-| d.10/11 | [Regneregler for differentiation 13.4](/f11_2g_diff/del8.md) og  |
+| d.10/11 | [Regneregler for differentiation 13.4](/f11_2g_diff/del8.md) og [Afledet funktion 13.5](/f11_2g_diff/del9.md) |
 
 </details>
 
