@@ -82,11 +82,13 @@
 |         |                                                                                                   |
 | d.20/10 | [Arbejd-selv : Projekt udvidelse og Abacus Opgaver](/f11_2g_diff/arbejdselv1.md)                  |
 |         |                                                                                                   |
-| d.21/10 | [Grænseværdier fortsat & Projekt-udvidelsen ](/f11_2g_diff/del3.md)                               |
+| d.21/10 | [Grænseværdier fortsat & Projekt-udvidelsen, kap 13.1](/f11_2g_diff/del3.md)                               |
 |         |                                                                                                   |
-| d.26/10 | [Kontinuerte funktioner](/f11_2g_diff/del4.md) og [Differentiable funktioner](/f11_2g_diff/del5.md)    |
+| d.26/10 | [Kontinuerte funktioner, kap 13.1](/f11_2g_diff/del4.md) og [Differentiable funktioner, kap 13.2](/f11_2g_diff/del5.md)    |
 |         |                                                                                                   |
-| d.30/10 | [Differentialkvotient](/f11_2g_diff/del6.md) og [Bevis disse differentialkvotienter 1](/f11_2g_diff/del7.md)  |
+| d.30/10 | [Differentialkvotient, kap 13.3](/f11_2g_diff/del6.md) og [Bevis disse differentialkvotienter](/f11_2g_diff/del7.md)  |
+|         |                                                                                                   |
+| d.10/11 | [Regneregler for differentiation 13.4](/f11_2g_diff/del8.md) og  |
 
 </details>
 
