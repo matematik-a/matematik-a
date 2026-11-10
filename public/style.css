@@ -49,7 +49,7 @@ table, td, th {
     padding: 10px;
     border: 1px solid #144914;
     background-color: #aaac98;
-
+    vertical-align: top;
 }
 
 table {
