@@ -185,7 +185,7 @@ async function readCSSfile(filePath: string): Promise<Response> {
       <td><a href="/a/hold_1a1.md">lektioner 1a1</a></br><a href="/a/hold_2a1.md">lektioner 2a1</a></td>
       <td><a href="/a/hold_1a2.md">lektioner 1a2</a></br><a href="/a/hold_2a2.md">lektioner 2a2</a></td>
       <td><a href="/a/hold_1d.md">lektioner 1d</a></td>
-      <td><a href="https://matj.dk">formelsamling</a></br><a href="/a/kernestof.md">kernestof/pensum</a></td>
+      <td><a href="https://matj.dk">formelsamling</a></br><a href="/a/kernestof.md">kernestof/pensum</a></br><a href="/projekter/projektOversigt.md">projekt-oversigt</a></td>
       <td>
 <div style="display: inline-block; user-select: none; margin: 10px 0;">      
   <button id="toggle-details-btn" onclick="toggleAllDetails()" style="background: transparent; border: 1px solid currentColor; padding: 6px 12px; border-radius: 4px; cursor: pointer; opacity: 0.8;">Åbn alle</button>
