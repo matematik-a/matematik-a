@@ -10,14 +10,14 @@
 | --- | -------- | ------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
 | 45  | 2/11-26  | [Grundlæggende om trekanter & Ensvinklede trekanter](/f1_trig/del1_trekanter/del1.md) | Sætning 1 : Topvinkler </br> Sætning 2 : Ensvinklede trekanter       |
 |     | 3/11-26  | [Pythagoras & Cosinius, sinus og tangens](/f1_trig/del2_trekanter/del2.md)            | Bevis 1 : Pythagoras                                             |
-|     | 8/11-26  |                                                                                       | [Aflevering 1](/afleveringer/afl1.pdf)                           |
+|     | 8/11-26  |                                                                                       | ***[Aflevering 1](/afleveringer/afl1.pdf)***                           |
 | 46  | 9/11-26  | [Maple træning 1.del](/f1_trig/del3_maple1/del3.md)                                   |                                                                  |
 |     |11/11-26  | [Retvinklede trekanter](/f1_trig/del4_trig_retvinkel/del4.md)                         | Bevis 2 : Trig. relationer i retvinklet trekant                  |
-|     |          | Træning af beviser                                                                    | Bevis 3 : Sinusrelationer højde inde                             |
-|     |          | ***TEST 1***                                                                          | ***TEST 1 -Trigonometri***<!--(/afleveringer/test1/test1.md)-->     |
-|     |          |                                                                                       | Aflevering 2<!--(/afleveringer/afl2.md)-->                       |
+|     |13/11-26  | [Retvinklede trekanter & Sinusrelationer](/f1_trig/del4B_sinusrelationer/del4B.md)    | Bevis 3 : Sinusrelationer højde inde                             |
+|     |16/11-26  | Opgaveregning og Radianer<!--(/f1_trig/del8_EfterTest1/opgPlusA612til628.pdf)-->      |                                                                  |
+|     |23/11-26  | ***TEST 1***                                                                          | ***TEST 1 -Trigonometri***<!--(/afleveringer/test1/test1.md)-->     |
 |     |          | Opfølgning på test & bevis træning<!--(/f1_trig/del8_EfterTest1/del8_efterTest1.md)-->| Bevis 4 : Sinus og Cosinusrelationerne                           |
-|     |          | Opgaveregning<!--(/f1_trig/del8_EfterTest1/opgPlusA612til628.pdf)-->                  |                                                                  |
+|     |          |                                                                                       | Aflevering 2<!--(/afleveringer/afl2.md)-->                       |
 |     |          | Formelsamling og Metaopgave<!--(/f1_trig/del7_cosinusrelationer/del73.md)-->          |                                                                  |
 |     |          | Matematikprojekt II, maks 3 personer <!--(/f1_trig/projekter/trig_cykelstel.pdf)-->   |                                                                  |
 |     |          | Fagliglæsning - Euklid's Elementerne<!--(/f1_trig/del9_fagliglaes/del9.md)-->         |                                                                  |
