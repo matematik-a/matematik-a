@@ -5,7 +5,7 @@
 ----------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------
 
-Vi kalder differentialkvotienten for den afledede funktion, og den betegnes med \(f'(x)\) eller \(\frac{dy}{dx}\)
+Vi kalder differentialkvotienten for den afledede funktion, og den betegnes med \(f'(x)\) eller \(\frac{dy}{dx}\) eller $\frac{df(x)}{dx}$
 
 Hvor $f'(x_0)$ bare er et tal, er \(f'(x)\) en funktion, som kan bestemmes for alle x tilhørende Dm.
 
@@ -18,4 +18,4 @@ Hvad tror du forskellen er på \(\frac{dy}{dx}\) og \(\frac{\Delta y}{\Delta x}\
 ----------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------
 
-Opgave 13.5.1 , 13.5.2
+## Lav øvelse 13.5.2
