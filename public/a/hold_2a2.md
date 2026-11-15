@@ -89,7 +89,16 @@
 | d.30/10 | [Differentialkvotient, kap 13.3](/f11_2g_diff/del6.md) og [Bevis disse differentialkvotienter](/f11_2g_diff/del7.md)  |
 |         |                                                                                                   |
 | d.10/11 | [Regneregler for differentiation 13.4](/f11_2g_diff/del8.md) og [Afledet funktion 13.5](/f11_2g_diff/del9.md) |
-
+|         |                                                                                                   |
+| -       | kap.13.5 + 13.6                                                                                   |
+|         |                                                                                                   |
+| -       | kap.13.7 + 13.8                                                                                   |
+|         |                                                                                                   |
+| -       | kap.13.9 + 13.10                                                                                  |
+|         |                                                                                                   |
+| -       | TEST                                                                                              |
+|         |                                                                                                   |
+| -       | Projekt i differentialregning ca. 8 moduler, det meste af december                                |
 </details>
 
 ---

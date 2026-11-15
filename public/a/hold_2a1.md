@@ -84,6 +84,14 @@
 | d.9/11  | [Differentialkvotient 13.3](/f11_2g_diff/del6.md) og  [Regneregler for differentiation 13.4](/f11_2g_diff/del8.md)  | 
 |         |                                                                                                   |
 | d.16/11 | [Afledt funktion 13.5](/f11_2g_diff/del9.md) og  [Differentiation af kendte funktioner 13.6](/f11_2g_diff/del10.md)  | 
+|         |                                                                                                   |
+| d.19/11 | kap.13.7 + 13.8                                                                                   |
+|         |                                                                                                   |
+| d.23/11 | kap.13.9 + 13.10                                                                                  |
+|         |                                                                                                   |
+| d.26/11 | TEST                                                                                              |
+|         |                                                                                                   |
+| -       | Projekt i differentialregning ca. 8 moduler, det meste af december                                |
 
 </details>
 
