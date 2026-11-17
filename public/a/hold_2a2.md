@@ -86,13 +86,11 @@
 |         |                                                                                                   |
 | d.26/10 | [Kontinuerte funktioner, kap 13.1](/f11_2g_diff/del4.md) og [Differentiable funktioner, kap 13.2](/f11_2g_diff/del5.md)    |
 |         |                                                                                                   |
-| d.30/10 | [Differentialkvotient, kap 13.3](/f11_2g_diff/del6.md) og [Bevis disse differentialkvotienter](/f11_2g_diff/del7.md)  |
+| d.30/10 | [Differentialkvotient, kap 13.3](/f11_2g_diff/del6.md) og [Ekstra opgave: bevis disse differentialkvotienter](/f11_2g_diff/del7.md)  |
 |         |                                                                                                   |
-| d.10/11 | [Regneregler for differentiation 13.4](/f11_2g_diff/del8.md) og [Afledet funktion 13.5](/f11_2g_diff/del9.md) |
+| d.17/11 | [Regneregler for differentiation 13.4](/f11_2g_diff/del8.md) + [Afledt funktion 13.5](/f11_2g_diff/del9.md) , [Differentiation af kendte funktioner 13.6](/f11_2g_diff/del10.md)   |
 |         |                                                                                                   |
-| d.17/11 | kap.13.6 + kap.13.7 + 13.8                                                                        |
-|         |                                                                                                   |
-| d.20/12 | kap.13.9 + 13.10                                                                                  |
+| d.20/12 | kap.13.7 + kap.13.8 + kap.13.9                                                                    |
 |         |                                                                                                   |
 | d.1/12  | TEST                                                                                              |
 |         |                                                                                                   |

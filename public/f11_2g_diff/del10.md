@@ -1,4 +1,4 @@
-# 2G - Forløb 11 del.9
+# 2G - Forløb 11 del.10
 ## Emne : Differentiation af kendte funktioner
 ### Materiale : PlusA Systime kap 13.6
 
@@ -58,17 +58,21 @@ Vi ønsker at bevise at : $ \Large f(x) = x^n $ differentieret er   $ \Large f'(
 
 $ \LARGE \frac{(x+h)^n-x^{n}}{h} $
 
-## 2 - det første led i tælleren er :
+### 2 – Det første led i tælleren
 
-$ \Large (x+h)^n = (x + h) \cdot ( x + h) \cdot ( x + h) ... ( x + h) = $
+$\Large  (x+h)^n = \underbrace{(x+h) \cdot (x+h) \cdot (x+h) \cdots (x+h)}_{n \text{ faktorer}}$
 
-Ved kun at kigge på de mulige kombinationsmuligheder der er når man ganger de forskellige led sammen i paranteserne ses det at:</br>
-Der forkommer tydeligvis kun led af typen $ x^n$, da den eneste måde at få dette led på er at multiplicere x fra alle paranteserne med hinanden. </br>
-Der forkommer n led af typen $ h \cdot x^{n-1}$, da der i hver parantes er et h og man ved at gange dette h med alle x fra de andre paranteser, kan gøre dette på n måder.</br>
-Tilsidst fokommer der forskellige led hvor h har en eksponent der er 2 eller mere.</br>
-Derved fåes:
+Ved at se på kombinationsmulighederne, når man ganger leddene fra de forskellige parenteser sammen, får man følgende led:
 
-$ \Large x^n + n \cdot h \cdot x^{n-1} + ( \text{ forskellige led } h^k \cdot x^{n-k} \text{, hvor k>=2 } ) $
+| Ledtype | Antal | Forklaring |
+| :--- | :--- | :--- |
+| $x^n$ | $1$ | Man ganger $x$ fra alle parenteserne med hinanden. |
+| $h \cdot x^{n-1}$ | $n$ | Man vælger ét $h$ fra én parentes og $x$ fra de resterende $n-1$ parenteser. Dette kan gøres på $n$ måder. |
+| $h^k \cdot x^{n-k}$ | Flere | Forskellige led, hvor $h$ har en eksponent på $2$ eller derover $(k \geq 2)$. |
+
+Derved fås det samlede udtryk:
+
+$\Large  (x+h)^n = x^n + n \cdot h \cdot x^{n-1} + (\text{forskellige led af typen } h^k \cdot x^{n-k}, \text{ hvor } k \geq 2)$
 
 ## 3 - differenskoefficenten skrives op igen, og reduceres : 
 
@@ -141,6 +145,7 @@ $ (e^{ln(a) \cdot x})' = e^{ln(a) \cdot x} \cdot ln(a) = a^x \cdot ln(a) $
 
 SE BOGEN
 
+$ e^{ln(x)} = x $ , differentier begge sider 
 
 </details>
 
@@ -151,6 +156,8 @@ SE BOGEN
  <summary><h2>Bevis : Logaritmefunktion med base "b" </h2></summary>
 
 PRØV SELV
+
+omskriv $ ln_b(x) = \frac{ln(x)}{ln(b)} $ og brug nu "differentiations regneregler"
 
 
 </details>
