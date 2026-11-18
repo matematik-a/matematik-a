@@ -90,9 +90,9 @@
 |         |                                                                                                   |
 | d.17/11 | [Regneregler for differentiation 13.4](/f11_2g_diff/del8.md) + [Afledt funktion 13.5](/f11_2g_diff/del9.md) , [Differentiation af kendte funktioner 13.6](/f11_2g_diff/del10.md)   |
 |         |                                                                                                   |
-| d.20/12 | kap.13.7 + kap.13.8 + kap.13.9                                                                    |
+| d.20/12 | [Matrix-grupper bevis-træning](/f11_2g_diff/del11_2A2.md) + [Tangent-ligning kap.13.7 og Monotoniforhold kap.13.8](/f11_2g_diff/del12.md) |
 |         |                                                                                                   |
-| d.1/12  | TEST                                                                                              |
+| d.1/12  | kap13.9 + kap13.10 + TEST                                                                         |
 |         |                                                                                                   |
 | -       | Projekt i differentialregning ca. 8 moduler, det meste af december                                |
 </details>

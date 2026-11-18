@@ -11,7 +11,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #aaad83;
+    background-color: #83a4ad;
     margin: 0;
     padding: 20px;
     display: flex;
@@ -33,12 +33,12 @@ summary{
 }
 
 details {
-    background-color: #9a9e79;
+    background-color: #83a2ad;
 }
 
 details, ul, ol, table, td, th {
     /*font-size: 14px;*/
-    color: #144914;
+    color: #000000;
     /* background-color: lightblue; */
   /*  background-color: #aaac98;*/
 
@@ -47,7 +47,7 @@ details, ul, ol, table, td, th {
 table, td, th {
     margin: 20px 0;
     padding: 10px;
-    border: 1px solid #144914;
+    border: 1px solid #ffffff;
     background-color: #aaac98;
     vertical-align: top;
 }
