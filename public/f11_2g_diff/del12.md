@@ -34,6 +34,6 @@ Fremgangsmåden er at bestemme differentialkvotienten, finde de steder hvor den 
 ### Forsøg at lave disse opgaver uden brug af CAS
 I disse opgaver skal du kigge i tabellen for differentialkvotienten for de mest kendte funktioner, og regnereglerne for differentiation, og derefter bestemme ligningen for tangenten i de forskellige punkter.
 
-## opgver 13.8.9 , 13.8.11 , 13.8.13 og 13.8.15
+## opgver 13.8.9 , 13.8.11 , 13.8.14 og 13.8.16
 ### Forsøg at lave disse opgaver uden brug af CAS
 I disse opgaver skal du kigge i tabellen for differentialkvotienten for de mest kendte funktioner, og regnereglerne for differentiation, og derefter bestemme ligningen for tangenten i de forskellige punkter.

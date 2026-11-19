@@ -11,7 +11,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #83a4ad;
+    background-color: #9fb8be;
     margin: 0;
     padding: 20px;
     display: flex;
@@ -48,7 +48,7 @@ table, td, th {
     margin: 20px 0;
     padding: 10px;
     border: 1px solid #ffffff;
-    background-color: #aaac98;
+    background-color: #97bac7;
     vertical-align: top;
 }
 
