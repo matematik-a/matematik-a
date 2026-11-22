@@ -85,11 +85,11 @@
 |         |                                                                                                   |
 | d.16/11 | [Afledt funktion 13.5](/f11_2g_diff/del9.md) og  [Differentiation af kendte funktioner 13.6](/f11_2g_diff/del10.md)  | 
 |         |                                                                                                   |
-| d.19/11 | [Matrix-grupper bevis-træning](/f11_2g_diff/del11_2A1.md) og + [Tangent-ligning kap.13.7 og Monotoniforhold kap.13.8](/f11_2g_diff/del12.md)   |
+| d.19/11 | [Matrix-grupper bevis-træning](/f11_2g_diff/del11_2A1.md)  |
 |         |                                                                                                   |
-| d.23/11 | kap.13.9 + 13.10                                                                                  |
+| d.23/11 | [Alternative beviser](/f11_2g_diff/del13.md) og [Tangent-ligning kap.13.7 og Monotoniforhold kap.13.8](/f11_2g_diff/del12.md)   |
 |         |                                                                                                   |
-| d.26/11 | TEST                                                                                              |
+| d.30/11 | TEST                                                                                              |
 |         |                                                                                                   |
 | -       | Projekt i differentialregning ca. 8 moduler, det meste af december                                |
 

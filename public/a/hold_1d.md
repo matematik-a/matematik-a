@@ -15,7 +15,7 @@
 |     |11/11-26  | [Retvinklede trekanter](/f1_trig/del4_trig_retvinkel/del4.md)                         | Bevis 2 : Trig. relationer i retvinklet trekant                  |
 |     |13/11-26  | [Retvinklede trekanter & Sinusrelationer](/f1_trig/del4B_sinusrelationer/del4B.md)    | Bevis 3 : Sinusrelationer højde inde                             |
 |     |16/11-26  | [Opgaveregning og Radianer og Inverse-funktioner](/f1_trig/del5B/del5B.md)            |                                                                  |
-|     |23/11-26  | ***TEST 1***                                                                          | ***TEST 1 -Trigonometri***<!--(/afleveringer/test1/test1.md)-->     |
+|     |23/11-26  | [***TEST 1*** & Træning](/f1_trig/del5C_TEST/del5C_TEST.md)                           | ***TEST 1 -Trigonometri***<!--(/afleveringer/test1/test1.md)-->     |
 |     |          | Opfølgning på test & bevis træning<!--(/f1_trig/del8_EfterTest1/del8_efterTest1.md)-->| Bevis 4 : Sinus og Cosinusrelationerne                           |
 |     |          |                                                                                       | Aflevering 2<!--(/afleveringer/afl2.md)-->                       |
 |     |          | Formelsamling og Metaopgave<!--(/f1_trig/del7_cosinusrelationer/del73.md)-->          |                                                                  |
