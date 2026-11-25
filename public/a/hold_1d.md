@@ -18,7 +18,7 @@
 | 48  |23/11-26  | [***TEST 1*** & Træning](/f1_trig/del5C_TEST/del5C_TEST.md)                           | ***TEST 1 -Trigonometri***<!--(/afleveringer/test1/test1.md)-->  |
 |     |25/11-26  | [Eksakte værdier for cos,sin og tan](/f1_trig/del5_trig_ovelser/del5.md)              |                                                                  |
 |     |          |                                                                                       |                                                                  |
-|     |          | Opfølgning på test & bevis træning<!--(/f1_trig/del8_EfterTest1/del8_efterTest1.md)-->| Bevis 4 : Sinus og Cosinusrelationerne                           |
+|     |          | Opfølgning på test & bevis træning<!--(/f1_trig/del8_EfterTest1/del8_efterTest1.md)-->| Bevis 4 : Cosinusrelationen.                                     |
 |     |          |                                                                                       | Aflevering 2<!--(/afleveringer/afl2.md)-->                       |
 |     |          | Formelsamling og Metaopgave<!--(/f1_trig/del7_cosinusrelationer/del73.md)-->          |                                                                  |
 |     |          | Matematikprojekt II, maks 3 personer <!--(/f1_trig/projekter/trig_cykelstel.pdf)-->   |                                                                  |
