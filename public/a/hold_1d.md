@@ -6,16 +6,18 @@
 <details open>
   <summary>Trigonometri forløb</summary>
 
-| Uge | Dato     | Emne                                                                                  | Aflevering-Projekt-Test  &   Sætning-Bevis                 |
+| Uge | Dato     | Emne                                                                                  | Aflevering-Projekt-Test  &   Sætning-Bevis                       |
 | --- | -------- | ------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| 45  | 2/11-26  | [Grundlæggende om trekanter & Ensvinklede trekanter](/f1_trig/del1_trekanter/del1.md) | Sætning 1 : Topvinkler </br> Sætning 2 : Ensvinklede trekanter       |
+| 45  | 2/11-26  | [Grundlæggende om trekanter & Ensvinklede trekanter](/f1_trig/del1_trekanter/del1.md) | Sætning 1 : Topvinkler </br> Sætning 2 : Ensvinklede trekanter   |
 |     | 3/11-26  | [Pythagoras & Cosinius, sinus og tangens](/f1_trig/del2_trekanter/del2.md)            | Bevis 1 : Pythagoras                                             |
-|     | 8/11-26  |                                                                                       | ***[Aflevering 1](/afleveringer/afl1.pdf)***                           |
+|     | 8/11-26  |                                                                                       | ***[Aflevering 1](/afleveringer/afl1.pdf)***                     |
 | 46  | 9/11-26  | [Maple træning 1.del](/f1_trig/del3_maple1/del3.md)                                   |                                                                  |
 |     |11/11-26  | [Retvinklede trekanter](/f1_trig/del4_trig_retvinkel/del4.md)                         | Bevis 2 : Trig. relationer i retvinklet trekant                  |
 |     |13/11-26  | [Retvinklede trekanter & Sinusrelationer](/f1_trig/del4B_sinusrelationer/del4B.md)    | Bevis 3 : Sinusrelationer højde inde                             |
-|     |16/11-26  | [Opgaveregning og Radianer og Inverse-funktioner](/f1_trig/del5B/del5B.md)            |                                                                  |
-|     |23/11-26  | [***TEST 1*** & Træning](/f1_trig/del5C_TEST/del5C_TEST.md)                           | ***TEST 1 -Trigonometri***<!--(/afleveringer/test1/test1.md)-->     |
+| 47  |16/11-26  | [Opgaveregning og Radianer og Inverse-funktioner](/f1_trig/del5B/del5B.md)            |                                                                  |
+| 48  |23/11-26  | [***TEST 1*** & Træning](/f1_trig/del5C_TEST/del5C_TEST.md)                           | ***TEST 1 -Trigonometri***<!--(/afleveringer/test1/test1.md)-->  |
+|     |25/11-26  | [Eksakte værdier for cos,sin og tan](/f1_trig/del5_trig_ovelser/del5.md)              |                                                                  |
+|     |          |                                                                                       |                                                                  |
 |     |          | Opfølgning på test & bevis træning<!--(/f1_trig/del8_EfterTest1/del8_efterTest1.md)-->| Bevis 4 : Sinus og Cosinusrelationerne                           |
 |     |          |                                                                                       | Aflevering 2<!--(/afleveringer/afl2.md)-->                       |
 |     |          | Formelsamling og Metaopgave<!--(/f1_trig/del7_cosinusrelationer/del73.md)-->          |                                                                  |

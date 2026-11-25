@@ -1,9 +1,38 @@
 
-# Opgaveregning: Trigonometriske funktioner - del 5
+# Opgaveregning: Eksakte værdier for cos,sin og tan - del 5
 
-## opgaver uden brug af hjælpe midler - kun papir og blyant
+
 
 ---
+
+### Hvorfor er eksakte værdier vigtige...
+
+I matematik er det vigtigt at kunne bestemme eksakte værdier da disse ofte bruges i beviser og udledninger.
+
+  Eksakte værdier er værdier som kan udtrykkes præcist uden brug af decimaltal eller tilnærmelser.
+  
+  F.eks. er en eksakt værdi:
+  
+  $$ \sin(60^\circ) = \frac{\sqrt{3}}{2} $$ 
+  
+  mens
+  
+  $$ \xcancel{ \sin(60^\circ) \approx 0.866 } $$ er en tilnærmet værdi.
+  
+  Eller en andern eksakt værdi kunne være:
+
+  $$ \cos(45^\circ) = \sqrt{\frac{1}{2}} $$
+
+  Og ikke:
+
+  $$ \xcancel{ \cos(45^\circ) \approx 0.707 } $$
+
+***Læg mærke til at vi også foretrækker at skrive brøker fremfor decimaltal når det er muligt.***
+
+
+---
+
+## Opgaver uden brug af hjælpe midler - kun papir og blyant
 
 ### vigtig viden:
 
@@ -15,7 +44,7 @@
 
 ***ensvinklede trekanter***
 
-***vinkelhalveringsformlen***
+***vinkelhalveringsformlen***, hvis du arbejder med en trekant ABC, hvor en vinkelhalveringslinje fra vinkel A rammer den modstående side BC i punktet D, deler linjen siden BC i samme forhold som de to hosliggende sider
 
 ----
 
@@ -96,4 +125,39 @@ Opgave 7
 
 Bestem vha. vinkelhalveringsformlen \(\cos 15^\circ\) og \(\sin 15^\circ\)
 
+----------------------
 
+<!-- ----------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+
+<details>
+  <summary><center>Frivillig ekspertopgave : udled formel for cosinus, sinus og tangens til den halve vinkel</br></center></summary>
+
+  ![](f1_trig/del6_sinusrel_eksakt/EksaktHalv.png)
+
+  <center>  
+
+  ## Udled disse formler:
+
+  $$ \mathbf{cos\left(\frac{\alpha}{2}\right) = \pm \sqrt{\frac{1 + cos(\alpha)}{2}}} $$
+  $$ \mathbf{sin\left(\frac{\alpha}{2}\right) = \pm \sqrt{\frac{1 - cos(\alpha)}{2}}} $$
+  $$ \mathbf{tan\left(\frac{\alpha}{2}\right) = \frac{sin(\alpha)}{1 + cos(\alpha)} = \frac{1 - cos(\alpha)}{sin(\alpha)}} $$
+
+  ## Vha.:
+  
+  ***Ovenstående figur***
+
+  ***Vinkelhalveringsteoremet***
+
+  ***Pythagoras***
+
+  ***Forholdet mellem ensvinklede trekanter***
+
+  ***Idiotformlen $cos(v)^2 + sin(v)^2 = 1$***
+
+  </center>
+</br>
+</details>
+</br>
+
+---
