@@ -89,7 +89,7 @@
 |         |                                                                                                   |
 | d.23/11 | [Alternative beviser](/f11_2g_diff/del13.md) og [Tangent-ligning kap.13.7 og Monotoniforhold kap.13.8](/f11_2g_diff/del12.md)   |
 |         |                                                                                                   |
-| d.26/11 | [Monotoniforhold 13.8 og Væksthastighed 13.9](/f11_2g_diff/del14.md)   |
+| d.26/11 | [Monotoniforhold 13.8 og opgaver](/f11_2g_diff/del14.md)   |
 |         |                                                                                                   |
 | d.30/11 | TEST                                                                                              |
 |         |                                                                                                   |
