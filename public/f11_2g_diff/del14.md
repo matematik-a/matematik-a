@@ -15,7 +15,6 @@ Indenfor funktionsanalyse er monotoni-linjen et vigtigt redskab
 ### lav øvelse 13.8.9 
 ### lav øvelse 13.8.11 
 ### lav øvelse 13.8.14 
-### lav øvelse 13.8.16
 
 ----------------------------------------------------------------------------------------------------------------------
 <!--
@@ -71,6 +70,7 @@ Se specielt eksempel 3, angående marginalomkostninger
 Funktioners optimum findes ved $f'(x) = 0$
 
 ### lav øvelse 13.10.1 
-### lav øvelse 13.10.3 
+### lav øvelse 13.10.2
+### lav øvelse 13.10.3  
 
 ----------------------------------------------------------------------------------------------------------------------
